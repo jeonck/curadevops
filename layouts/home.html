@@ -1,0 +1,25 @@
+{{ define "main" }}
+<p class="tagline">Daily DevOps intelligence with <strong>actionable verdicts</strong> —
+each item judged independently for Platform/SRE engineers, CI/CD engineers, and
+Engineering Leaders, cross-referenced against EOL dates, deprecation deadlines,
+and release signals.</p>
+
+{{ $insights := where site.RegularPages "Section" "insights" }}
+{{ $active := where $insights "Params.status" "active" }}
+
+<h2 class="sec">🔥 Act — needs attention now</h2>
+{{ $act := where $active "Params.verdict" "Act" }}
+{{ range first 20 $act.ByDate.Reverse }}{{ partial "card.html" . }}{{ else }}<p class="empty">Nothing urgent right now — a good day.</p>{{ end }}
+
+<h2 class="sec">📌 Plan — review this quarter</h2>
+{{ $plan := where $active "Params.verdict" "Plan" }}
+{{ range first 20 $plan.ByDate.Reverse }}{{ partial "card.html" . }}{{ else }}<p class="empty">No items</p>{{ end }}
+
+<h2 class="sec">📚 Learn — worth knowing</h2>
+{{ $learn := where $active "Params.verdict" "Learn" }}
+{{ range first 20 $learn.ByDate.Reverse }}{{ partial "card.html" . }}{{ else }}<p class="empty">No items</p>{{ end }}
+
+<h2 class="sec">🗄 Recently archived</h2>
+{{ $archived := where $insights "Params.status" "archived" }}
+{{ range first 10 $archived.ByDate.Reverse }}{{ partial "card.html" . }}{{ else }}<p class="empty">No items</p>{{ end }}
+{{ end }}

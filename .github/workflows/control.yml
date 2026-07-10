@@ -1,0 +1,67 @@
+name: Pipeline Control
+
+# Pause/resume collection from the web (Actions tab):
+# Actions → Pipeline Control → Run workflow → choose action
+# State lives in the .collect-paused marker file at the repo root
+# (GITHUB_TOKEN cannot write repo variables — marker file is the workaround)
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Collection control"
+        required: true
+        type: choice
+        options:
+          - pause
+          - resume
+          - status
+
+permissions:
+  contents: write
+
+concurrency:
+  group: curadevops-pipeline
+  cancel-in-progress: false
+
+jobs:
+  control:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Apply
+        run: |
+          git config user.name "curadevops-bot"
+          git config user.email "actions@users.noreply.github.com"
+          case "${{ inputs.action }}" in
+            pause)
+              if [ -f .collect-paused ]; then
+                echo "### ⏸️ Already paused" >> "$GITHUB_STEP_SUMMARY"
+              else
+                date -u +%FT%TZ > .collect-paused
+                git add .collect-paused
+                git commit -m "chore: pause collection"
+                git push
+                echo "### ⏸️ Collection paused" >> "$GITHUB_STEP_SUMMARY"
+                echo "- daily/weekly cron: collection & judgment skipped" >> "$GITHUB_STEP_SUMMARY"
+                echo "- push-triggered deploys: still active" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              ;;
+            resume)
+              if [ -f .collect-paused ]; then
+                git rm -q .collect-paused
+                git commit -m "chore: resume collection"
+                git push
+                echo "### ▶️ Collection resumed — next cron runs normally" >> "$GITHUB_STEP_SUMMARY"
+              else
+                echo "### ▶️ Collection already running" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              ;;
+            status)
+              if [ -f .collect-paused ]; then
+                echo "### ⏸️ Paused (since $(cat .collect-paused))" >> "$GITHUB_STEP_SUMMARY"
+              else
+                echo "### ▶️ Collection running" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              ;;
+          esac

@@ -1,0 +1,54 @@
+# Weekly batch — Release Radar (Monday cron), per PLAN.md section 4.
+# GitHub releases.atom feeds for core tracked repos; used with FRESH_HOURS=192
+# so a weekly run covers the full week. The pre-judge noise filter drops
+# patch releases (x.y.Z) and pre-release tags automatically — only minor/major
+# releases reach judgment.
+#
+# LWKD / KubeWeekly are deliberately NOT collected: they are curations
+# themselves (re-judging them dilutes value) — use manually as a leads check.
+
+rss:
+  - name: "Releases: kubernetes"
+    url: "https://github.com/kubernetes/kubernetes/releases.atom"
+  - name: "Releases: terraform"
+    url: "https://github.com/hashicorp/terraform/releases.atom"
+  - name: "Releases: opentofu"
+    url: "https://github.com/opentofu/opentofu/releases.atom"
+  - name: "Releases: argo-cd"
+    url: "https://github.com/argoproj/argo-cd/releases.atom"
+  - name: "Releases: flux2"
+    url: "https://github.com/fluxcd/flux2/releases.atom"
+  - name: "Releases: helm"
+    url: "https://github.com/helm/helm/releases.atom"
+  - name: "Releases: istio"
+    url: "https://github.com/istio/istio/releases.atom"
+  - name: "Releases: cilium"
+    url: "https://github.com/cilium/cilium/releases.atom"
+  - name: "Releases: prometheus"
+    url: "https://github.com/prometheus/prometheus/releases.atom"
+  - name: "Releases: grafana"
+    url: "https://github.com/grafana/grafana/releases.atom"
+  - name: "Releases: containerd"
+    url: "https://github.com/containerd/containerd/releases.atom"
+  - name: "Releases: moby"
+    url: "https://github.com/moby/moby/releases.atom"
+  - name: "Releases: compose"
+    url: "https://github.com/docker/compose/releases.atom"
+  - name: "Releases: envoy"
+    url: "https://github.com/envoyproxy/envoy/releases.atom"
+  - name: "Releases: etcd"
+    url: "https://github.com/etcd-io/etcd/releases.atom"
+  - name: "Releases: jenkins"
+    url: "https://github.com/jenkinsci/jenkins/releases.atom"
+  - name: "Releases: ansible"
+    url: "https://github.com/ansible/ansible/releases.atom"
+  - name: "Releases: kustomize"
+    url: "https://github.com/kubernetes-sigs/kustomize/releases.atom"
+  - name: "Releases: backstage"
+    url: "https://github.com/backstage/backstage/releases.atom"
+  - name: "Releases: pulumi"
+    url: "https://github.com/pulumi/pulumi/releases.atom"
+
+reddit: []
+hackernews: []
+github_search: []

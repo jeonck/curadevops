@@ -1,0 +1,13 @@
+<div class="card">
+  <div class="top">
+    {{ with .Params.verdict }}<span class="badge {{ . }}">{{ . }}</span>{{ end }}
+    {{ if eq .Params.status "archived" }}<span class="badge statusarchived">archived</span>{{ end }}
+    <span class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
+  </div>
+  <div class="meta">
+    {{ .Date.Format "2006-01-02" }} · {{ .Params.source_name }} ·
+    <a href="{{ .Params.source }}" target="_blank" rel="noopener">source ↗</a>
+    <span class="tags">{{ range .Params.tags }}<a href="{{ printf "tags/%s/" (urlize .) | relURL }}">#{{ . }}</a>{{ end }}</span>
+  </div>
+  <div class="body">{{ .Content }}</div>
+</div>

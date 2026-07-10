@@ -1,0 +1,69 @@
+# Daily collection sources — all global, matching PLAN.md section 4.
+# Every RSS URL verified HTTP 200 with valid XML on 2026-07-10.
+# require_any: keyword gate for firehose feeds (AWS/GCP/Azure publish across
+# all services daily — only platform/DevOps-relevant services pass).
+
+rss:
+  - name: "Kubernetes Blog"
+    url: "https://kubernetes.io/feed.xml"
+  - name: "CNCF Blog"
+    url: "https://www.cncf.io/feed/"
+  - name: "GitHub Changelog"
+    url: "https://github.blog/changelog/feed/"
+  - name: "GitLab Blog"
+    url: "https://about.gitlab.com/atom.xml"
+  - name: "HashiCorp Blog"
+    url: "https://www.hashicorp.com/blog/feed.xml"
+  - name: "Docker Blog"
+    url: "https://www.docker.com/blog/feed/"
+  - name: "Grafana Blog"
+    url: "https://grafana.com/blog/index.xml"
+  - name: "AWS What's New"
+    url: "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
+    require_any: ["EKS", "ECS", "ECR", "Fargate", "Lambda", "CodeBuild",
+                  "CodePipeline", "CodeDeploy", "CodeArtifact", "CloudFormation",
+                  "CDK", "IAM", "CloudWatch", "EventBridge", "Systems Manager",
+                  "Karpenter", "App Runner", "EC2", "VPC", "Terraform"]
+  - name: "GCP Release Notes"
+    url: "https://cloud.google.com/feeds/gcp-release-notes.xml"
+    require_any: ["GKE", "Kubernetes", "Cloud Build", "Cloud Deploy", "Cloud Run",
+                  "Artifact Registry", "Compute Engine", "Terraform", "IAM",
+                  "Cloud Monitoring", "Cloud Logging"]
+  - name: "Azure Updates"
+    url: "https://www.microsoft.com/releasecommunications/api/v2/azure/rss"
+    require_any: ["AKS", "Kubernetes", "DevOps", "Container", "Functions",
+                  "Bicep", "Terraform", "Monitor", "Virtual Machines"]
+
+# Low priority — cloud IPs (GitHub Actions) often get 403 from reddit's .json
+# API; per-source error isolation keeps the rest of the run healthy.
+reddit:
+  - subreddit: "devops"
+    listing: "top"
+    t: "day"
+    min_score: 30
+  - subreddit: "kubernetes"
+    listing: "top"
+    t: "day"
+    min_score: 30
+  - subreddit: "sre"
+    listing: "top"
+    t: "day"
+    min_score: 15
+
+hackernews:
+  # hnrss.org: https://hnrss.org/newest?q=QUERY&points=N
+  - query: "kubernetes"
+    min_points: 80
+  - query: "devops"
+    min_points: 50
+  - query: "terraform"
+    min_points: 40
+  - query: "docker"
+    min_points: 80
+
+# created:>N days + star thresholds return 0 on many days (normal).
+github_search:
+  - query: "topic:devops stars:>50"
+    days_back: 14
+  - query: "topic:kubernetes stars:>50"
+    days_back: 14

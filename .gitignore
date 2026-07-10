@@ -1,0 +1,12 @@
+.env
+public/
+resources/
+.hugo_build.lock
+__pycache__/
+*.pyc
+.DS_Store
+
+# local-only files
+.claude/
+PLAN.md
+.venv/

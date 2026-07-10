@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="single">
+  <div class="top">
+    {{ with .Params.verdict }}<span class="badge {{ . }}">{{ . }}</span>{{ end }}
+    {{ with .Params.status }}<span class="badge status{{ . }}">{{ . }}</span>{{ end }}
+  </div>
+  <h1>{{ .Title }}</h1>
+  {{ if .Params.source }}
+  <div class="meta">
+    {{ .Date.Format "2006-01-02 15:04" }} UTC · {{ .Params.source_name }} ·
+    <a href="{{ .Params.source }}" target="_blank" rel="noopener">read the source ↗</a>
+    <span class="tags">{{ range .Params.tags }}<a href="{{ printf "tags/%s/" (urlize .) | relURL }}">#{{ . }}</a>{{ end }}</span>
+  </div>
+  {{ end }}
+  <div class="content">{{ .Content }}</div>
+  {{ if .Params.verdict }}
+  <div class="disclosure">
+    This entry was curated and judged by AI (Claude) with automated enrichment
+    (CISA KEV / EPSS / public PoC). Verify against the original source before
+    acting. Found a bad verdict?
+    <a href="https://github.com/jeonck/curadevops/issues">Report it</a> —
+    confirmed errors go to the <a href="{{ "corrections/" | relURL }}">corrections log</a>.
+  </div>
+  {{ end }}
+</article>
+{{ end }}

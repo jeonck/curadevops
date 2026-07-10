@@ -1,0 +1,25 @@
+baseURL = "https://jeonck.github.io/curadevops/"
+languageCode = "en-us"
+title = "CuraDevOps"
+timeZone = "UTC"
+enableRobotsTXT = true
+
+# self-contained layouts — no external theme dependency
+
+[params]
+description = "AI-curated DevOps intelligence with actionable verdicts for Platform/SRE engineers, CI/CD engineers, and Engineering Leaders."
+
+[taxonomies]
+# singular = plural so front matter keys (verdict:, status:) map straight to taxonomies
+verdict = "verdict"
+status = "status"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[pagination]
+pagerSize = 50
+
+[services.rss]
+limit = 50

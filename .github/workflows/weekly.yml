@@ -1,0 +1,128 @@
+name: Weekly Research
+
+on:
+  schedule:
+    - cron: "0 12 * * 1" # Mondays 12:00 UTC — Release Radar (tracked repos minor/major releases)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: curadevops-pipeline # shared with daily.yml — no concurrent pushes
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      paused: ${{ steps.check.outputs.paused }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .collect-paused
+          sparse-checkout-cone-mode: false
+      - id: check
+        run: |
+          if [ -f .collect-paused ]; then
+            echo "paused=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::Collection is paused (.collect-paused exists)"
+          else
+            echo "paused=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  collect:
+    needs: gate
+    if: needs.gate.outputs.paused == 'false'
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Collect & judge (weekly sources)
+        id: judge
+        continue-on-error: true
+        env:
+          FEEDS_FILE: feeds-weekly.yaml
+          FRESH_HOURS: "192" # cover the full week
+          MAX_ITEMS: "15"
+          JUDGE_BACKEND: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' && 'claude-code' || 'api' }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python pipeline/collect.py
+
+      - name: Commit new insights
+        id: commit
+        run: |
+          git config user.name "curadevops-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/insights pipeline/processed.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "no new items — skipping commit"
+          else
+            git commit -m "chore: weekly research $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open failure issue
+        if: steps.judge.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Weekly pipeline failure — $(date -u +%F)" \
+            --body "The weekly collect/judge step failed — check the [run log](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+
+      - name: Surface judge failure
+        if: steps.judge.outcome == 'failure'
+        run: |
+          echo "::error::Judge step failed — successful judgments were committed"
+          exit 1
+
+  deploy:
+    needs: collect
+    if: ${{ !cancelled() && (needs.collect.outputs.changed == 'true' || github.event_name == 'workflow_dispatch') }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.147.9"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

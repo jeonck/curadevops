@@ -1,0 +1,144 @@
+name: Daily Curation
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # UTC 11:00 = 06:00-07:00 US East, noon Europe, 20:00 KST
+  workflow_dispatch:
+  push: # site-content pushes trigger deploy only (collection/judgment skipped)
+    branches: [main]
+    paths:
+      - "content/**"
+      - "layouts/**"
+      - "archetypes/**"
+      - "hugo.toml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: curadevops-pipeline
+  cancel-in-progress: false
+
+jobs:
+  # collection pause gate: checks for the .collect-paused marker file
+  # (pause/resume: Actions tab "Pipeline Control", or pipeline/pause.sh / resume.sh)
+  gate:
+    # push events are deploy-only — skip collection/judgment
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    outputs:
+      paused: ${{ steps.check.outputs.paused }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .collect-paused
+          sparse-checkout-cone-mode: false
+      - id: check
+        run: |
+          if [ -f .collect-paused ]; then
+            echo "paused=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::Collection is paused (.collect-paused exists) — resume via Actions tab Pipeline Control"
+          else
+            echo "paused=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  collect:
+    needs: gate
+    if: needs.gate.outputs.paused == 'false'
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Collect & judge
+        id: judge
+        # even if a fatal error (credit exhaustion etc.) aborts the run,
+        # judgments completed before the abort must still get committed
+        continue-on-error: true
+        env:
+          # with CLAUDE_CODE_OAUTH_TOKEN set: subscription auth (claude-code);
+          # otherwise API-key billing (api)
+          JUDGE_BACKEND: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' && 'claude-code' || 'api' }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python pipeline/collect.py
+
+      - name: Archive stale items
+        run: python pipeline/expire.py
+
+      - name: Commit new insights
+        id: commit
+        run: |
+          git config user.name "curadevops-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/insights pipeline/processed.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "no new items — skipping commit"
+          else
+            git commit -m "chore: daily curation $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open failure issue
+        if: steps.judge.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Daily pipeline failure — $(date -u +%F)" \
+            --body "The collect/judge step failed (likely credits or auth token — check the [run log](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})). Judgments completed before the failure were committed. Unprocessed items retry on the next run. If the OAuth token expired: \`claude setup-token\` → update the \`CLAUDE_CODE_OAUTH_TOKEN\` secret, then close this issue."
+
+      - name: Surface judge failure
+        if: steps.judge.outcome == 'failure'
+        run: |
+          echo "::error::Judge step failed (check credits/auth) — successful judgments were committed"
+          exit 1
+
+  deploy:
+    needs: collect
+    # schedule: deploy only when there are new items / manual & push: always deploy
+    if: ${{ !cancelled() && (needs.collect.outputs.changed == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'push') }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # include the commit the collect job just pushed
+
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.147.9"
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
