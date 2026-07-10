@@ -6,7 +6,7 @@ release noise (patch releases, pre-release tags), enriches each item with
 urgency signals (endoflife.date EOL calendar, deprecation deadlines, release
 semantics, CISA KEV/EPSS when CVEs appear), and has Claude judge it
 **independently for three practitioner personas** — then publishes everything
-that matters to [jeonck.github.io/curadevops](https://jeonck.github.io/curadevops/)
+that matters to [curadevops.metacog.co.kr](https://curadevops.metacog.co.kr/)
 with an RSS feed.
 
 Sister channel: [CuraSec](https://jeonck.github.io/curasec/) (security) — same
@@ -95,7 +95,7 @@ MAX_ITEMS=5 python pipeline/collect.py --dry-run
 
 # real run + preview
 python pipeline/collect.py
-hugo server        # → http://localhost:1313/curadevops/
+hugo server        # → http://localhost:1313/
 ```
 
 Env knobs: `JUDGE_BACKEND` (`claude-code`|`api`), `CLAUDE_MODEL`
@@ -132,4 +132,4 @@ visits per PLAN.md.
 
 Public channel, automated judgments — so: AI disclosure on every page, evidence
 required on every verdict, a public corrections log, and a 30-day human review
-period at launch. See [About](https://jeonck.github.io/curadevops/about/).
+period at launch. See [About](https://curadevops.metacog.co.kr/about/).
