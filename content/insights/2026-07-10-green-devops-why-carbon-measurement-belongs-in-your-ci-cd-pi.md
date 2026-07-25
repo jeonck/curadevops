@@ -9,7 +9,7 @@ tags: ["green-devops", "ci-cd", "carbon-measurement"]
 cves: []
 source: "https://about.gitlab.com/blog/green-devops-carbon-measurement-cicd-pipeline/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Introduces an emerging practice of per-pod and per-pipeline emissions visibility, which could inform infrastructure sizing decisions, but no operational urgency and no signals anchoring an action today.
 - **CI/CD — Learn:** Eco CI and Carmen are wirable into existing GitLab pipelines today as lightweight integrations, worth evaluating as a team sustainability metric, but no deprecation, supply-chain risk, or deadline makes this actionable now.

@@ -9,7 +9,7 @@ tags: ["grafana-cloud", "access-control", "observability"]
 cves: []
 source: "https://grafana.com/blog/how-to-scale-access-control-in-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful reference for SREs managing Grafana Cloud RBAC as observability centralizes across teams, but no operational change required — no EOL, deprecation, or security anchor present.
 - **CI/CD — Skip**

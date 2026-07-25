@@ -9,7 +9,7 @@ tags: ["kubernetes", "experimental", "wasm"]
 cves: []
 source: "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A novelty/educational project showing how far Kubernetes internals can be pushed; no production relevance, but interesting for understanding control-plane architecture.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["cloud-native", "ai-ml", "storage"]
 cves: []
 source: "https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful reference for designing storage architectures that support AI/ML workloads on cloud-native infrastructure, but no operational changes required and nothing currently running is affected.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "oauth", "ai-agents"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** OAuth integration for the AWS MCP Server extends IAM governance to AI agents via standard OAuth flows, CloudTrail audit events, and token revocation APIs — worth understanding as AI agent infrastructure matures, but no operational change required today.
 - **CI/CD — Skip**
