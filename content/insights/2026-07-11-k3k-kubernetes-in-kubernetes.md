@@ -9,7 +9,7 @@ tags: ["kubernetes", "multi-tenancy", "nested-clusters"]
 cves: []
 source: "https://github.com/rancher/k3k"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** K3k enables lightweight virtual Kubernetes clusters running inside a host cluster, which is worth evaluating for tenant isolation or dev environment use cases, but it has no GA stability signal in the enrichment data to warrant planning adoption now.
 - **CI/CD — Skip**

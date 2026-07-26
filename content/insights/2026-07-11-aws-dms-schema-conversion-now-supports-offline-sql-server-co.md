@@ -9,7 +9,7 @@ tags: ["aws", "database-migration", "sql-server"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful if planning a SQL Server to AWS migration — the offline metadata extraction removes connectivity barriers — but no deadline or version constraint makes this actionable now.
 - **CI/CD — Skip**

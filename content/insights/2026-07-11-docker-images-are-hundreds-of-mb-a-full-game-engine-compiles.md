@@ -9,7 +9,7 @@ tags: ["wasm", "containers", "developer-experience"]
 cves: []
 source: "https://bogomolov.work/blog/posts/wasm-vs-docker/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting size/portability comparison between WASM and container images, but no production infrastructure change warranted — worth tracking as WASM runtimes mature for platform workloads.
 - **CI/CD — Learn:** WASM artifacts could eventually shrink build/publish times and registry storage costs, but no actionable pipeline change today — monitor for when toolchain support matures.

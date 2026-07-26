@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering", "architecture"]
 cves: []
 source: "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reflects on the hidden complexity costs of building internal platform abstractions that replicate Kubernetes primitives — useful framing for platform design decisions but no operational change required.
 - **CI/CD — Skip**

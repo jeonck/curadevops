@@ -9,7 +9,7 @@ tags: ["aws-emr", "apache-spark", "kubernetes"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

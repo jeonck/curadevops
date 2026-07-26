@@ -9,7 +9,7 @@ tags: ["kubernetes", "developer-tools", "desktop-app"]
 cves: []
 source: "https://github.com/luxury-yacht/app"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A desktop GUI for Kubernetes cluster management is worth evaluating as a productivity tool, but no production impact or urgency — assess alongside existing tools like Lens or k9s.
 - **CI/CD — Skip**

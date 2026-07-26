@@ -9,7 +9,7 @@ tags: ["ai-workloads", "cloud-strategy", "sovereignty"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws-ec2", "gpu", "ai-inference"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you run GPU-accelerated or AI inference workloads, G7 instances are now available in us-east-1 as an option to evaluate; no deadline or forced migration, just a new capacity option to factor into future instance-type decisions.
 - **CI/CD — Skip**

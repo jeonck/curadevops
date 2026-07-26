@@ -9,7 +9,7 @@ tags: ["secret-scanning", "github", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** If your pipelines parse or display GitHub secret scanning output, the renamed detector type labels may affect dashboards or tooling that filters by those names — low urgency, no deadline.

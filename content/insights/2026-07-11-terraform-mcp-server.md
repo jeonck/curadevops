@@ -9,7 +9,7 @@ tags: ["terraform", "ai-tooling", "mcp"]
 cves: []
 source: "https://github.com/hashicorp/terraform-mcp-server"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** HashiCorp's MCP server lets AI assistants query and interact with Terraform state and resources — worth evaluating as a developer-experience add-on, but no changes to running infrastructure are required and no GA timeline or deadline is signaled.
 - **CI/CD — Skip**

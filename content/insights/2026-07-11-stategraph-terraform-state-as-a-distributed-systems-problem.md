@@ -9,7 +9,7 @@ tags: ["terraform", "state-management", "iac"]
 cves: []
 source: "https://stategraph.dev/blog/why-stategraph/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reframes Terraform state as a distributed consistency problem — worth reading to inform how you architect remote state backends and locking, but no GA tool or urgent change to make today.
 - **CI/CD — Skip**

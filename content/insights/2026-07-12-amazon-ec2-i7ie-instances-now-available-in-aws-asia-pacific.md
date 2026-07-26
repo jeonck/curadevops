@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "storage"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Regional expansion of I7ie instances is worth noting if you run storage-intensive workloads (large NVMe, low-latency I/O) and operate in Hyderabad; no action required unless you're planning new capacity in that region.
 - **CI/CD — Skip**

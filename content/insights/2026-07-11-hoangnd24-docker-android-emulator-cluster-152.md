@@ -9,7 +9,7 @@ tags: ["android", "docker", "testing"]
 cves: []
 source: "https://github.com/hoangnd24/docker-android-emulator-cluster"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Worth evaluating if mobile CI is on the roadmap; this pattern runs Android emulators in containers with noVNC access and video recording, potentially replacing heavier mobile device farm setups.
