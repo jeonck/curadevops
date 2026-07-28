@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-ops", "sre"]
 cves: []
 source: "https://github.com/William-Lu-stack/LuxyAI"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An early-stage open-source project applying agentic AI to Kubernetes SRE workflows; worth watching for future evaluation but no enrichment signals, GA status, or operational urgency to act on now.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "kubeflow", "observability"]
 cves: []
 source: "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful pattern for operators managing Kubeflow: the plugin surfaces notebook servers, training jobs, and pipelines as first-class resources in Headlamp rather than requiring kubectl fallback. Worth evaluating if the cluster hosts ML workloads, but nothing running today requires a change.
 - **CI/CD — Skip**

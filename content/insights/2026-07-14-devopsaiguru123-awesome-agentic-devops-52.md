@@ -9,7 +9,7 @@ tags: ["ai-agents", "mcp", "devops"]
 cves: []
 source: "https://github.com/DevOpsAIguru123/awesome-agentic-devops"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A reference list of MCP servers and agents for platform/SRE use cases; worth bookmarking for evaluating agentic tooling but nothing in production requires action today.
 - **CI/CD — Learn:** The curation covers CI/CD-adjacent agents; useful for scouting future pipeline automation patterns, but no concrete migration or pipeline change is implied.

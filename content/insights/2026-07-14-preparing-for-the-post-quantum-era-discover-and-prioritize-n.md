@@ -9,7 +9,7 @@ tags: ["post-quantum", "cryptography", "security"]
 cves: []
 source: "https://www.hashicorp.com/blog/preparing-for-the-post-quantum-era-discover-and-prioritize-now"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Post-quantum crypto migration is a long-horizon concern for platform teams managing secrets and TLS; no deadline or concrete action is anchored in this item, so monitor evolving standards and evaluate Vault's roadmap when NIST PQC finalization timelines solidify.
 - **CI/CD — Skip**

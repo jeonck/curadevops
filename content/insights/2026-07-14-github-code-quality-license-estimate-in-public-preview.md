@@ -9,7 +9,7 @@ tags: ["github", "licensing", "code-quality"]
 cves: []
 source: "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

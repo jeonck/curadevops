@@ -9,7 +9,7 @@ tags: ["opentelemetry", "observability", "opamp"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** OpAMP-based remote management of OTel Collector fleets is a useful pattern for platform teams running observability at scale, but it's a design consideration rather than an urgent operational change.
 - **CI/CD — Skip**

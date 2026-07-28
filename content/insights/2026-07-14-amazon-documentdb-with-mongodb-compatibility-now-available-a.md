@@ -9,7 +9,7 @@ tags: ["aws", "documentdb", "ai-tooling"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** AI-assisted workflows for DocumentDB cluster ops (provisioning, migration, tuning, version upgrades) may be worth evaluating if your team runs DocumentDB, but this is a developer-tooling addition with no operational change required to existing infrastructure.
 - **CI/CD — Skip**

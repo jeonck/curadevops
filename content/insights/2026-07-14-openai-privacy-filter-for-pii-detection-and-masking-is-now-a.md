@@ -9,7 +9,7 @@ tags: ["machine-learning", "data-privacy", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
