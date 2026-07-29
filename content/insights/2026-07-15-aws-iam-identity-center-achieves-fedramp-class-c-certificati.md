@@ -9,7 +9,7 @@ tags: ["aws", "compliance", "identity"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** IAM Identity Center can now be used for FedRAMP Class C workloads in four US regions — relevant if you operate in a federal or regulated environment, but no action required for non-FedRAMP shops.
 - **CI/CD — Skip**

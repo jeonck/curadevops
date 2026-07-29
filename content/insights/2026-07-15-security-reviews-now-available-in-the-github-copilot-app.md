@@ -9,7 +9,7 @@ tags: ["github-copilot", "security", "code-review"]
 cves: []
 source: "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Public-preview slash command that surfaces security findings on in-flight changes within the Copilot app; worth monitoring as it matures, but pre-GA status caps this at Learn with no pipeline action today.

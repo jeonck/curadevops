@@ -9,7 +9,7 @@ tags: ["kubernetes", "k3s", "hetzner"]
 cves: []
 source: "https://edka.io"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New managed-cluster product layering provisioning, add-ons, and app configs on top of k3s/Hetzner — worth noting as a low-cost Kubernetes option, but no action required and no enrichment signals anchor anything more than awareness.
 - **CI/CD — Skip**

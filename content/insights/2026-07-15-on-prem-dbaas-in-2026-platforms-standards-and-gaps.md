@@ -9,7 +9,7 @@ tags: ["database", "kubernetes", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Surveys the current landscape of on-prem DBaaS patterns and operators (CloudNativePG, Percona, etc.) — useful for shaping how the team exposes database services to app teams, but no deadline or GA feature requiring a change today.
 - **CI/CD — Skip**

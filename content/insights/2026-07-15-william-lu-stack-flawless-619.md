@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-ops", "sre"]
 cves: []
 source: "https://github.com/William-Lu-stack/Flawless"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An early-stage open-source project applying agentic AI to Kubernetes SRE workflows is worth evaluating, but no GA signal or production track record exists to justify adoption yet.
 - **CI/CD — Skip**

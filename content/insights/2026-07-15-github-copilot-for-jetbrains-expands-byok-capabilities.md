@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-tooling", "jetbrains"]
 cves: []
 source: "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

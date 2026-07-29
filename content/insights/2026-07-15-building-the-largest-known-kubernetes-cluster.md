@@ -9,7 +9,7 @@ tags: ["kubernetes", "scalability", "gke"]
 cves: []
 source: "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Valuable engineering case study on extreme-scale Kubernetes control plane constraints, scheduler behavior, and etcd limits — useful for informing architecture decisions on large clusters even if most won't operate at this scale.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "storage-gateway", "migration"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful console improvement for teams using Storage Gateway who need to migrate file shares between gateways (e.g., upgrading to AL2023). No deadline or forced migration — worth knowing for the next gateway migration project.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "load-balancing", "platform-engineering"]
 cves: []
 source: "https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A scaling/reliability case study from Databricks on custom Kubernetes load balancing — worth reading for design ideas but no operational change required.
 - **CI/CD — Skip**

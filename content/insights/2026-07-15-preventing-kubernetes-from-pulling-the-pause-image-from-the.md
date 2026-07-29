@@ -9,7 +9,7 @@ tags: ["kubernetes", "security", "air-gap"]
 cves: []
 source: "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful pattern for air-gapped or registry-mirrored clusters: configure kubelet to use an internal mirror for the pause/infra image instead of registry.k8s.io. No deadline, but worth evaluating if egress control is a concern.
 - **CI/CD — Skip**

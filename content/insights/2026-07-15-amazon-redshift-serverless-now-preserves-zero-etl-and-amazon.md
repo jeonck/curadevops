@@ -9,7 +9,7 @@ tags: ["aws-redshift", "data-pipeline", "disaster-recovery"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful operational improvement for teams running Redshift Serverless with zero-ETL or S3 event integrations — snapshot restores within the same namespace no longer break integrations. No deadline or migration action required.
 - **CI/CD — Skip**

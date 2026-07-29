@@ -9,7 +9,7 @@ tags: ["azure", "edge-computing", "serverless"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567402"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview of serverless JavaScript execution at the Azure Front Door edge layer — worth evaluating if you run AFD as your ingress/CDN layer, but pre-GA so no action yet.
 - **CI/CD — Skip**

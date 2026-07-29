@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering", "mental-model"]
 cves: []
 source: "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A conceptual piece on how to reason about Kubernetes; useful for building or refining mental models but no operational change required.
 - **CI/CD — Skip**

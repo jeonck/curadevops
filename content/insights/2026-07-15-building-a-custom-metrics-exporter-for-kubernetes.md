@@ -9,7 +9,7 @@ tags: ["kubernetes", "observability", "autoscaling"]
 cves: []
 source: "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A solid walkthrough for extending HPA with custom signals (queue depth, connection counts) via a Prometheus-compatible exporter — useful design reference but no operational change required to existing clusters.
 - **CI/CD — Skip**
