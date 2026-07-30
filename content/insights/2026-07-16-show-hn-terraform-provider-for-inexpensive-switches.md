@@ -9,7 +9,7 @@ tags: ["terraform", "networking", "infrastructure-as-code"]
 cves: []
 source: "https://github.com/brennoo/terraform-provider-hrui"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-release provider for scraping budget switch web UIs via Terraform — interesting pattern for home-lab or SMB infrastructure automation, but pre-GA status caps this at Learn and HRUI hardware is unlikely in production platform environments.
 - **CI/CD — Skip**

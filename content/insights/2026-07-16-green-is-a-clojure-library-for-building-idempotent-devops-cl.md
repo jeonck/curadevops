@@ -9,7 +9,7 @@ tags: ["clojure", "cli-tooling", "idempotency"]
 cves: []
 source: "https://github.com/amiorin/green"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An interesting pattern for writing idempotent infrastructure automation scripts in Clojure, worth evaluating if the team already uses JVM tooling, but no operational urgency.
 - **CI/CD — Learn:** Could inform how pipeline automation scripts are written for idempotency, but this is a niche language choice with no concrete pipeline migration needed today.

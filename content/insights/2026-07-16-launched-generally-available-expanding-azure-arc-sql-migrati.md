@@ -9,7 +9,7 @@ tags: ["azure", "sql-server", "migration"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567362"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful to know if managing SQL Server workloads on Azure; Arc-enabled migration now covers SQL Server on Azure VMs alongside Managed Instance, potentially simplifying future lift-and-shift planning.
 - **CI/CD — Skip**

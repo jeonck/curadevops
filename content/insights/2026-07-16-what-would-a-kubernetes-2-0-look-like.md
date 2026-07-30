@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering", "architecture"]
 cves: []
 source: "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Speculative design essay on a hypothetical K8s 2.0 — useful for shaping long-term mental models on Kubernetes architecture, but no GA release, no deadline, and no operational change required today.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-agents", "azure", "containers"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=563566"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Hyperlight containers for agent isolation is worth tracking as an emerging lightweight VM-based sandboxing approach, but it's public preview so no action warranted yet.
 - **CI/CD — Skip**

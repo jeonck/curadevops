@@ -9,7 +9,7 @@ tags: ["kubernetes", "observability", "logging"]
 cves: []
 source: "https://github.com/kubetail-org/kubetail"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A GA Kubernetes logging tool (helm/v0.10.1) that merges multi-container logs into a single timeline and now adds ripgrep-backed remote search via a DaemonSet agent; worth evaluating if the team lacks a lightweight log-tail solution between kubectl and a full ELK/Loki stack.
 - **CI/CD — Skip**

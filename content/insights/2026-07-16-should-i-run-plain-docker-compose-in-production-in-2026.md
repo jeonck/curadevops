@@ -9,7 +9,7 @@ tags: ["docker", "production", "orchestration"]
 cves: []
 source: "https://distr.sh/blog/running-docker-in-production/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A high-engagement discussion on the trade-offs of plain Compose vs Kubernetes for smaller production workloads; worth reading to inform architecture decisions for teams with simpler needs.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "llm", "self-hosting"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful reference for platform engineers evaluating GPU workload patterns on Kubernetes; no forced migration or deadline, but shapes how you'd design node pools and scheduling for LLM inference.
 - **CI/CD — Skip**

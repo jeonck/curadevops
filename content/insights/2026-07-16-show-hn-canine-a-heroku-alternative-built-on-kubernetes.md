@@ -9,7 +9,7 @@ tags: ["kubernetes", "self-hosted", "paas"]
 cves: []
 source: "https://github.com/czhu12/canine"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Demonstrates a lightweight Kubernetes-native PaaS pattern (DNS/SSL, team management, GitHub integration, Helm chart support) worth evaluating if considering an internal developer platform; no urgency signals and project maturity is unclear for production use.
 - **CI/CD — Skip**

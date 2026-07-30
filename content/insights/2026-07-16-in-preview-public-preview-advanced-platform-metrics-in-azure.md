@@ -9,7 +9,7 @@ tags: ["azure", "observability", "monitoring"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567726"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview-stage enhancement to Azure Monitor platform metrics — worth evaluating for improved resource health and operational visibility, but pre-GA caps this at Learn until it reaches general availability.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "gpu", "ec2"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Regional expansion of G7e GPU instances is useful context if your org runs GPU workloads on EC2; no operational change required for existing deployments.
 - **CI/CD — Skip**
