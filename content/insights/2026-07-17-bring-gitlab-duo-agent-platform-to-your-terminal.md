@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-devex", "developer-experience"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-duo-cli-generally-available/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** The GA headless mode lets Duo run inside CI jobs and scripts, which could reshape how teams add AI-assisted triage or automation steps to pipelines — worth evaluating, but no migration or deadline attached.

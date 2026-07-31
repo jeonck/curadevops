@@ -9,7 +9,7 @@ tags: ["observability", "aws", "logging"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA functions like outlier detection, sessionization, and cidrlookup enrich the observability toolkit for teams already on CloudWatch Logs; no migration or operational change required, but worth knowing when debugging complex log patterns.
 - **CI/CD — Skip**

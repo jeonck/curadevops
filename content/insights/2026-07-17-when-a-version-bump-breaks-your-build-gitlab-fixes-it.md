@@ -9,7 +9,7 @@ tags: ["dependency-scanning", "supply-chain-security", "gitlab"]
 cves: []
 source: "https://about.gitlab.com/blog/dependency-scanning-auto-remediation/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Beta feature that auto-opens MRs to patch vulnerable dependencies and iterates until the pipeline passes — worth evaluating once GA, but pre-GA status caps this at Learn for now.

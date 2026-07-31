@@ -9,7 +9,7 @@ tags: ["gitlab", "security-review", "ai-assisted"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-duo-security-review-flow/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Public beta feature worth tracking for GitLab shops — it layers intent-based analysis over existing SAST to catch authorization and workflow flaws before merge, but it's pre-GA so nothing to enable in production pipelines yet.

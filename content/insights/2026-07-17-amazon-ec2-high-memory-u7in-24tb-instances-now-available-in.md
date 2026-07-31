@@ -9,7 +9,7 @@ tags: ["aws-ec2", "cloud-infrastructure", "high-memory"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Regional availability expansion for a specialized ultra-high-memory instance tier — worth knowing if you operate SAP HANA, Oracle, or SQL Server workloads with EU data residency requirements, but no operational change needed unless that's your workload.
 - **CI/CD — Skip**

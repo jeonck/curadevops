@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "ami"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful discoverability improvement for IaC workflows that reference public AMIs via SSM aliases; no urgent action required, but worth updating Terraform data sources or scripts to leverage the new field when refreshing AMI references.
 - **CI/CD — Skip**
