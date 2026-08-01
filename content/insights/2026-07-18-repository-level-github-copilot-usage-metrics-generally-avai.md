@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-metrics", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

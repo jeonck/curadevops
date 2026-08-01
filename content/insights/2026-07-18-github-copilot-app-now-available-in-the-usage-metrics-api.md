@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-productivity", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

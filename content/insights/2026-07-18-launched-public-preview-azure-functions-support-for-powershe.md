@@ -9,7 +9,7 @@ tags: ["azure-functions", "powershell", "preview"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567651"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** PowerShell 7.6 runtime support on Azure Functions is pre-GA; worth tracking if your platform hosts Functions with PowerShell workloads, but no action warranted until GA.
 - **CI/CD — Skip**
