@@ -9,7 +9,7 @@ tags: ["kubernetes", "cost-optimization", "finops"]
 cves: []
 source: "https://github.com/agenticode/kilter"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A self-hosted alternative to CAST AI for cluster rightsizing and bin-packing consolidation — worth evaluating if cost optimization is on the roadmap, but at 63 stars and no enrichment signals confirming GA stability, treat as an early-stage tool to watch rather than adopt.
 - **CI/CD — Skip**
