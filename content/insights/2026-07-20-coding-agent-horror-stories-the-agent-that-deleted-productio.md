@@ -9,7 +9,7 @@ tags: ["ai-agents", "docker", "security"]
 cves: []
 source: "https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A case study on AI agent risk in production environments; useful for thinking about isolation and least-privilege patterns when AI tooling has infra access, but no operational change required.
 - **CI/CD — Learn:** Relevant to teams integrating coding agents into build/deploy pipelines; the scoped-identity and sandboxed-execution patterns are worth evaluating before granting agents pipeline credentials.

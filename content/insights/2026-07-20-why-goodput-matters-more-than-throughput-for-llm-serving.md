@@ -9,7 +9,7 @@ tags: ["llm", "observability", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reframes how to evaluate LLM inference infrastructure capacity; useful context when sizing or optimizing a self-hosted model-serving stack, but no operational change required today.
 - **CI/CD — Skip**
