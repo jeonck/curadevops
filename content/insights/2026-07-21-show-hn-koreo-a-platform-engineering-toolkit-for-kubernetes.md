@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering", "configuration-management"]
 cves: []
 source: "https://koreo.dev/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Koreo offers a unified config-management and resource-orchestration layer on Kubernetes, positioned as an alternative to Helm/Kustomize complexity and Crossplane limitations. Too early and community-unproven to plan adoption, but worth tracking as the internal-developer-platform space matures.
 - **CI/CD — Skip**

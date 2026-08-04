@@ -9,7 +9,7 @@ tags: ["devops", "culture", "opinion"]
 cves: []
 source: "https://abidmoon.hashnode.dev/2023-devops-is-terrible"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

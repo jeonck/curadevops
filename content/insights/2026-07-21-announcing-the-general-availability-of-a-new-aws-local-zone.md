@@ -9,7 +9,7 @@ tags: ["aws", "cloud-infrastructure", "data-residency"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant only if you have workloads targeting Greece or EMEA data-residency requirements; no action needed unless expanding into that region.
 - **CI/CD — Skip**

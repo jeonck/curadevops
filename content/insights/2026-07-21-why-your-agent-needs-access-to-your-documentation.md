@@ -9,7 +9,7 @@ tags: ["ai-agents", "documentation", "developer-experience"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

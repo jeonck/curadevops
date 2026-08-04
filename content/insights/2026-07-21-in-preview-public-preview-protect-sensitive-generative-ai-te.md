@@ -9,7 +9,7 @@ tags: ["azure", "observability", "ai-telemetry"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567594"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA feature that separates GenAI prompt/response telemetry into a dedicated table with access controls — worth evaluating if you operate AI workloads on Azure Monitor, but no action warranted until GA.
 - **CI/CD — Skip**

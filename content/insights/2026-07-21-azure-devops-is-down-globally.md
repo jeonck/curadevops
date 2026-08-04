@@ -9,7 +9,7 @@ tags: ["azure-devops", "outage", "ci-cd"]
 cves: []
 source: "https://news.ycombinator.com/item?id=41000822"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Azure DevOps experienced a global outage affecting pipelines and source control; no remediation action needed post-resolution, but teams dependent on Azure DevOps should review their continuity posture for future incidents.

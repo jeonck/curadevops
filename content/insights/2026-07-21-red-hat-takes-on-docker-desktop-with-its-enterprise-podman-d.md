@@ -9,7 +9,7 @@ tags: ["containers", "developer-tooling", "podman"]
 cves: []
 source: "https://thenewstack.io/red-hat-enters-the-cloud-native-developer-desktop-market/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

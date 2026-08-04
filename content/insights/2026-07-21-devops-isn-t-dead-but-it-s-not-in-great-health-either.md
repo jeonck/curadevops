@@ -9,7 +9,7 @@ tags: ["devops", "industry-trends", "culture"]
 cves: []
 source: "https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

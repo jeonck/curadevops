@@ -9,7 +9,7 @@ tags: ["devops", "culture", "industry-trends"]
 cves: []
 source: "https://matduggan.com/a-eulogy-for-devops/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
