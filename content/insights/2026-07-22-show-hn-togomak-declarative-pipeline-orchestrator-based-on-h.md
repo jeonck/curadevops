@@ -9,7 +9,7 @@ tags: ["ci-cd", "terraform", "pipeline"]
 cves: []
 source: "https://github.com/srevinsaju/togomak"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** An early-stage, HCL-native pipeline tool aiming for CI provider agnosticism via Terraform-style modules — worth monitoring if your org is already deep in HCL/Terraform, but no GA stability signals or deadline to act on.

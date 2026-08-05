@@ -9,7 +9,7 @@ tags: ["kubernetes", "databases", "multi-cluster"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/22/multi-cluster-databases-on-kubernetes-architecture-and-deployment/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Covers architectural patterns for running databases across multiple Kubernetes clusters with regional-failure resilience — worth reading to inform future stateful workload design, but no GA tool announcement or deadline requiring action.
 - **CI/CD — Skip**

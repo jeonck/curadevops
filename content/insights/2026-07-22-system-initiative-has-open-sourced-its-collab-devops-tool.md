@@ -9,7 +9,7 @@ tags: ["open-source", "infrastructure-as-code", "devops-tooling"]
 cves: []
 source: "https://www.systeminit.com/blog-open-source/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** System Initiative is a collaborative, model-based IaC tool now open-sourced — worth evaluating as an alternative to Terraform/Pulumi, but no GA production readiness signal or deadline to act on.
 - **CI/CD — Skip**

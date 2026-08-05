@@ -9,7 +9,7 @@ tags: ["self-hosted", "docker", "maps"]
 cves: []
 source: "https://www.corviont.com/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting pattern for edge/air-gapped deployments needing maps or geocoding without external API dependencies; worth evaluating if the platform serves such use cases.
 - **CI/CD — Skip**

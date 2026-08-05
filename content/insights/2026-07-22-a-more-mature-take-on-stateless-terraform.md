@@ -9,7 +9,7 @@ tags: ["terraform", "iac", "infrastructure"]
 cves: []
 source: "https://www.bejarano.io/terraform-stateless-critique/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A thoughtful analysis of stateless Terraform patterns is worth reading for platform engineers managing state backends and drift, but no operational change is required.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "networking"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Regional expansion of network-optimized instances is worth noting if you run memory-intensive or high-throughput workloads in eu-west-3 or ca-central-1, but no action is required unless you're actively evaluating instance types for those regions.
 - **CI/CD — Skip**

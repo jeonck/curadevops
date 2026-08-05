@@ -9,7 +9,7 @@ tags: ["devops-culture", "opinion", "platform-engineering"]
 cves: []
 source: "https://blog.massdriver.cloud/posts/devops-is-bullshit/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

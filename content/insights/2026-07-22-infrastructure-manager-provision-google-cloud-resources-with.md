@@ -9,7 +9,7 @@ tags: ["terraform", "google-cloud", "iac"]
 cves: []
 source: "https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Google's managed Terraform execution service removes the need to self-host a Terraform backend or state management layer on GCP; worth evaluating if you run Terraform on GCP but no action required today.
 - **CI/CD — Skip**

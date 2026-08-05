@@ -9,7 +9,7 @@ tags: ["runbooks", "incident-response", "sre"]
 cves: []
 source: "https://bitfieldconsulting.com/blog/night-of-the-runbooks"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A narrative piece on runbook pitfalls that may sharpen thinking about incident response documentation quality, but no operational change is required.
 - **CI/CD — Skip**

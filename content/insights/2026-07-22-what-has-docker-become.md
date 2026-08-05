@@ -9,7 +9,7 @@ tags: ["docker", "containers", "platform-strategy"]
 cves: []
 source: "https://tuananh.net/2026/01/20/what-has-docker-become/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

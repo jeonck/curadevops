@@ -9,7 +9,7 @@ tags: ["docker", "sandboxing", "developer-experience"]
 cves: []
 source: "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Docker shell sandboxes offer a pattern for isolating build or testing environments; worth evaluating if pipeline isolation or reproducibility is a current concern.

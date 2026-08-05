@@ -9,7 +9,7 @@ tags: ["terraform", "hashicorp", "vendor-risk"]
 cves: []
 source: "https://www.youtube.com/watch?v=59rEiAyYEVk"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

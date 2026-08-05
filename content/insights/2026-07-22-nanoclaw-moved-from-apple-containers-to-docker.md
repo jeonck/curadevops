@@ -9,7 +9,7 @@ tags: ["containers", "docker", "macos"]
 cves: []
 source: "https://twitter.com/Gavriel_Cohen/status/2025603982769410356"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** A developer tool switching container runtimes from Apple Containers to Docker may be relevant if your macOS-based build environments use NanoClaw, but no pipeline action is required without more detail on breaking changes.

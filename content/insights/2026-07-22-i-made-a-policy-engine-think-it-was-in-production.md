@@ -9,7 +9,7 @@ tags: ["kyverno", "policy-as-code", "kubernetes"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting technique for testing Kyverno policies by simulating production context; useful for validating policy behavior without live cluster risk, but no operational change required.
 - **CI/CD — Skip**

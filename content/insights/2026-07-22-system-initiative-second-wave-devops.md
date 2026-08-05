@@ -9,7 +9,7 @@ tags: ["platform-engineering", "devops-strategy", "tooling"]
 cves: []
 source: "https://www.systeminit.com/blog-second-wave-devops/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A conceptual framing of where DevOps tooling is heading; worth reading for mental models on infrastructure-as-code evolution, but no operational change required.
 - **CI/CD — Skip**

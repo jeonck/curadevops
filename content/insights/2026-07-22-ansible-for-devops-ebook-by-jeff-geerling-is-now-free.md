@@ -9,7 +9,7 @@ tags: ["ansible", "ebook", "learning"]
 cves: []
 source: "https://leanpub.com/ansible-for-devops/c/CTVMPCbEeXd3"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A well-regarded Ansible reference becoming free is worth bookmarking for onboarding or upskilling team members managing infrastructure with Ansible, but no operational change is required.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-copilot", "cost-visibility", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
