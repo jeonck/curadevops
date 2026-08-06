@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-productivity", "metrics"]
 cves: []
 source: "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

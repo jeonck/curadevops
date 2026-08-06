@@ -9,7 +9,7 @@ tags: ["confidential-computing", "kubernetes", "cncf"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/22/confidential-containers-becomes-a-cncf-incubating-project/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Confidential Containers reaching incubating status signals growing ecosystem support for hardware-based memory isolation in Kubernetes workloads; worth tracking for future adoption in high-compliance environments, but not yet GA.
 - **CI/CD — Skip**

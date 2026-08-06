@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-workloads", "cncf"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Survey data confirms Kubernetes as the dominant platform for GenAI workloads; useful for validating architectural direction but no operational change required.
 - **CI/CD — Skip**

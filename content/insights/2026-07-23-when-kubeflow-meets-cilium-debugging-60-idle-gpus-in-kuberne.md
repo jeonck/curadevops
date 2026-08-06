@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu", "networking"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Practical post-mortem on how Cilium networking caused GPU underutilization in Kubeflow training jobs — worth reading for anyone operating GPU clusters or eBPF-based CNIs where pod-to-pod latency affects collective communication.
 - **CI/CD — Skip**

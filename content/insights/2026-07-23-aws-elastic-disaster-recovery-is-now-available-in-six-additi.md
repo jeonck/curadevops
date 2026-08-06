@@ -9,7 +9,7 @@ tags: ["disaster-recovery", "aws", "regional-expansion"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant if you're designing DR for workloads in Bangkok, Malaysia, New Zealand, Taipei, Calgary, or Mexico Central — DRS is now available in 36 regions, which may enable in-region DR targets previously requiring cross-region routing.
 - **CI/CD — Skip**

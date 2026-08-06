@@ -9,7 +9,7 @@ tags: ["siem", "observability", "security"]
 cves: []
 source: "https://github.com/itshamzabendelladj/AIGuardSIEM"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An interesting open-source SIEM/XDR option using eBPF monitoring and high-throughput ingestion; worth evaluating as an observability and security pipeline component, but no EOL pressure or operational urgency.
 - **CI/CD — Skip**

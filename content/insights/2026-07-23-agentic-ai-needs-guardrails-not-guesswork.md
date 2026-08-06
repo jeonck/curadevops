@@ -9,7 +9,7 @@ tags: ["agentic-ai", "security", "governance"]
 cves: []
 source: "https://www.docker.com/blog/agentic-ai-security-ciso-panel/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
