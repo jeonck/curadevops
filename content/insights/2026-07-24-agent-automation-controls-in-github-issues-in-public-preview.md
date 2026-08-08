@@ -9,7 +9,7 @@ tags: ["github", "ai-agents", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Pre-GA feature adding review controls for AI-driven issue changes; worth monitoring for teams using GitHub automation, but not actionable until GA.

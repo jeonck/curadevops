@@ -9,7 +9,7 @@ tags: ["vmware", "aws", "cloud-migration"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant if the org runs VMware workloads and is evaluating cloud migration paths; this regional expansion improves latency and data-residency options for EVS customers but requires no operational change for existing users.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws-lambda", "dotnet", "workflow-orchestration"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

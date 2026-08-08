@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-agent", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

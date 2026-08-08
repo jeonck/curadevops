@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** M8id instances with Intel Xeon 6 and up to 22.8TB NVMe are now available in Ireland, relevant if you run I/O-intensive workloads or databases in eu-west-1 and are evaluating next-gen instance families.
 - **CI/CD — Skip**

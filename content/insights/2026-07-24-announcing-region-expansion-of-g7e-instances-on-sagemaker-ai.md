@@ -9,7 +9,7 @@ tags: ["aws", "gpu", "sagemaker"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

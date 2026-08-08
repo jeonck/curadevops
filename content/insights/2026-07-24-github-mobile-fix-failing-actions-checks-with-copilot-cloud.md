@@ -9,7 +9,7 @@ tags: ["github-actions", "copilot", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** This adds a mobile-first workflow for diagnosing and fixing failed Actions checks via Copilot agent; no pipeline changes required, but worth tracking as an AI-assisted DevEx pattern for CI triage.

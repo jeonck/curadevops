@@ -9,7 +9,7 @@ tags: ["opentelemetry", "observability", "cncf"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** OTel's graduation signals long-term project stability, reinforcing it as a safe foundation for observability pipelines — no immediate change required to existing deployments.
 - **CI/CD — Skip**
