@@ -9,7 +9,7 @@ tags: ["ai-coding", "github-copilot", "llm"]
 cves: []
 source: "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

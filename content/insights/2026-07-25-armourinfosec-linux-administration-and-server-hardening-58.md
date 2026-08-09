@@ -9,7 +9,7 @@ tags: ["linux", "security-hardening", "training"]
 cves: []
 source: "https://github.com/armourinfosec/Linux-Administration-and-Server-Hardening"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A structured lab-based reference for hardening practices on CentOS Stream 10 and Debian 12; useful for onboarding or refreshing team knowledge on Linux server security baselines, but no operational change required.
 - **CI/CD — Skip**
