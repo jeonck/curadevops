@@ -9,7 +9,7 @@ tags: ["aws", "managed-database", "event-driven"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running Timestream for InfluxDB can replace API polling with EventBridge rules to automate responses to scaling completions, failures, and maintenance events; worth building into monitoring/alerting workflows this quarter.
 - **CI/CD — Skip**

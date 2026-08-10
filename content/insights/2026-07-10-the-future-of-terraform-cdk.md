@@ -9,7 +9,7 @@ tags: ["terraform-cdk", "iac", "hashicorp"]
 cves: []
 source: "https://github.com/hashicorp/terraform-cdk"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Teams using CDKTF for IaC should read this discussion to gauge whether HashiCorp/IBM intends to maintain it long-term; no deprecation date in signals, so no action required now.
 - **CI/CD — Skip**

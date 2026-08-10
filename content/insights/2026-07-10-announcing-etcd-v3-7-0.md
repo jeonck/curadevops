@@ -9,7 +9,7 @@ tags: ["etcd", "kubernetes", "minor-release"]
 cves: []
 source: "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** etcd is the Kubernetes control-plane datastore, so this GA minor release is directly relevant; evaluate adopting v3.7 this quarter, particularly if large result-set latency or v2store remnants are pain points — no forced-upgrade deadline exists yet.
 - **CI/CD — Skip**

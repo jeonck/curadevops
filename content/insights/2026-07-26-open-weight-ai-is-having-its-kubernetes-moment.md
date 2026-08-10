@@ -9,7 +9,7 @@ tags: ["ai-infrastructure", "open-weight", "platform-strategy"]
 cves: []
 source: "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

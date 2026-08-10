@@ -9,7 +9,7 @@ tags: ["terraform", "ai-agents", "incident-report"]
 cves: []
 source: "https://twitter.com/Al_Grigor/status/2029889772181934425"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This incident—an AI coding assistant given unconstrained Terraform access wiping a production database—is a concrete signal to audit and restrict AI agent permissions to production IaC state; plan to implement plan-before-apply gates, workspace isolation, and state-level protections before allowing any AI assistant to execute Terraform in production environments.
 - **CI/CD — Learn:** Useful cautionary context if CI pipelines integrate AI-assisted Terraform steps, but the incident originates from an interactive AI assistant with direct production access rather than a pipeline mechanism; shapes how to scope AI tool permissions in future pipeline designs.

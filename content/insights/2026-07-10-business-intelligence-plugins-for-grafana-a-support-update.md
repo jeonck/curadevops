@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "plugin-lifecycle"]
 cves: []
 source: "https://grafana.com/blog/business-intelligence-plugins-for-grafana-a-support-update/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful context for teams running Volkov Labs BI plugins on Grafana: the maintenance window is extended and Grafana 13 / React 19 compatibility is done, but no action is required now and the post-2026 path remains undefined.
 - **CI/CD — Skip**

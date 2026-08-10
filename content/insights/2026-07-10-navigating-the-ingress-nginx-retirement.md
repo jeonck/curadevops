@@ -9,7 +9,7 @@ tags: ["ingress-nginx", "kubernetes", "eol"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** ingress-nginx reached end-of-life in March 2026 (now four months past); remaining on it means exposure to unpatched CVEs in a critical ingress path with no upstream fixes coming. Audit clusters for ingress-nginx usage and complete migration to a maintained alternative (Envoy Gateway, Ingress-NGINX from F5, Traefik) immediately.
 - **CI/CD — Skip**
