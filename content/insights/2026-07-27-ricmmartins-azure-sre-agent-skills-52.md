@@ -9,7 +9,7 @@ tags: ["azure", "sre", "ai-ops"]
 cves: []
 source: "https://github.com/ricmmartins/azure-sre-agent-skills"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A curated set of proactive Azure SRE Agent skills covering governance, cost intelligence, and architecture quality — worth evaluating as a pattern for AI-assisted operational runbooks, but no production change is required and there are no deadlines in the signals.
 - **CI/CD — Skip**

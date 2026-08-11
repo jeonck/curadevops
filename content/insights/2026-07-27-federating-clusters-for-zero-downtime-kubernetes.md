@@ -9,7 +9,7 @@ tags: ["kubernetes", "multi-cluster", "high-availability"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Covers cross-cluster federation patterns for multi-region failover — useful for designing resilient platform architecture, but no GA tooling announcement or deadline makes this actionable today.
 - **CI/CD — Skip**
