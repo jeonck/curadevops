@@ -9,7 +9,7 @@ tags: ["github-copilot", "access-control", "policy"]
 cves: []
 source: "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

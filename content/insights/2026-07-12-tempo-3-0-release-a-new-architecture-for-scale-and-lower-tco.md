@@ -9,7 +9,7 @@ tags: ["distributed-tracing", "observability", "grafana"]
 cves: []
 source: "https://grafana.com/blog/tempo-3-0-release-all-the-latest-features/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA major release changes how Tempo is deployed at scale — removing the RF3 requirement reduces storage overhead and the new Kafka-compatible architecture decouples read/write paths. Teams running Tempo should schedule an upgrade evaluation this quarter to assess the operational and cost impact.
 - **CI/CD — Skip**
