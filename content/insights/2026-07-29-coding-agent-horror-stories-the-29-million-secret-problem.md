@@ -9,7 +9,7 @@ tags: ["supply-chain-security", "ai-agents", "secrets-management"]
 cves: []
 source: "https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Vendor-authored post highlighting how AI coding agents can leak credentials into build/deploy contexts; worth evaluating your secret isolation controls if agents touch pipelines, but no concrete deadline or confirmed compromise here.

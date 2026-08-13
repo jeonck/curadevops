@@ -9,7 +9,7 @@ tags: ["kubernetes", "case-study", "ai-infrastructure"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Illustrates real-world gains from optimizing container image pull pipelines for AI workloads; no operational change required, but worth reviewing the architecture patterns if you run similar GPU/AI workloads on Kubernetes.
 - **CI/CD — Skip**

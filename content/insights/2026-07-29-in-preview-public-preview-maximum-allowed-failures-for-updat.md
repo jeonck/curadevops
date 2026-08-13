@@ -9,7 +9,7 @@ tags: ["kubernetes", "azure", "fleet-manager"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567939"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview feature for Azure Kubernetes Fleet Manager that lets you set a failure threshold before halting fleet-wide update runs — worth watching if you manage multi-cluster AKS fleets, but not yet GA so no action today.
 - **CI/CD — Skip**

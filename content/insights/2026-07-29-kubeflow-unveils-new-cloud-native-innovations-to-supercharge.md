@@ -9,7 +9,7 @@ tags: ["kubeflow", "mlops", "cncf"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Kubeflow's progress toward CNCF Graduation signals maturing ML infrastructure worth tracking, but no GA release or operational deadline is present to warrant a platform change now.
 - **CI/CD — Skip**

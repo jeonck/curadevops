@@ -9,7 +9,7 @@ tags: ["aks", "kubernetes", "azure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567949"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview feature for reducing AKS node startup times on GPU/AI/Windows workloads by pre-baking images; worth evaluating if you run performance-sensitive node pools, but not actionable until GA.
 - **CI/CD — Skip**

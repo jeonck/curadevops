@@ -9,7 +9,7 @@ tags: ["kubernetes", "cncf", "hardware"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Early-stage sandbox project exploring disaggregated hardware composability for Kubernetes; worth tracking as a future architectural direction but nothing to evaluate or adopt yet.
 - **CI/CD — Skip**

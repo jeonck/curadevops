@@ -9,7 +9,7 @@ tags: ["github-copilot", "metrics", "developer-productivity"]
 cves: []
 source: "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "scale-to-zero", "observability"]
 cves: []
 source: "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful pattern for teams running scale-to-zero workloads where liveness/readiness probes inadvertently prevent genuine idle state; worth evaluating KubeElasti's ProbeResponse approach when designing or reviewing autoscaling configurations.
 - **CI/CD — Skip**
