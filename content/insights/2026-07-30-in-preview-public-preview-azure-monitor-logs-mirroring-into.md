@@ -9,7 +9,7 @@ tags: ["azure-monitor", "observability", "microsoft-fabric"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568322"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview feature that could eventually simplify cross-platform observability data sharing from Log Analytics into OneLake; no action warranted until GA.
 - **CI/CD — Skip**

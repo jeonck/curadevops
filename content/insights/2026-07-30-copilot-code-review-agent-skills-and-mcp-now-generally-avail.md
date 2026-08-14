@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-code-review", "mcp"]
 cves: []
 source: "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Copilot code review now supports agent skills and MCP servers at GA; worth evaluating whether this changes how automated review fits into PR workflows, but no pipeline migration is required today.
