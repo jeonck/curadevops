@@ -9,7 +9,7 @@ tags: ["cloudfront", "observability", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability that consolidates CloudFront Function decisions (A/B variants, auth outcomes, routing) directly into access log records, eliminating cross-system correlation with CloudWatch Logs. Worth adopting in existing CloudFront Functions this quarter by replacing or augmenting console.log() with cf.logCustomData().
 - **CI/CD — Skip**

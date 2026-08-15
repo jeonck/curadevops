@@ -9,7 +9,7 @@ tags: ["github-actions", "security", "code-scanning"]
 cves: []
 source: "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** GitHub's AI-powered security detections now surface on PRs for languages CodeQL doesn't cover — worth enabling to broaden supply-chain and vulnerability coverage in existing GitHub Actions workflows.

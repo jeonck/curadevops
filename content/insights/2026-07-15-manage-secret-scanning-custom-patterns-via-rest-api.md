@@ -9,7 +9,7 @@ tags: ["secret-scanning", "github", "supply-chain-security"]
 cves: []
 source: "https://github.blog/changelog/2026-07-13-create-and-manage-secret-scanning-custom-patterns-via-rest-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** New GA endpoints let teams manage secret scanning custom patterns as code, enabling IaC-style enforcement of scanning policies across repos; schedule adoption as part of supply-chain hardening this quarter.

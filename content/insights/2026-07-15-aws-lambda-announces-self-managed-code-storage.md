@@ -9,7 +9,7 @@ tags: ["aws-lambda", "serverless", "s3"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability removes the per-Region Lambda-managed storage quota for teams running large function/layer footprints; evaluate adopting `S3ObjectStorageMode=REFERENCE` this quarter for deployments approaching the old 75GB ceiling, and note the default limit has already been raised to 300GB for all accounts.
 - **CI/CD — Skip**
