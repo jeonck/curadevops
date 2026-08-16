@@ -9,7 +9,7 @@ tags: ["amazon-mq", "rabbitmq", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running Amazon MQ RabbitMQ M7g cluster deployments on version 4.2+ can now right-size storage independently of instance type; evaluate current broker storage allocations and adjust during the next planned maintenance window.
 - **CI/CD — Skip**

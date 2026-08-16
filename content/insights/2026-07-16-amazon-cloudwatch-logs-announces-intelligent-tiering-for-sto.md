@@ -9,7 +9,7 @@ tags: ["cloudwatch", "observability", "cost-optimization"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability that can eliminate the need to export verbose logs to S3 or filter them for cost reasons — evaluate enabling account-level intelligent tiering this quarter to simplify your observability stack and reduce log storage spend.
 - **CI/CD — Skip**
