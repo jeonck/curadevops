@@ -9,7 +9,7 @@ tags: ["gitlab", "agentic-workflows", "ci-cd"]
 cves: []
 source: "https://about.gitlab.com/blog/multi-step-software-delivery-with-agentic-flows/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Custom Flows are now GA in GitLab 19.2, enabling event-triggered, AI-driven multi-step pipeline sequences (e.g., analyze failure → generate fix → commit → notify). Teams on GitLab should evaluate whether encoding trusted delivery sequences as Flows reduces manual handoffs and pipeline runbook debt.

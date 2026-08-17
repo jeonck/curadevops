@@ -9,7 +9,7 @@ tags: ["aws-control-tower", "account-factory-terraform", "multi-account"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams using AFT to manage multi-account AWS environments should evaluate enabling `aft_customization_triggers = ["account_move"]` this quarter to eliminate manual re-application steps and reduce compliance drift when accounts change OUs. No deadline, but the tighter logging bucket controls and enterprise-scale improvements are also worth reviewing alongside the opt-in.
 - **CI/CD — Skip**

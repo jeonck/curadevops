@@ -9,7 +9,7 @@ tags: ["github-enterprise", "api", "licensing"]
 cves: []
 source: "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
