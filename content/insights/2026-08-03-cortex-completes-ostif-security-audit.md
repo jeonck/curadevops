@@ -9,7 +9,7 @@ tags: ["security", "observability", "cortex"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you run Cortex for long-term Prometheus/OTel storage, review the published audit findings to check whether any discovered issues affect your deployment configuration.
 - **CI/CD — Skip**

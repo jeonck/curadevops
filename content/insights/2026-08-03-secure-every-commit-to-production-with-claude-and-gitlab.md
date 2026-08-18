@@ -9,7 +9,7 @@ tags: ["security", "ai-coding", "gitlab"]
 cves: []
 source: "https://about.gitlab.com/blog/claude-security-and-gitlab/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Describes an integration pattern where Claude flags issues at authoring time and GitLab enforces controls through merge, dependency update, and infra change stages; worth tracking as AI-assisted supply-chain governance matures, but no concrete pipeline change to make today.
