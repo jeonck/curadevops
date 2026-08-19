@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "regional-expansion"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant only if you run I/O-intensive workloads in ap-southeast-7 or il-central-1; no deadline or forced migration, just a new regional option worth noting for future capacity planning.
 - **CI/CD — Skip**

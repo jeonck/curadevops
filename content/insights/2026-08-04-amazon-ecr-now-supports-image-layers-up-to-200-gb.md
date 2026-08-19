@@ -9,7 +9,7 @@ tags: ["ecr", "container-registry", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful capability increase for teams packaging large artifacts (LLMs, genomics datasets) into container images, but no operational change required — existing workloads are unaffected and there is no migration deadline.
 - **CI/CD — Learn:** Pipelines that previously split large layers or used external storage workarounds can now simplify, but this is an optional improvement with no deadline or deprecation pressure.

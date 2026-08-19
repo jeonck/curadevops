@@ -9,7 +9,7 @@ tags: ["github", "enterprise", "governance"]
 cves: []
 source: "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

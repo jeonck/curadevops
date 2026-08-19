@@ -9,7 +9,7 @@ tags: ["observability", "ai-agents", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Practical production experience showing where traditional APM falls short for AI agent workloads; useful for teams beginning to run agents on shared infrastructure and thinking about what to instrument.
 - **CI/CD — Skip**
