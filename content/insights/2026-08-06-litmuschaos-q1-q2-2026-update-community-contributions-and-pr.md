@@ -9,7 +9,7 @@ tags: ["chaos-engineering", "cncf", "open-source"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A progress summary from the LitmusChaos project — no new GA release, EOL date, or breaking change. Worth following if evaluating chaos engineering tooling for resilience validation.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["azure", "databricks", "ai-governance"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568910"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

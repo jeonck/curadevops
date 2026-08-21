@@ -9,7 +9,7 @@ tags: ["ai-governance", "developer-experience", "platform-engineering"]
 cves: []
 source: "https://www.docker.com/blog/governance-is-a-developer-experience-problem/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

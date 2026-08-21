@@ -9,7 +9,7 @@ tags: ["amazon-workspaces", "observability", "cloudwatch"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New free CloudWatch metrics for WorkSpaces cover network, compute, storage, and session health — worth incorporating into dashboards if your org runs WorkSpaces as part of the platform, but no migration or deadline required.
 - **CI/CD — Skip**

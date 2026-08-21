@@ -9,7 +9,7 @@ tags: ["github", "code-quality", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** New GA GitHub feature worth evaluating for pipeline quality gates; assess whether Code Quality checks should be integrated into existing GitHub Actions workflows this quarter.

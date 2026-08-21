@@ -9,7 +9,7 @@ tags: ["aws-lambda", "networking", "performance"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** GA capability that may reduce execution time and cost for high-memory Lambda workloads outside a VPC; no deadline or migration required, but worth noting when sizing memory for data-intensive functions.
 - **CI/CD — Skip**

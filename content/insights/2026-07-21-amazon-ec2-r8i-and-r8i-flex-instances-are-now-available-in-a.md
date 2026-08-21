@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run memory-intensive workloads (PostgreSQL, NGINX, ML inference) in EU Stockholm or Zurich, evaluate migrating to R8i for up to 30–60% workload-specific gains; no deadline, so schedule as a cost-performance optimization this quarter.
 - **CI/CD — Skip**

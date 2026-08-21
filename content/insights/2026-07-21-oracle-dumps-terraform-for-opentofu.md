@@ -9,7 +9,7 @@ tags: ["opentofu", "terraform", "iac"]
 cves: []
 source: "https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Oracle's enterprise-scale migration validates OpenTofu as production-ready; teams running Terraform under the BUSL license should schedule an evaluation of OpenTofu as a drop-in replacement within the next planning cycle.
 - **CI/CD — Skip**

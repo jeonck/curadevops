@@ -9,7 +9,7 @@ tags: ["terraform", "ai-infrastructure", "platform-engineering"]
 cves: []
 source: "https://www.hashicorp.com/blog/hcp-terraform-is-the-control-plane-for-ai-driven-infrastructure"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

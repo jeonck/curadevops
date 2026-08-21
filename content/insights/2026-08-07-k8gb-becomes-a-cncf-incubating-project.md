@@ -9,7 +9,7 @@ tags: ["kubernetes", "load-balancing", "cncf"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** K8gb's CNCF incubation signals growing community maturity for a Kubernetes-native GSLB solution worth evaluating if you need multi-cluster or multi-region traffic distribution, but no GA adoption pressure or deadline exists yet.
 - **CI/CD — Skip**

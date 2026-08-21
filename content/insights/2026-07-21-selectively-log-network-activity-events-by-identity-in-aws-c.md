@@ -9,7 +9,7 @@ tags: ["aws-cloudtrail", "vpc-endpoints", "data-perimeter"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA feature lets you reduce CloudTrail network activity event volume and cost by scoping logging to untrusted or access-denied identities on VPC endpoints — a concrete improvement for data perimeter monitoring. Update your CloudTrail advanced event selectors this quarter to filter trusted IAM roles and cut noise on VpceAccessDenied events.
 - **CI/CD — Skip**

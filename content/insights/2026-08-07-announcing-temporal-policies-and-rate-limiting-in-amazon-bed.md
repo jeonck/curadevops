@@ -9,7 +9,7 @@ tags: ["ai-gateway", "aws", "access-control"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/temporal-policies-agentcore/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA controls for AI agent traffic (stateful authz and rate limiting) are worth evaluating if your platform exposes Bedrock-based agents, but there is no operational urgency or EOL signal.
 - **CI/CD — Skip**

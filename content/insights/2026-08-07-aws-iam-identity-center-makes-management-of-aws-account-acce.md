@@ -9,7 +9,7 @@ tags: ["iam", "aws", "identity"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New configuration option for net-new IAM Identity Center instances reduces the service-linked role footprint when only AWS application SSO is needed. Worth noting for future greenfield deployments; no action required on existing instances.
 - **CI/CD — Skip**
