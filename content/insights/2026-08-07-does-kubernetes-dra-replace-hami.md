@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu", "dynamic-resource-allocation"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing for platform engineers managing GPU workloads on Kubernetes — DRA changes the device-allocation model relative to legacy device plugins and HAMi. No deprecation date or migration deadline exists in the signals, so no action is required now.
 - **CI/CD — Skip**

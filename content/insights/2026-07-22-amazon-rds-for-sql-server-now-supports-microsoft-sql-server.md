@@ -9,7 +9,7 @@ tags: ["rds", "sql-server", "managed-database"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** SQL Server 2025 is now GA on RDS; teams operating SQL Server workloads should evaluate an engine upgrade to gain Standard Edition capacity increases (up to 32 cores, 256 GB buffer pool) and Resource Governor, previously Enterprise-only — no deadline, but a meaningful capability shift worth scheduling this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["cli-tooling", "rust", "json-parsing"]
 cves: []
 source: "https://github.com/OlegSotnikov/jc-rs"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A no-runtime static binary parsing 237 command formats into JSON is genuinely useful for minimal container images and infrastructure automation scripts — worth evaluating as a drop-in where Python-based jc adds runtime overhead.
 - **CI/CD — Learn:** Could simplify pipeline scripts that need structured output from system commands without pulling in a Python runtime; evaluate against existing jc or jq-based approaches before adopting.

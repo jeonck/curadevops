@@ -9,7 +9,7 @@ tags: ["aws", "ai-agents", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** AgentCore runtime instances GA lets you attach EC2 capacity (GPU, memory-optimized, etc.) to managed AI agent workloads without infrastructure ops; worth evaluating if your org is deploying long-running or hardware-intensive agents on AWS.
 - **CI/CD — Skip**
