@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-productivity", "roi"]
 cves: []
 source: "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["grafana-cloud", "finops", "observability"]
 cves: []
 source: "https://grafana.com/blog/cost-attribution-in-grafana-cloud-manage-spend-across-observability-and-testing-workflows/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Grafana Cloud now supports label-based cost attribution (e.g., team, env) across metrics, logs, traces, k6, and Synthetic Monitoring — useful context for platform teams that want to support internal showback models, but no migration or deadline is involved.
 - **CI/CD — Skip**

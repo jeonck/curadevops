@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New memory-optimized instance family now available in eu-south-1; worth noting if you run memory-intensive workloads (PostgreSQL, SAP) in Milan, but no deadline or migration required.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["eks", "karpenter", "gpu-workloads"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability that changes how you'd architect EKS node pools for GPU/HPC workloads — evaluate EFA-only interfaces (no IP consumption) and placement group strategies for distributed training or high-availability production services this quarter.
 - **CI/CD — Skip**

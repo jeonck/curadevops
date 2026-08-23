@@ -9,7 +9,7 @@ tags: ["lambda", "encryption", "kms"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run Lambda durable functions in regulated industries, schedule adoption of CMK encryption to meet data governance requirements — no deadline, but this is a concrete security posture change worth queuing this quarter.
 - **CI/CD — Skip**
