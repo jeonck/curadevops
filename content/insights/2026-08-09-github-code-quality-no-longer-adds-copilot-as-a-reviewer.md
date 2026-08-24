@@ -9,7 +9,7 @@ tags: ["github", "code-quality", "copilot"]
 cves: []
 source: "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Teams using GitHub Code Quality should check whether existing rulesets that auto-requested Copilot reviews are still in place or have been silently removed; review PR workflow expectations accordingly.

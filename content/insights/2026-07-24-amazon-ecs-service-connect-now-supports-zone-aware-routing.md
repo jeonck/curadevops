@@ -9,7 +9,7 @@ tags: ["ecs", "networking", "cost-optimization"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA feature that reduces cross-AZ data transfer costs and latency for ECS Service Connect; existing services need a one-time redeployment to activate it. Schedule the redeployment across affected ECS services this quarter to capture the cost and latency benefit.
 - **CI/CD — Skip**

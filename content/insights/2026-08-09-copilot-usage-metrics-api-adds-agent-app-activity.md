@@ -9,7 +9,7 @@ tags: ["github-copilot", "api", "observability"]
 cves: []
 source: "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

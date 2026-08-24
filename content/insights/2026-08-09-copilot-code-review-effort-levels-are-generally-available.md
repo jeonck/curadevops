@@ -9,7 +9,7 @@ tags: ["github-copilot", "code-review", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Copilot's Lite and Balanced review modes let teams tune AI review depth to PR risk level — worth evaluating as a developer-experience addition to pull request workflows, though no pipeline change is required.

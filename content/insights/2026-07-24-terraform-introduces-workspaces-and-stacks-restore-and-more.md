@@ -9,7 +9,7 @@ tags: ["terraform", "iac", "resiliency"]
 cves: []
 source: "https://www.hashicorp.com/blog/terraform-introduces-workspaces-and-stacks-restore-and-more"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** HCP Terraform and Terraform Enterprise now include workspace and Stacks restore features, which are relevant to DR and state-recovery planning for teams standardized on either product; evaluate whether these capabilities close gaps in your current runbooks.
 - **CI/CD — Skip**
