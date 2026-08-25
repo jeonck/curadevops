@@ -9,7 +9,7 @@ tags: ["grafana-cloud", "networking", "observability"]
 cves: []
 source: "https://grafana.com/blog/a-new-allowlists-design-for-grafana-cloud-ip-addresses-what-you-need-to-know/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams using IP allowlisting to permit Grafana Cloud traffic must migrate from legacy per-product endpoints (JSON, txt, DNS) to the new unified Allowlist API before January 31, 2027, when the old formats stop being maintained; schedule the allowlist automation update and test before the deadline.
 - **CI/CD — Skip**

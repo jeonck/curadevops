@@ -9,7 +9,7 @@ tags: ["aws-ec2", "graviton", "storage-optimized"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** I8ge instances (Graviton4, 3rd-gen Nitro SSDs, up to 120TB NVMe) are now GA in two more regions — worth evaluating as a replacement for Im4gn or I3en nodes in storage-heavy workloads this quarter.
 - **CI/CD — Skip**
