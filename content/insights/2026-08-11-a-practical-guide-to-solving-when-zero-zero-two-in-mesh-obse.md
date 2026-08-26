@@ -9,7 +9,7 @@ tags: ["service-mesh", "observability", "istio"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Addresses a real gotcha in Istio+Kiali+Prometheus setups where request metrics get double-counted; worth reading if you operate a service mesh and are debugging unexpected metric values.
 - **CI/CD — Skip**
