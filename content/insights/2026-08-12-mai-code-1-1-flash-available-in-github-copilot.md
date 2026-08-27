@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-models", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

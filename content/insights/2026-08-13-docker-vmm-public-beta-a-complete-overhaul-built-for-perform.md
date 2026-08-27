@@ -9,7 +9,7 @@ tags: ["docker", "virtualization", "developer-tooling"]
 cves: []
 source: "https://www.docker.com/blog/docker-vmm-public-beta/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA beta of Docker's new VM manager; worth monitoring for potential performance and stability gains in local dev environments, but no production infra surface yet.
 - **CI/CD — Learn:** Could eventually affect Mac/Windows runner performance if Docker VMM matures to GA, but it's pre-GA with no pipeline action to take today.

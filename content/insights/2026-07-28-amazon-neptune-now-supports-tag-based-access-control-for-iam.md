@@ -9,7 +9,7 @@ tags: ["amazon-neptune", "iam", "access-control"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Neptune capability that replaces static ARN enumeration in IAM policies with attribute-based cluster access using resource and principal tags; plan to adopt TBAC if you operate multiple Neptune clusters in shared VPC environments to enforce team and environment isolation.
 - **CI/CD — Skip**

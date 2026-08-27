@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise-policy", "ai-governance"]
 cves: []
 source: "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

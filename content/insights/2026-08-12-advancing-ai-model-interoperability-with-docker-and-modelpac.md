@@ -9,7 +9,7 @@ tags: ["ai-infrastructure", "containers", "interoperability"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Early-stage standards work around packaging and running AI models may eventually affect platform infrastructure choices, but nothing here is GA or operationally actionable today.
 - **CI/CD — Skip**

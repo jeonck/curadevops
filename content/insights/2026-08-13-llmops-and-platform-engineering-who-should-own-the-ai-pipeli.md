@@ -9,7 +9,7 @@ tags: ["llmops", "platform-engineering", "ai-infrastructure"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing on how LLM serving infrastructure (inference endpoints, model registries, prompt pipelines) fits into the platform team's ownership model — no operational change required today.
 - **CI/CD — Skip**

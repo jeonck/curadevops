@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "ai-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

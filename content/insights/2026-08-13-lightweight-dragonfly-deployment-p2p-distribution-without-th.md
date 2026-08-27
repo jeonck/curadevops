@@ -9,7 +9,7 @@ tags: ["dragonfly", "p2p", "container-distribution"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/13/lightweight-dragonfly-deployment-p2p-distribution-without-the-database-stack/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Worth evaluating as a lighter Dragonfly deployment pattern if you already run or are considering P2P image distribution; no deadline or breaking change, so no immediate action needed.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-copilot", "observability", "cost-management"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

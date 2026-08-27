@@ -9,7 +9,7 @@ tags: ["github-copilot", "jetbrains", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-actions", "supply-chain", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** GitHub now holds unproven workflows pending approval on public repos — review your repository settings and approval workflows to ensure this protection is enabled and fits your release process.

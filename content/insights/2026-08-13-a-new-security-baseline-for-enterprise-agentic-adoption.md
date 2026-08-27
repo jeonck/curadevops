@@ -9,7 +9,7 @@ tags: ["ai-agents", "security", "enterprise"]
 cves: []
 source: "https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-enterprise", "release-candidate", "self-hosted-ci"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** RC status caps this at Learn; worth tracking if you self-host GHES, but wait for GA before planning an upgrade.
 - **CI/CD — Learn:** Pre-GA release; monitor for GA before evaluating pipeline or Actions changes that may ship in 3.22.

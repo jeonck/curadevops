@@ -9,7 +9,7 @@ tags: ["security-scanning", "gitlab", "vulnerability-management"]
 cves: []
 source: "https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitLab's improved Scope+Offset fingerprinting reduces duplicate vulnerability findings from reformats and comment additions; worth knowing when evaluating SAST signal quality in GitLab pipelines, but no pipeline change is needed today.
