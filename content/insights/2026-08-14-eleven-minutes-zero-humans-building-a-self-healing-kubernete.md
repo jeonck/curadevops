@@ -9,7 +9,7 @@ tags: ["kubernetes", "automation", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Demonstrates a fully automated, immutable-OS-based Kubernetes upgrade pattern using Kairos that could inform how teams redesign their node upgrade strategy; no production action required today.
 - **CI/CD — Skip**

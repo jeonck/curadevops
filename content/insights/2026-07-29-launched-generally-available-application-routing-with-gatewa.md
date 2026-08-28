@@ -9,7 +9,7 @@ tags: ["kubernetes-gateway-api", "aks", "ingress"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567944"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** The Kubernetes Gateway API is the intended successor to the Ingress API, and it's now GA on AKS — plan a migration evaluation from existing Ingress controllers to the managed Gateway API offering this quarter. No forced deadline exists, but adopting early reduces future migration debt as the Ingress API ages out.
 - **CI/CD — Skip**

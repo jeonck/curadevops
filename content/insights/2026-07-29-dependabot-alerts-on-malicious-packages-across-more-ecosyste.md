@@ -9,7 +9,7 @@ tags: ["supply-chain", "dependabot", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Enable or verify Dependabot alerts are active across your repos to benefit from the expanded OpenSSF malicious-package coverage; no deadline, but this materially improves supply-chain detection in your dependency pipeline.

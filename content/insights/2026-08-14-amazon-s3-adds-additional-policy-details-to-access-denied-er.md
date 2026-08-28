@@ -9,7 +9,7 @@ tags: ["aws-s3", "iam", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful S3 IAM debuggability improvement — policy ARNs now appear directly in 403 error messages, reducing time spent hunting down which SCP or identity-based policy caused a denial. No configuration required; available automatically across all regions.
 - **CI/CD — Skip**

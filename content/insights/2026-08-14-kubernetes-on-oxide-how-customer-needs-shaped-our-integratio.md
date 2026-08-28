@@ -9,7 +9,7 @@ tags: ["kubernetes", "bare-metal", "platform-engineering"]
 cves: []
 source: "https://oxide.computer/blog/kubernetes-on-oxide"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting case study on how Oxide shaped their Kubernetes integrations around real customer needs; worth reading for bare-metal IDP design patterns, but no operational change required.
 - **CI/CD — Skip**

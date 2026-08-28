@@ -9,7 +9,7 @@ tags: ["github", "supply-chain", "licensing"]
 cves: []
 source: "https://github.blog/changelog/2026-08-13-license-data-quality-improvements"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitHub's dependency graph now pulls license data from npm and PyPI registries, improving accuracy of license visibility in repos — useful context if your supply-chain compliance workflow relies on GitHub's license detection.

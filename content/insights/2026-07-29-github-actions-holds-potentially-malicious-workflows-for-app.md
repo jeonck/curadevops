@@ -9,7 +9,7 @@ tags: ["github-actions", "supply-chain", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** GitHub now holds potentially malicious workflow runs for review in public repositories; audit your org's Actions approval settings and ensure maintainers understand how to review held runs before merging external contributions.

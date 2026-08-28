@@ -9,7 +9,7 @@ tags: ["kubernetes", "azure", "multi-cluster"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=567931"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA resource placement in Fleet Manager enables centralized policy-driven workload distribution across multiple AKS clusters, worth evaluating this quarter if you operate a multi-cluster Azure environment.
 - **CI/CD — Skip**
