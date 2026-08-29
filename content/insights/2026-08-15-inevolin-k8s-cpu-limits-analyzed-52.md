@@ -9,7 +9,7 @@ tags: ["kubernetes", "resource-management", "performance"]
 cves: []
 source: "https://github.com/inevolin/k8s-cpu-limits-analyzed"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Analytical benchmark on how CPU throttling from limits degrades throughput and increases cost — worth reviewing when setting resource policies for clusters, but no immediate operational change is required.
 - **CI/CD — Skip**

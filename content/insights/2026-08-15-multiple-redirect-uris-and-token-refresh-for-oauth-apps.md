@@ -9,7 +9,7 @@ tags: ["oauth", "github", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** If pipelines use GitHub OAuth Apps for automation or registry auth, expiring tokens and refresh support may require updates to credential flows — worth evaluating when authoring new integrations.
