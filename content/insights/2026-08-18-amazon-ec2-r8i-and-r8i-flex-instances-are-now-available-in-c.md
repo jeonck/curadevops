@@ -9,7 +9,7 @@ tags: ["aws-ec2", "compute", "regional-availability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New memory-optimized instance family now available in Calgary; worth evaluating if you run memory-intensive or PostgreSQL workloads in that region, but no deadline or breaking change forces action.
 - **CI/CD — Skip**

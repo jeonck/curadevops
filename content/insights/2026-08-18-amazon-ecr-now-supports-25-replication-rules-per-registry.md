@@ -9,7 +9,7 @@ tags: ["ecr", "aws", "container-registry"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful capacity increase for complex multi-region or multi-account ECR setups; no migration required, but worth revisiting replication rule consolidation workarounds if your registry hit the old 10-rule ceiling.
 - **CI/CD — Skip**

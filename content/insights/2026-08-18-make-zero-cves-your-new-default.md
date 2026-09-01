@@ -9,7 +9,7 @@ tags: ["supply-chain", "container-security", "docker"]
 cves: []
 source: "https://www.docker.com/blog/make-zero-cves-your-new-default/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Docker's extended security coverage and source-built images could reduce CVE surface on base images, but no EOL date or forced migration anchor exists — worth evaluating at next image refresh cycle.
 - **CI/CD — Learn:** Policy enforcement moving to developer machines and provenance guarantees through customized images are worth tracking for supply-chain hardening plans, but no deadline or breaking change makes this actionable now.
