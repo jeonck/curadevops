@@ -9,7 +9,7 @@ tags: ["github-copilot", "jetbrains", "enterprise"]
 cves: []
 source: "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

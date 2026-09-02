@@ -9,7 +9,7 @@ tags: ["cloud-sovereignty", "platform-architecture", "kubernetes"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Conceptual framing of multi-plane sovereignty architecture that could inform future platform design decisions, but no actionable change required today and no concrete deadline or migration target.
 - **CI/CD — Skip**

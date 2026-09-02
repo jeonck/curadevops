@@ -9,7 +9,7 @@ tags: ["gitops", "infrastructure-as-code", "gitlab"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A practical walkthrough integrating OpenTofu, GitLab CI/CD, and Argo CD into a unified IaC + GitOps platform pattern — useful design reference, but no GA capability change or deadline requiring action.
 - **CI/CD — Learn:** Illustrates how to wire GitLab pipelines to OpenTofu provisioning and Argo CD deployments end-to-end; worth reviewing as a pipeline design reference, but nothing here forces a pipeline change.

@@ -9,7 +9,7 @@ tags: ["aws-iam", "identity-federation", "sovereign-cloud"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful capability for EU Sovereign Cloud workloads needing short-lived JWT auth to external services without long-term credentials, but no deadline or EOL pressure — evaluate if operating in the Germany Sovereign Cloud region.
 - **CI/CD — Skip**

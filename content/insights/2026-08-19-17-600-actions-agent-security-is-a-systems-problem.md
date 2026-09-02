@@ -9,7 +9,7 @@ tags: ["ai-agents", "security", "governance"]
 cves: []
 source: "https://www.docker.com/blog/ai-agent-security-systems-problem/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The incident data on 17,600 attacker actions is a useful framing for why platform-level controls (observation, constraint, blast-radius limiting) matter for agentic workloads, but there is no deployment action or deadline here — useful for teams beginning to run AI agents on shared infrastructure.
 - **CI/CD — Skip**

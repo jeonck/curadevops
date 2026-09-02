@@ -9,7 +9,7 @@ tags: ["observability", "ai-agents", "grafana"]
 cves: []
 source: "https://grafana.com/blog/how-to-build-a-trust-platform-for-your-agent-with-grafana-agent-observability/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Grafana Agent Observability is now GA on Grafana Cloud, offering structured monitoring for LLM agent behavior, prompt lineage, and scaling. Platform teams operating agent workloads should evaluate adopting it this quarter as a dedicated layer alongside their existing Grafana stack.
 - **CI/CD — Skip**

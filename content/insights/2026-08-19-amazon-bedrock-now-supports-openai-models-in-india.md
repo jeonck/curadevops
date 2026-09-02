@@ -9,7 +9,7 @@ tags: ["aws-bedrock", "ai-ml", "data-residency"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
