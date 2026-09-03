@@ -9,7 +9,7 @@ tags: ["aws", "availability-zones", "infrastructure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New AZ in eu-west-2d provides an additional fault isolation domain and AI/ML instance types; worth noting for teams running eu-west-2 workloads who may want to re-evaluate multi-AZ distribution, but no deadline or breaking change requires action now.
 - **CI/CD — Skip**

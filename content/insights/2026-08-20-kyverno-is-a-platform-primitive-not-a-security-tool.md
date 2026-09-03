@@ -9,7 +9,7 @@ tags: ["kyverno", "policy-as-code", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reframes Kyverno ownership and positioning — useful for platform teams deciding where policy enforcement lives in their IDP strategy, but no operational change required.
 - **CI/CD — Skip**

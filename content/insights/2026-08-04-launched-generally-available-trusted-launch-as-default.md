@@ -9,7 +9,7 @@ tags: ["azure", "trusted-launch", "vm-security"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568600"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New Azure Gen2 VM and VMSS deployments now automatically get Secure Boot and vTPM enabled; audit IaC templates and any custom images for Secure Boot compatibility to avoid silent failures on next VM provisioning.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github", "code-quality", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

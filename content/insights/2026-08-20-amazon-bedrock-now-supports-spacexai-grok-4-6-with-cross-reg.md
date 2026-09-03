@@ -9,7 +9,7 @@ tags: ["bedrock", "ai-models", "cross-region-inference"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

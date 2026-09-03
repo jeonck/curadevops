@@ -9,7 +9,7 @@ tags: ["aws", "technical-debt", "code-analysis"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** This GA tool auto-creates PRs/MRs with validated code fixes from technical debt analysis connected to GitHub, GitLab, and Bitbucket — worth evaluating if the team wants automated remediation integrated into their pipeline workflow, but no pipeline change is required today.

@@ -9,7 +9,7 @@ tags: ["aws-lambda", "serverless", "regional-expansion"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Lambda MicroVMs is now GA in Frankfurt, Stockholm, Mumbai, Singapore, and Sydney, giving platform teams a managed VM-isolation primitive for multi-tenant or AI workload sandboxing without managing hypervisors. No action required — worth evaluating if latency or data-residency in these regions is a current pain point.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws-ec2", "instance-types", "regional-expansion"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you run memory-intensive workloads (in-memory caches, NoSQL, EDA) in the Taipei region, R8a instances offer a meaningful upgrade over R7a in memory bandwidth and price-performance, but no existing infrastructure needs to change.
 - **CI/CD — Skip**

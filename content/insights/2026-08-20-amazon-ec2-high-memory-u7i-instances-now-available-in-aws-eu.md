@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "high-memory"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you run SAP HANA, Oracle, or large in-memory databases in eu-central-2 (Zurich), U7i-6TB is now an option offering up to 45% better price/performance versus U-1 instances. No deadline — evaluate as part of next instance-type review if you have Zurich-resident heavy-memory workloads.
 - **CI/CD — Skip**

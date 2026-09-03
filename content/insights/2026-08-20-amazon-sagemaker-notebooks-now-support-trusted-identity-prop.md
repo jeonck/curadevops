@@ -9,7 +9,7 @@ tags: ["aws", "iam", "data-access-control"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant if your org runs SageMaker and Lake Formation with fine-grained data access; this GA feature removes the need for shared execution roles and adds per-user CloudTrail audit trails. No immediate action required unless you're actively designing a multi-user analytics platform.
 - **CI/CD — Skip**

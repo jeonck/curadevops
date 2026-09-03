@@ -9,7 +9,7 @@ tags: ["aws-iam", "cloud", "permissions"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The increased default reduces friction for roles with many attached policies and eliminates some quota-increase requests; no action required as it applies automatically to all existing roles.
 - **CI/CD — Skip**

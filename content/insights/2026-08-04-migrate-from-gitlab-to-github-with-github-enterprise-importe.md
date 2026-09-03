@@ -9,7 +9,7 @@ tags: ["migration", "github-enterprise", "gitlab"]
 cves: []
 source: "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If a GitLab-to-GitHub migration is on the roadmap, GEI reaching GA means self-serve tooling is now available for scoping the pipeline migration project.
