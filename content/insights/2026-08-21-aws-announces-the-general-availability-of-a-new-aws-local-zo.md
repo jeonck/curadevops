@@ -9,7 +9,7 @@ tags: ["aws", "local-zones", "infrastructure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New geographic option for low-latency or data-residency workloads in the Las Vegas metro; worth knowing if you have edge or latency-sensitive use cases there, but no change required to existing platform infrastructure.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["data-sovereignty", "cloud-native", "security"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

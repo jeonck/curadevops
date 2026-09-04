@@ -9,7 +9,7 @@ tags: ["github", "audit-log", "compliance"]
 cves: []
 source: "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** New audit log events for GitHub Code Quality enablement changes give CI/CD teams better visibility into who toggled code quality settings on repos, useful for compliance or troubleshooting.
