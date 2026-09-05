@@ -9,7 +9,7 @@ tags: ["aws-ec2", "graviton", "cloud-infrastructure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Regional expansion of Graviton4 NVMe-backed instances is worth noting if you run I/O-intensive workloads in Singapore, Melbourne, Zurich, or Mexico — no forced migration, just new capacity options to evaluate when rightsizing or expanding footprint.
 - **CI/CD — Skip**

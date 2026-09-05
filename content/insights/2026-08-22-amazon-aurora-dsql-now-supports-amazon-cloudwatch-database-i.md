@@ -9,7 +9,7 @@ tags: ["aurora-dsql", "observability", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful new GA observability capability for teams running Aurora DSQL — per-statement wait states and normalized SQL at no extra cost — but no migration or upgrade required; worth noting when evaluating DSQL observability strategy.
 - **CI/CD — Skip**

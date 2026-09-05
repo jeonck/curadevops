@@ -9,7 +9,7 @@ tags: ["kubernetes", "reliability", "observability"]
 cves: []
 source: "https://ngrok.com/blog/probes"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A solid explainer on liveness, readiness, and startup probes that may refine how you configure them on workloads, but no operational change required today.
 - **CI/CD — Skip**

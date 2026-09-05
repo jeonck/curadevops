@@ -9,7 +9,7 @@ tags: ["github-actions", "code-scanning", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your org uses GitHub code scanning default setup, evaluate adopting the new github-codeql-config-file repository property to standardize CodeQL scan behavior across repos without per-repo overrides.

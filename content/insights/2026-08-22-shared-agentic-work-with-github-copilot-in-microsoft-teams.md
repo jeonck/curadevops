@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-agents", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
