@@ -9,7 +9,7 @@ tags: ["supply-chain", "ai-security", "ci-cd"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing for understanding how unsanctioned AI tools introduce new attack surfaces into the platform layer, but no specific infrastructure action or deadline is present.
 - **CI/CD — Learn:** Directly relevant to pipeline security thinking — AI extensions and agents in the build path are an emerging supply-chain risk worth evaluating, but no concrete deprecation, compromise, or deadline anchors an Act or Plan verdict.

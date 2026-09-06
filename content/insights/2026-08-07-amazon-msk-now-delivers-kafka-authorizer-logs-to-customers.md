@@ -9,7 +9,7 @@ tags: ["amazon-msk", "kafka", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run MSK Provisioned clusters, enable Authorizer Log Delivery to route denied-access events (with client IP and API) to CloudWatch, S3, or Firehose — useful for security auditing and troubleshooting auth issues at no added cost.
 - **CI/CD — Skip**

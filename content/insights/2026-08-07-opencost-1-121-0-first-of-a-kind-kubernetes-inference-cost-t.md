@@ -9,7 +9,7 @@ tags: ["kubernetes", "finops", "gpu"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA release adds per-token inference cost attribution to OpenCost, directly addressing GPU cost visibility for platform teams running AI workloads on Kubernetes. Evaluate upgrading OpenCost to 1.121.0 this quarter if your clusters host inference workloads.
 - **CI/CD — Skip**

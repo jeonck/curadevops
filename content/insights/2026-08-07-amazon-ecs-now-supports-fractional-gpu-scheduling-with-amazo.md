@@ -9,7 +9,7 @@ tags: ["amazon-ecs", "gpu-scheduling", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA ECS capability lets you right-size GPU containers (1/8, 1/4, or 1/2 of an L4 GPU) on G6f instances, with CloudWatch GPU metrics and automatic health monitoring included. Evaluate this quarter if you run ECS-based AI inference or rendering workloads where full-GPU allocation is wasteful.
 - **CI/CD — Skip**
