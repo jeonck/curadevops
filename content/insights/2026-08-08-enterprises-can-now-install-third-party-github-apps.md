@@ -9,7 +9,7 @@ tags: ["github", "enterprise", "integrations"]
 cves: []
 source: "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** This expands the integration surface for enterprise GitHub accounts, which may be relevant when evaluating third-party tools that plug into GitHub for pipeline or workflow automation.

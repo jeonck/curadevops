@@ -9,7 +9,7 @@ tags: ["observability", "incident-response", "sre"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Atlassian's approach to automated multi-signal correlation for root cause analysis is a useful design reference for SREs managing complex microservice telemetry, but there's no tooling release or operational change required today.
 - **CI/CD — Skip**
