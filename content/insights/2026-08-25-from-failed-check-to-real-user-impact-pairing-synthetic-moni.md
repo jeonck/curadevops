@@ -9,7 +9,7 @@ tags: ["observability", "synthetic-monitoring", "grafana"]
 cves: []
 source: "https://grafana.com/blog/from-failed-check-to-real-user-impact-pairing-synthetic-monitoring-and-frontend-observability-in-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The pattern of combining scheduled synthetic checks with real-user (RUM/frontend) telemetry is a useful mental model for SREs who hit false-green or false-red alert situations; no action required, but worth folding into observability stack design thinking.
 - **CI/CD — Skip**

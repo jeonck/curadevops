@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "dashboards"]
 cves: []
 source: "https://grafana.com/blog/grafana-13-2-release-all-the-latest-features/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Grafana 13.2 introduces team-shared saved queries and a new panel sidebar — useful UX improvements for teams running Grafana as their observability frontend, but no breaking changes, security fixes, or architecture impact that would prompt a scheduled upgrade.
 - **CI/CD — Skip**

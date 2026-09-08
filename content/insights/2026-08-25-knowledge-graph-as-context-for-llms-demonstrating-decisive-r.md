@@ -9,7 +9,7 @@ tags: ["observability", "ai-assisted-rca", "knowledge-graph"]
 cves: []
 source: "https://grafana.com/blog/knowledge-graph-as-context-for-llms-demonstrating-decisive-rca-and-faster-production-performance/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Grafana's early experiment shows structured topology context dramatically improves LLM root-cause accuracy (15/16 vs 1/16 correct), but this is explicitly pre-GA research — worth tracking as AI-assisted incident response matures, not yet actionable.
 - **CI/CD — Skip**

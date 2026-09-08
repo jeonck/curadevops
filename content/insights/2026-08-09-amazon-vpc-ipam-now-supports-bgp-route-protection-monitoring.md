@@ -9,7 +9,7 @@ tags: ["aws", "networking", "ipam"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Relevant to any team using BYOIP prefixes on AWS: the new delegated RPKI automation eliminates manual ROA creation/renewal at the RIR, and the centralized dashboard surfaces hijacking risk via route overlap detection. Evaluate enabling this during the next IPAM configuration review cycle.
 - **CI/CD — Skip**

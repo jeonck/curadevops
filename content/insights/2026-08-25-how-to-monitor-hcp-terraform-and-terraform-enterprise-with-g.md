@@ -9,7 +9,7 @@ tags: ["terraform", "observability", "opentelemetry"]
 cves: []
 source: "https://grafana.com/blog/how-to-monitor-hcp-terraform-and-terraform-enterprise-with-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful walkthrough for surfacing per-run traces, metrics, and logs from HCP Terraform agents via Alloy into Grafana Cloud — worth evaluating if Terraform run latency visibility is a gap, but no deadline or urgent gap drives action today.
 - **CI/CD — Skip**

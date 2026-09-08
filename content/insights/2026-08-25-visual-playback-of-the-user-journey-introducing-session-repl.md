@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "frontend"]
 cves: []
 source: "https://grafana.com/blog/visual-playback-of-the-user-journey-introducing-session-replay-in-grafana-cloud-frontend-observability/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Session Replay extends the Grafana Cloud observability platform with visual user-journey reconstruction, useful context if the team already uses Grafana Cloud Frontend Observability — but the feature is in public preview so no adoption action yet.
 - **CI/CD — Skip**

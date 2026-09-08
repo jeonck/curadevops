@@ -9,7 +9,7 @@ tags: ["observability", "tracing", "grafana-cloud"]
 cves: []
 source: "https://grafana.com/blog/how-volumetric-sampling-makes-the-most-of-your-trace-budget-in-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Explains a GA intelligent sampling policy in Grafana Cloud Traces that aims to give fairer service representation within a trace budget; worth evaluating if already on Grafana Cloud, but no deadline or operational forcing function.
 - **CI/CD — Skip**
