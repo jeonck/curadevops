@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "ai-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

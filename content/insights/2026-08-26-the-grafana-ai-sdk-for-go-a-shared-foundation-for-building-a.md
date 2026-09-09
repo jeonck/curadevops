@@ -9,7 +9,7 @@ tags: ["ai-sdk", "golang", "grafana"]
 cves: []
 source: "https://grafana.com/blog/the-grafana-ai-sdk-for-go-a-shared-foundation-for-building-ai-applications/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

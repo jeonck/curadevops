@@ -9,7 +9,7 @@ tags: ["iam", "aws-sdk", "credentials"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Simplifies how Java workloads outside AWS obtain temporary credentials via Roles Anywhere without a sidecar process, worth knowing when evaluating hybrid or on-prem workload auth patterns.
 - **CI/CD — Learn:** Relevant if build pipelines run Java workloads outside AWS that need AWS credentials; the plugin could replace credential_process workarounds, but no deadline or deprecation drives urgency.

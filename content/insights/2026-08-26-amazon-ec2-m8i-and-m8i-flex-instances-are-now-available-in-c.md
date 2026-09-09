@@ -9,7 +9,7 @@ tags: ["ec2", "aws", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New instance generation available in an additional region — worth noting if you run workloads in Canada West, but no deadline or breaking change makes this actionable today.
 - **CI/CD — Skip**
