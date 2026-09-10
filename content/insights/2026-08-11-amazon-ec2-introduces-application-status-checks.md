@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA feature replaces bespoke health-monitoring scripts for EC2 workloads and integrates with Auto Scaling recovery — worth evaluating this quarter to simplify the observability stack for any EC2-based services.
 - **CI/CD — Skip**
