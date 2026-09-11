@@ -9,7 +9,7 @@ tags: ["github", "billing", "enterprise"]
 cves: []
 source: "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

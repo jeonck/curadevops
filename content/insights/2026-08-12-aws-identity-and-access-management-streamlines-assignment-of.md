@@ -9,7 +9,7 @@ tags: ["aws-iam", "identity-management", "cloud-access"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This new GA feature unifies IAM role flexibility with IAM Identity Center federation, replacing the previous two-approach trade-off. Platform engineers managing AWS workforce access should evaluate adopting account access manager as their standard approach this quarter — no migration deadline exists, but it simplifies ongoing access architecture.
 - **CI/CD — Skip**

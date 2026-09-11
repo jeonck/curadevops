@@ -9,7 +9,7 @@ tags: ["agent-scm", "git-scalability", "gitlab"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-next-gen-scm/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

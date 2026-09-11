@@ -9,7 +9,7 @@ tags: ["buildpacks", "containers", "cncf"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/08/11/cncf-announces-graduation-of-cloud-native-buildpacks-advancing-the-standard-for-container-builds/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** CNB graduation signals broad production readiness for buildpack-based image builds; worth evaluating as a standardized, OCI-compliant alternative to Dockerfiles in the platform image pipeline.
 - **CI/CD — Plan:** CNCF graduation makes Cloud Native Buildpacks a credible standard for container build steps in CI pipelines; evaluate adopting pack or a platform-native buildpack integration to replace Dockerfile-based builds this quarter.

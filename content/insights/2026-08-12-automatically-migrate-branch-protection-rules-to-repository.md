@@ -9,7 +9,7 @@ tags: ["github", "branch-protection", "rulesets"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your repos still use legacy branch protection rules, schedule migration to GitHub rulesets using the new in-settings converter — rulesets offer better scalability and cross-repo policy management with no hard deadline yet.

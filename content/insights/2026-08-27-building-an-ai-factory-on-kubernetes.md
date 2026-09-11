@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-ml", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Describes a multi-tenant GPU pooling architecture on Kubernetes for concurrent AI workloads; useful design reference if the org is evaluating shared GPU infrastructure, but no GA tooling or deadline makes this actionable today.
 - **CI/CD — Skip**

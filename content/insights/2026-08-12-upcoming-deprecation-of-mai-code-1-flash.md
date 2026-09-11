@@ -9,7 +9,7 @@ tags: ["github-copilot", "deprecation", "ai-models"]
 cves: []
 source: "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If any pipelines invoke MAI-Code-1-Flash via GitHub Copilot APIs or extensions, migrate to MAI-Code-1.1-Flash before September 10, 2026 to avoid breakage.
