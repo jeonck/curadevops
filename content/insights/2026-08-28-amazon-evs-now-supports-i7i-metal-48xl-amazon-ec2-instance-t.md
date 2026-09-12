@@ -9,7 +9,7 @@ tags: ["aws", "vmware", "ec2"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New higher-core-count bare-metal option for VMware-on-AWS workloads may inform future capacity planning if your org runs Amazon EVS, but no deadline or migration requirement exists.
 - **CI/CD — Skip**

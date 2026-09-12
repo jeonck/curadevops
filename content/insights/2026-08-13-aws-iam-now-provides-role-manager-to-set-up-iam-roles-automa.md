@@ -9,7 +9,7 @@ tags: ["aws", "iam", "security"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Role manager can simplify onboarding new AWS services by auto-generating least-privilege starter roles, but teams with strict IaC discipline should evaluate whether console-created roles conflict with Terraform/CDK-managed IAM. Schedule a review of how role manager interacts with existing role governance before enabling org-wide.
 - **CI/CD — Skip**

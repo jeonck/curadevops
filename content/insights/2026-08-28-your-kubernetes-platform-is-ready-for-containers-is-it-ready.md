@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-infrastructure", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A conceptual overview of what platform teams need to consider when extending Kubernetes for AI workloads; no concrete tooling changes or deadlines, but useful for shaping future platform strategy around GPU scheduling and resource management.
 - **CI/CD — Skip**

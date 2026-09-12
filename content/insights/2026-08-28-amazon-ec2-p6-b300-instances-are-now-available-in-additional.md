@@ -9,7 +9,7 @@ tags: ["aws", "gpu-compute", "ec2"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New high-end GPU instance type now available in additional regions — relevant if your org runs large AI/ML training workloads on EC2, but no operational change required for existing infrastructure.
 - **CI/CD — Skip**

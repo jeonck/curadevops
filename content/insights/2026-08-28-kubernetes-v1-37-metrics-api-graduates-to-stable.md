@@ -9,7 +9,7 @@ tags: ["kubernetes", "metrics-api", "api-graduation"]
 cves: []
 source: "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The metrics.k8s.io/v1 API is functionally identical to v1beta1 — no field changes, no behavioral differences. Worth noting when planning a v1.37 upgrade so any hardcoded v1beta1 API paths in tooling or manifests get updated, but no v1beta1 deprecation deadline is announced.
 - **CI/CD — Skip**

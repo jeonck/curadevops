@@ -9,7 +9,7 @@ tags: ["microsoft-sentinel", "deprecation", "sap"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568457"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** If you run the containerized SAP data connector agent for Microsoft Sentinel, migrate to the replacement agent before September 14, 2026, when the agent will be permanently disabled and SAP log ingestion will stop.
 - **CI/CD — Skip**

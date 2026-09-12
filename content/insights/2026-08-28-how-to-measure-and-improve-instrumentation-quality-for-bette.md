@@ -9,7 +9,7 @@ tags: ["observability", "instrumentation", "grafana"]
 cves: []
 source: "https://grafana.com/blog/how-to-measure-and-improve-instrumentation-quality-for-better-full-stack-observability/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The instrumentation quality report concept — systematically scoring services for metric/log/trace coverage and correlation gaps — is a useful framework for platform teams managing multi-service observability, though this is a Grafana Cloud-specific feature with no deadline or migration required.
 - **CI/CD — Skip**

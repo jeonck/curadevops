@@ -9,7 +9,7 @@ tags: ["kubernetes", "autoscaling", "gpu"]
 cves: []
 source: "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Covers a real incident pattern — GPU pods pending during traffic spikes — and predictive scaling approaches; worth reading to inform GPU cluster design, but no GA tool, deadline, or breaking change anchors an action now.
 - **CI/CD — Skip**
