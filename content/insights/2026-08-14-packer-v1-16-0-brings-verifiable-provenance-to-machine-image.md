@@ -9,7 +9,7 @@ tags: ["packer", "supply-chain", "slsa"]
 cves: []
 source: "https://www.hashicorp.com/blog/packer-v1160-brings-verifiable-provenance-to-machine-images"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org builds custom AMIs or VM images with Packer, this GA release introduces native SLSA provenance that strengthens image supply-chain attestation — worth adopting this quarter as part of a platform hardening cycle.
 - **CI/CD — Plan:** Packer v1.16.0 adds native SLSA provenance generation to machine image builds; if your pipelines include image baking steps, schedule an update to enable provenance output and integrate verification into the release gate.

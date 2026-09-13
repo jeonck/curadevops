@@ -9,7 +9,7 @@ tags: ["kubernetes", "observability", "azure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568830"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** AKS operators can now collect native control plane metrics (API server, etcd, scheduler) through Managed Prometheus without custom exporters — worth scheduling adoption this quarter to close gaps in cluster observability.
 - **CI/CD — Skip**
