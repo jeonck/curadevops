@@ -9,7 +9,7 @@ tags: ["aws-lambda", "serverless", "guardrails"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** This default-on guardrail stops runaway Lambda recursion via S3/SQS/SNS and sends Health Dashboard alerts; worth knowing if you operate Lambda at scale, and note that intentional recursive patterns now require explicit opt-out via PutFunctionRecursionConfig.
 - **CI/CD — Skip**

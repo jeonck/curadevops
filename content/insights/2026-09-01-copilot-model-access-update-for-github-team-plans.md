@@ -9,7 +9,7 @@ tags: ["github-copilot", "billing", "governance"]
 cves: []
 source: "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

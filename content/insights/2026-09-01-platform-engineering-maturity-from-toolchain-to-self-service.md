@@ -9,7 +9,7 @@ tags: ["platform-engineering", "developer-experience", "maturity-model"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Conceptual framing on platform maturity stages may inform how teams think about IDP evolution, but no operational change or deadline is present.
 - **CI/CD — Skip**

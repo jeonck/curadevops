@@ -9,7 +9,7 @@ tags: ["aws-msk", "kafka", "streaming"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Teams running MSK Connect can now restart connectors and individual failed tasks instead of deleting and recreating them, reducing recovery toil. No migration required — worth updating runbooks if you operate Kafka Connect pipelines on MSK.
 - **CI/CD — Skip**
