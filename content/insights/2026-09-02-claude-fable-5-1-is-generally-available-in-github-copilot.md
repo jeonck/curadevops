@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-coding", "anthropic"]
 cves: []
 source: "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

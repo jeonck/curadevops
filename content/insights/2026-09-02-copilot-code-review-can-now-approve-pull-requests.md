@@ -9,7 +9,7 @@ tags: ["github-actions", "developer-experience", "ai"]
 cves: []
 source: "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Copilot can now be authorized to formally approve PRs, which could change how teams gate merges; worth evaluating if the org uses GitHub and wants to automate lightweight review sign-off.

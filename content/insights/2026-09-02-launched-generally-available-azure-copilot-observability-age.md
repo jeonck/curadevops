@@ -9,7 +9,7 @@ tags: ["azure-monitor", "observability", "log-analytics"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570250"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Teams using Azure Monitor who store high-volume telemetry in Basic or Auxiliary tiers can now query that data through the AI observability agent without changing storage strategy; worth evaluating during next observability stack review.
 - **CI/CD — Skip**

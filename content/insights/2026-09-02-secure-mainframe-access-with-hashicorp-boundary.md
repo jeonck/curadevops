@@ -9,7 +9,7 @@ tags: ["secrets-management", "access-control", "mainframe"]
 cves: []
 source: "https://www.hashicorp.com/blog/secure-mainframe-access-with-hashicorp-boundary"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting pattern for zero-trust mainframe access using Boundary workers, but no deadline or GA capability change — worth evaluating if mainframes are in scope for the platform.
 - **CI/CD — Skip**

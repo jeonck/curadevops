@@ -9,7 +9,7 @@ tags: ["github", "cost-management", "developer-platform"]
 cves: []
 source: "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

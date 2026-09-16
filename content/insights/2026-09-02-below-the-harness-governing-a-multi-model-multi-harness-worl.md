@@ -9,7 +9,7 @@ tags: ["ai-agents", "security", "platform-engineering"]
 cves: []
 source: "https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

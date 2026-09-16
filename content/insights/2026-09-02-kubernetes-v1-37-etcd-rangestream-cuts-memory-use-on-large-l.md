@@ -9,7 +9,7 @@ tags: ["kubernetes", "etcd", "memory-optimization"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** RangeStream is still beta in v1.37 (requires etcd v3.7), so not yet production-adoptable, but SREs running clusters with many large objects (e.g., Pods at scale) should track this as a near-term mitigation for API server and etcd OOM risk during cache repopulation.
 - **CI/CD — Skip**

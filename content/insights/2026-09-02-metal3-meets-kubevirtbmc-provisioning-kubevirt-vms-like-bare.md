@@ -9,7 +9,7 @@ tags: ["kubernetes", "bare-metal", "kubevirt"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting integration pattern for teams using KubeVirt and Metal3 together, enabling bare-metal provisioning workflows for VMs. No GA release, deadline, or operational change required; worth evaluating if your platform uses KubeVirt.
 - **CI/CD — Skip**
