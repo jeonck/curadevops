@@ -9,7 +9,7 @@ tags: ["aws", "auto-scaling", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Useful GA capability for teams running large ephemeral fleets (ML training, event-driven); worth adopting in scale-down logic this quarter to reduce API call overhead and simplify fleet teardown scripts.
 - **CI/CD — Skip**

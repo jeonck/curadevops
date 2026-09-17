@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-tools", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

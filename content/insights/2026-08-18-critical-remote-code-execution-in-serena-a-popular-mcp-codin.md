@@ -9,7 +9,7 @@ tags: ["mcp-security", "rce", "ai-coding-agent"]
 cves: []
 source: "https://about.gitlab.com/blog/critical-rce-in-serena/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Act:** Published GHSA-pp25-4cg4-qcr9 details a critical server-side template injection in serena-agent ≤1.6.1 that executes arbitrary code via a malicious .serena/project.yml smuggled in any cloned repo — a direct supply-chain threat to developer and CI environments; upgrade to serena-agent 1.7.0 now.

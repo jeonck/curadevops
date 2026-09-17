@@ -9,7 +9,7 @@ tags: ["kubernetes", "autoscaling", "hpa"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Beta (pre-GA) feature that eliminates the need for external add-ons to scale queue consumers and GPU/CPU batch workloads to zero; worth evaluating in non-production clusters now, with a plan to adopt when it reaches GA.
 - **CI/CD — Skip**

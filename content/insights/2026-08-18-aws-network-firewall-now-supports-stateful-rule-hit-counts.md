@@ -9,7 +9,7 @@ tags: ["aws", "network-firewall", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Rule hit counts are now enabled by default on AWS Network Firewall stateful rules, enabling detection of shadow, redundant, and unused rules — worth scheduling a policy audit this quarter to clean up firewall rule sets.
 - **CI/CD — Skip**

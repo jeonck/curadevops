@@ -9,7 +9,7 @@ tags: ["kubernetes", "namespaces", "migration"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Practical walkthrough for a common platform hygiene problem — useful for designing or documenting a namespace migration runbook, but no EOL date or active risk requiring immediate action.
 - **CI/CD — Skip**

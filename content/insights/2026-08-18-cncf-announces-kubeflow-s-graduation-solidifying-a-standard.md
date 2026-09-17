@@ -9,7 +9,7 @@ tags: ["kubeflow", "mlops", "kubernetes"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/08/17/cncf-announces-kubeflows-graduation-solidifying-the-standard-for-cloud-native-ai-operations/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Kubeflow's CNCF graduation signals broader enterprise adoption maturity; worth evaluating if your org runs ML workloads on Kubernetes, but no operational change required today.
 - **CI/CD — Skip**

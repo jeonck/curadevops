@@ -9,7 +9,7 @@ tags: ["aws-bedrock", "govcloud", "ai-tooling"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

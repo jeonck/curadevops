@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise", "ai-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
