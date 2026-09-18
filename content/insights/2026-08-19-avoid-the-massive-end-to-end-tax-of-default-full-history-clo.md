@@ -9,7 +9,7 @@ tags: ["git-optimization", "ci-performance", "agentic-ai"]
 cves: []
 source: "https://about.gitlab.com/blog/git-clone-override-policy/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant for teams self-hosting GitLab — shallow and partial clones reduce server-side pack-building load, which compounds as agentic workloads increase clone frequency. No operational change required today, but useful context for capacity planning.
 - **CI/CD — Plan:** Audit pipeline clone configurations and migrate to shallow (`--depth=1`) or partial (`--filter=blob:none`) clones; benchmarks show up to 93% time and 98% disk reduction per clone. No hard deadline, but AI-agent-driven clone volume makes this a near-term efficiency project worth scheduling this quarter.

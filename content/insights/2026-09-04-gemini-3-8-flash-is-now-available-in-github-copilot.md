@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-models", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-copilot", "saas", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

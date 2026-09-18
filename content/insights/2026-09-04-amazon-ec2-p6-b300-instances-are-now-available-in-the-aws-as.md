@@ -9,7 +9,7 @@ tags: ["aws", "gpu-compute", "ec2"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New NVIDIA Blackwell Ultra GPU instance type now available in Jakarta — worth noting for teams with AI/ML workloads in that region, but no operational change required for existing infrastructure.
 - **CI/CD — Skip**

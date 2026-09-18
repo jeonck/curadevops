@@ -9,7 +9,7 @@ tags: ["ai-infrastructure", "gpu", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing for platform engineers thinking about how to architect heterogeneous CPU/GPU workloads in production; no operational change required today.
 - **CI/CD — Skip**

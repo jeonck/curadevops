@@ -9,7 +9,7 @@ tags: ["azure-app-service", "cloud-migration", "managed-service"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568952"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Azure App Service capability that enables lift-and-shift of on-premises or VM-hosted web apps to PaaS with minimal config changes; worth evaluating this quarter if the org runs any workloads on Azure VMs or bare metal that could be moved to a managed runtime.
 - **CI/CD — Skip**
