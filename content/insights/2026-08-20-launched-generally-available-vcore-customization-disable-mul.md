@@ -9,7 +9,7 @@ tags: ["azure", "virtual-machines", "compute"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=569051"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Now GA, these features let you right-size compute for workloads needing predictable single-threaded performance (e.g. licensed-per-core DBs) or reduced licensing costs; evaluate whether any production node pools or VM fleets would benefit from constrained-core configurations this quarter.
 - **CI/CD — Skip**

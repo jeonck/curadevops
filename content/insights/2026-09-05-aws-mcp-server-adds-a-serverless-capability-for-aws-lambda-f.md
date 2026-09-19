@@ -9,7 +9,7 @@ tags: ["aws-lambda", "ai-tooling", "serverless"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New AI-assisted diagnostic capability for Lambda and connected services (API Gateway, EventBridge, DynamoDB, etc.) is worth evaluating if your team uses AI coding agents, but it requires no platform-side change today.
 - **CI/CD — Skip**

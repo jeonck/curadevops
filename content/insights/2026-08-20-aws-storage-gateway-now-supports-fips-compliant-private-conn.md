@@ -9,7 +9,7 @@ tags: ["aws", "storage-gateway", "fips"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run Tape or Volume Gateway for regulated workloads, you can now route FIPS-compliant traffic privately via PrivateLink instead of over the public internet; plan to create a FIPS interface VPC endpoint and re-activate gateways on software version 3.2.7 or later.
 - **CI/CD — Skip**

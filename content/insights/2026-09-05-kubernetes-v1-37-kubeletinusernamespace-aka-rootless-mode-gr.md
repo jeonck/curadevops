@@ -9,7 +9,7 @@ tags: ["kubernetes", "security", "rootless"]
 cves: ["CVE-2019-19921", "CVE-2022-0811", "CVE-2023-27561"]
 source: "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Beta (pre-GA) cap applies, but this is worth evaluating: running kubelet and container runtimes in a Linux user namespace reduces blast radius of node-component CVEs like cr8escape and the 2023 runc procfs bypass; test in non-production clusters before v1.38 targets GA.
 - **CI/CD — Skip**

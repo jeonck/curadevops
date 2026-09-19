@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "ami"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability lets AMI owners enforce instance-type compatibility at launch, reducing failed deployments from mismatched pairings. Worth evaluating for custom AMIs shared across teams, but no existing workflow is affected until restrictions are explicitly set.
 - **CI/CD — Skip**

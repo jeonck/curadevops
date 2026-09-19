@@ -9,7 +9,7 @@ tags: ["aws-ec2", "graviton", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Graviton5 instances offer up to 25% better compute performance over C8g in Tokyo; worth evaluating for compute-intensive or latency-sensitive workloads in that region, but no migration deadline or forced change.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["ai-coding", "github-copilot", "llm"]
 cves: []
 source: "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

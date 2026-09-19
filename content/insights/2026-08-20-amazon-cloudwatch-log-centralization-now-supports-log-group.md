@@ -9,7 +9,7 @@ tags: ["cloudwatch", "observability", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams using CloudWatch Centralization can now preserve cost, ownership, and compliance tags across accounts — worth enabling tag propagation on existing centralization rules to unlock IAM scoping and per-team cost attribution in Cost Explorer.
 - **CI/CD — Skip**
