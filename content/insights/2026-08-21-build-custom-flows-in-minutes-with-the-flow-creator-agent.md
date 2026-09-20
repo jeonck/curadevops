@@ -9,7 +9,7 @@ tags: ["gitlab", "automation", "ai-assisted"]
 cves: []
 source: "https://about.gitlab.com/blog/flow-creator-agent/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** New GA capability in GitLab 19.3 that lets domain experts author Custom Flows via natural language instead of learning the Flow Registry YAML schema; worth evaluating this quarter to reduce the bottleneck between process knowledge and automation authorship.

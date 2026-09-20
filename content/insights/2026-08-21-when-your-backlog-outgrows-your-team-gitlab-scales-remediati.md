@@ -9,7 +9,7 @@ tags: ["gitlab", "sast", "security"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-scales-remediation/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams self-hosting GitLab should note that 19.3 reaches EOL 2026-11-19 (~90 days); plan an upgrade to 19.4 or later before that date to stay on a supported version.
 - **CI/CD — Learn:** GitLab 19.3 GA adds bulk false-positive dismissal and agentic SAST remediation for existing vulnerability backlogs — worth evaluating if your pipelines already produce GitLab SAST findings, but no urgent action is required.

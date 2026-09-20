@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-gateway", "data-residency"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-dedicated-ai-gateway/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org runs GitLab Dedicated, the AI Gateway for Duo Agent Platform is now deployable inside your single-tenant environment, keeping AI-processed data in your chosen AWS region. Evaluate this quarter whether to enable it as part of your agentic DevOps rollout.
 - **CI/CD — Skip**
