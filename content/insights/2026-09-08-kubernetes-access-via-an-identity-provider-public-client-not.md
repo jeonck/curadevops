@@ -9,7 +9,7 @@ tags: ["kubernetes", "identity", "access-control"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Covers OIDC/IdP integration patterns for on-prem Kubernetes clusters where IAM isn't bundled — useful for evaluating or hardening auth config, but no deadline or breaking change.
 - **CI/CD — Skip**

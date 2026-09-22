@@ -9,7 +9,7 @@ tags: ["log-analysis", "incident-diagnosis", "developer-tools"]
 cves: []
 source: "https://github.com/MangoGreenTeaz/FaultLens"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Explicitly targets CI/CD log diagnosis; worth a look as a local pipeline-debugging aid, though 65 stars and no enrichment signals mean there is nothing to act on yet.

@@ -9,7 +9,7 @@ tags: ["ci-cd", "observability", "opentelemetry"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Describes an approach to adding pipeline observability (queue times, flakiness, latency) without modifying workflow files — worth evaluating when improving CI visibility, but no deadline or GA product to adopt yet.

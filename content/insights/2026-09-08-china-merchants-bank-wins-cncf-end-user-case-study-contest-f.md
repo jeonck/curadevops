@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu-utilization", "ai-infrastructure"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/09/07/china-merchants-bank-wins-cncf-end-user-case-study-contest-for-unifying-ai-training-and-inference-on-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting case study on consolidating AI training and inference onto shared Kubernetes infrastructure, improving accelerator utilization from 35% to 60%+ — useful reference architecture if evaluating GPU workload scheduling.
 - **CI/CD — Skip**
