@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "jetbrains"]
 cves: []
 source: "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

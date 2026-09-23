@@ -9,7 +9,7 @@ tags: ["kubernetes", "scheduling", "ai-ml"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Kubernetes 1.37 is a GA minor release (EOL 2027-10-28) with no urgent upgrade pressure, and its headline features — gang scheduling, Workload-Aware Preemption, CompositePodGroup — are Beta or newly introduced, capping this at Learn. Worth tracking for teams running AI/ML or large batch workloads on Kubernetes as these APIs stabilize toward GA.
 - **CI/CD — Skip**

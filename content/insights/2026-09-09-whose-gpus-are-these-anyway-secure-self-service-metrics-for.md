@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu", "observability"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Explores patterns for exposing per-tenant GPU utilization metrics without cross-tenant visibility leakage — worth reviewing if you operate shared GPU clusters, but no tooling release or deadline anchors this as actionable now.
 - **CI/CD — Skip**

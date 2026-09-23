@@ -9,7 +9,7 @@ tags: ["cloud-native", "ai", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

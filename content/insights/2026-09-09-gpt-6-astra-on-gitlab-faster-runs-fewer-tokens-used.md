@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-assisted-dev", "developer-experience"]
 cves: []
 source: "https://about.gitlab.com/blog/gpt6-astra-on-gitlab/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitLab Duo's new model backend delivers faster agentic runs and lower token consumption for tasks like dependency updates and build fixes — worth evaluating if your team already uses GitLab Duo for pipeline automation, but no migration or configuration change is required today.
