@@ -9,7 +9,7 @@ tags: ["kubernetes", "node-lifecycle", "observability"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Five new standardized Node conditions (DrainInProgress, Drained, MaintenancePlanned, MaintenanceInProgress, GracefulNodeShutdownInProgress) give operators a shared Kubernetes-native way to observe drain and maintenance state. Worth evaluating for alerting and automation integration, but the feature is newly introduced (likely alpha) so no production adoption yet.
 - **CI/CD — Skip**

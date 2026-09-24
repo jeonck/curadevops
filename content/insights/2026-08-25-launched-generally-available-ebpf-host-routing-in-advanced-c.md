@@ -9,7 +9,7 @@ tags: ["kubernetes", "ebpf", "azure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=569873"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA release moves AKS packet forwarding into the kernel via eBPF, potentially reducing latency and CPU overhead for networking-heavy workloads; plan evaluation and enablement on AKS clusters running Advanced Container Networking Services this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["test-observability", "cypress", "grafana-cloud"]
 cves: []
 source: "https://grafana.com/blog/how-to-monitor-cypress-tests-with-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** The pattern of pushing per-spec pass/fail and duration metrics to a Prometheus Pushgateway and forwarding them to Grafana Cloud gives CI engineers a durable way to spot flaky-test and slowdown trends across runs; no new release or deadline, and the tutorial lives on Grafana's own marketing blog.

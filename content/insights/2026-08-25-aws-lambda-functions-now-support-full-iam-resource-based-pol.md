@@ -9,7 +9,7 @@ tags: ["aws-lambda", "iam", "cloud-security"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Platform teams managing Lambda in multi-account architectures can now consolidate per-principal permission statements into single policy documents with full IAM condition key support (source IP, principal tags, etc.). Plan a policy consolidation pass for existing Lambda functions to reduce policy sprawl and simplify ongoing management.
 - **CI/CD — Skip**

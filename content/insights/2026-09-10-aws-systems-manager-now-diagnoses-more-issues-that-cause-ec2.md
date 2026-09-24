@@ -9,7 +9,7 @@ tags: ["aws-ssm", "ec2", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** SSM now surfaces six additional root-cause categories (IAM, agent version, OS config, etc.) for unmanaged EC2 instances, reducing time-to-resolution for fleet onboarding issues. No migration or deadline; worth noting for teams that struggle to diagnose why instances fall out of SSM management.
 - **CI/CD — Skip**
