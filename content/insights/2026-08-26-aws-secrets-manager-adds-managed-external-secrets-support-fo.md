@@ -9,7 +9,7 @@ tags: ["secrets-management", "aws", "credential-rotation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your platform integrates Cisco Security Cloud Control or Netskope, you can now remove any custom Lambda rotation logic and let Secrets Manager handle scheduled credential rotation natively; worth scheduling a migration this quarter for affected integrations.
 - **CI/CD — Skip**

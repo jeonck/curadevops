@@ -9,7 +9,7 @@ tags: ["aws-lambda", "privatelink", "network-isolation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability that changes the connectivity architecture for Lambda MicroVMs in regulated environments — if you operate Lambda MicroVMs today or are evaluating them for compliance-sensitive workloads, schedule an evaluation to replace public-internet API paths with PrivateLink VPC Endpoints.
 - **CI/CD — Skip**

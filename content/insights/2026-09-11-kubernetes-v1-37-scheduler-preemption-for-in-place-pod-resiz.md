@@ -9,7 +9,7 @@ tags: ["kubernetes", "scheduling", "alpha"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Alpha feature behind a feature gate that closes the 'deferred' resize gap introduced when in-place pod resizing went GA in 1.35; worth tracking for future VPA and priority-class design, but no cluster change warranted until it graduates.
 - **CI/CD — Skip**

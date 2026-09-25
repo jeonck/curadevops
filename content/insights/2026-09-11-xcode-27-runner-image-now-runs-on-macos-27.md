@@ -9,7 +9,7 @@ tags: ["github-actions", "macos", "runner"]
 cves: []
 source: "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** macOS 27 / Xcode 27 runner is in public preview — worth noting for teams with Apple app pipelines, but pre-GA status caps this at Learn with no action yet.

@@ -9,7 +9,7 @@ tags: ["ai-infrastructure", "kubernetes", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Offers design-level thinking on what makes a platform genuinely AI-ready beyond GPU provisioning — useful for shaping how the team evaluates multi-node training infrastructure, but no operational change required today.
 - **CI/CD — Skip**

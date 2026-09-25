@@ -9,7 +9,7 @@ tags: ["aws", "vmware", "regional-expansion"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Amazon EVS (Elastic VMware Service) now available in AP Osaka, AP Taipei, EU Spain, and Israel Tel Aviv, expanding options for VMware workloads with lower latency and data residency coverage — no action required unless actively planning VMware-to-AWS migration in these geographies.
 - **CI/CD — Skip**

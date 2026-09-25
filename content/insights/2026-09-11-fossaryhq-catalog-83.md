@@ -9,7 +9,7 @@ tags: ["self-hosted", "docker-compose", "catalog"]
 cves: []
 source: "https://github.com/fossaryhq/catalog"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A curated catalog of reviewed Docker Compose recipes for self-hosted apps is a useful reference when evaluating tools to run on internal infrastructure, but it carries no urgency or operational deadline.
 - **CI/CD — Skip**

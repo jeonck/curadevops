@@ -9,7 +9,7 @@ tags: ["github-actions", "code-scanning", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Public preview API for programmatic control of GitHub's AI code scanning on PRs — worth tracking for future pipeline integration, but not actionable until GA.

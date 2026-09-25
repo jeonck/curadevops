@@ -9,7 +9,7 @@ tags: ["github", "repository-rules", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** The GA rule insights dashboard gives pipeline and release teams visibility into how GitHub enforces branch protection and ruleset policies; worth enabling at the org level to surface enforcement gaps in your release process.

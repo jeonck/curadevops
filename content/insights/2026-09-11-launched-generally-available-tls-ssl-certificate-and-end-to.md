@@ -9,7 +9,7 @@ tags: ["azure", "tls", "serverless"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570940"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability for end-to-end TLS on Azure Functions Flex Consumption; worth noting if your platform uses this hosting model, but no migration deadline or breaking change.
 - **CI/CD — Skip**
