@@ -9,7 +9,7 @@ tags: ["kubernetes", "observability", "prometheus"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Beta (pre-GA) native histograms are now enabled by default in Kubernetes 1.37, changing how latency/duration metrics are exposed by core components like the API server; worth evaluating Prometheus and Grafana compatibility before upgrading clusters to 1.37.
 - **CI/CD — Skip**

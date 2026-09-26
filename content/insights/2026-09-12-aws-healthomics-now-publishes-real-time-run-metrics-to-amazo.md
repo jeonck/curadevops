@@ -9,7 +9,7 @@ tags: ["aws-healthomics", "observability", "cloudwatch"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA observability capability for HealthOmics workflows emitting CPU, GPU, memory, and storage metrics via OpenTelemetry to CloudWatch; relevant only if you operate bioinformatics workloads on HealthOmics, with no operational change required.
 - **CI/CD — Skip**

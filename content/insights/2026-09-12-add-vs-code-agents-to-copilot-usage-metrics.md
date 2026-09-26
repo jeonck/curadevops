@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "metrics"]
 cves: []
 source: "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
