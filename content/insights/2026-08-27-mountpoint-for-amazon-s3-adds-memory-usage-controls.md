@@ -9,7 +9,7 @@ tags: ["s3", "kubernetes", "storage"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run Mountpoint in EKS or other memory-constrained environments, upgrading to the latest release lets you set explicit memory targets or rely on automatic container-limit detection, preventing the expansion-over-time instability that previously competed with ML or analytics workloads. No deadline, but worth scheduling as a planned upgrade this quarter if Mountpoint is in your stack.
 - **CI/CD — Skip**

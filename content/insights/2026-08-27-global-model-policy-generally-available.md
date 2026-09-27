@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-policy", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

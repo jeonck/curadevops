@@ -9,7 +9,7 @@ tags: ["aks", "azure-bastion", "kubernetes"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570030"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA Bastion-to-AKS tunneling removes the need for a public API server endpoint or VPN for cluster access; evaluate adopting this as the standard private-cluster access pattern in your AKS environments this quarter.
 - **CI/CD — Skip**

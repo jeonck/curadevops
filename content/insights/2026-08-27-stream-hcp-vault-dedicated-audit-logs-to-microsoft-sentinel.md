@@ -9,7 +9,7 @@ tags: ["hcp-vault", "audit-logging", "microsoft-sentinel"]
 cves: []
 source: "https://www.hashicorp.com/blog/hcp-vault-dedicated-audit-logs-microsoft-sentinel"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run HCP Vault Dedicated on Azure and use Microsoft Sentinel for SIEM, schedule building the Terraform-managed audit log pipeline described here; no deadline exists, but closing this observability gap is a concrete infrastructure task worth adding to the backlog this quarter.
 - **CI/CD — Skip**

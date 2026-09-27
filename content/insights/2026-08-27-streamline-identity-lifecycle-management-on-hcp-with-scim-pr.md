@@ -9,7 +9,7 @@ tags: ["hashicorp", "identity", "scim"]
 cves: []
 source: "https://www.hashicorp.com/blog/streamline-identity-lifecycle-management-on-hcp-with-scim-provisioning"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org uses HCP (Vault, Terraform Cloud, etc.) and an external IdP, evaluate enabling SCIM provisioning to automate user/group sync and reduce manual access management overhead; no deadline, but worth scheduling this quarter.
 - **CI/CD — Skip**
