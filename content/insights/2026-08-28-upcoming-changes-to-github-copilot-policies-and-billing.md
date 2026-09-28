@@ -9,7 +9,7 @@ tags: ["github-copilot", "billing", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

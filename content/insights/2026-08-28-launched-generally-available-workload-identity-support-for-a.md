@@ -9,7 +9,7 @@ tags: ["aks", "kubernetes", "azure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570120"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability lets AKS pods authenticate to SMB file shares via workload identity instead of node-level managed identity, improving least-privilege posture. Evaluate replacing existing managed-identity-based Azure Files mounts with workload identity bindings in your next infrastructure review cycle.
 - **CI/CD — Skip**

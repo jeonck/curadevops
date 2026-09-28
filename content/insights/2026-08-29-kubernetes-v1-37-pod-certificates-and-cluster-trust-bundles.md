@@ -9,7 +9,7 @@ tags: ["kubernetes", "workload-identity", "mtls"]
 cves: []
 source: "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Pod Certificates and Cluster Trust Bundles reaching GA in Kubernetes 1.37 introduces native X.509/mTLS workload identity as an alternative to service account JWTs; evaluate adopting cluster trust bundles and pod certificate issuance this quarter for services requiring mTLS.
 - **CI/CD — Skip**

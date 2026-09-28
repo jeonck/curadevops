@@ -9,7 +9,7 @@ tags: ["cloudwatch", "observability", "journald"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running Amazon Linux 2023 or other systemd-only distros no longer need disk-export workarounds to ship structured journal logs to CloudWatch. Update the CloudWatch agent to the latest version and add a journald config block to consolidate logging for those instances this quarter.
 - **CI/CD — Skip**
