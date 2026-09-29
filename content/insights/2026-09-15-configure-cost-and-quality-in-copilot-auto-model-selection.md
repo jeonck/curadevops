@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "ai-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

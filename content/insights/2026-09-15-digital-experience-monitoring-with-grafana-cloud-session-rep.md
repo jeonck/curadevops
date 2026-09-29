@@ -9,7 +9,7 @@ tags: ["observability", "grafana", "frontend-monitoring"]
 cves: []
 source: "https://grafana.com/blog/digital-experience-monitoring-with-grafana-cloud-session-replay-synthetic-checks-and-faster-investigations/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capabilities in Grafana Cloud's DEM stack—Session Replay and enhanced synthetic checks—could reshape how platform teams approach frontend observability alongside existing backend signals, but no action or deadline is attached.
 - **CI/CD — Skip**
