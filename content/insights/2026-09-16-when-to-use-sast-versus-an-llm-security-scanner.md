@@ -9,7 +9,7 @@ tags: ["application-security", "sast", "llm-scanning"]
 cves: []
 source: "https://about.gitlab.com/blog/sast-vs-llm-security-scanner/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Useful framework for deciding where deterministic SAST and LLM-based review each earn their place in a pipeline — but no deadline, no deprecation, and no concrete change required today.

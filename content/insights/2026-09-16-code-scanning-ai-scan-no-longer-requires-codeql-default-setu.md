@@ -9,7 +9,7 @@ tags: ["code-scanning", "github-actions", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** AI Scan can now be enabled on repos that haven't configured CodeQL default setup, lowering the barrier to adding automated security scanning to pull request workflows — worth revisiting if teams have been blocked on CodeQL prerequisites.

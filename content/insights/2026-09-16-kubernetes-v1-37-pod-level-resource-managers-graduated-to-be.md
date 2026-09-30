@@ -9,7 +9,7 @@ tags: ["kubernetes", "numa-topology", "resource-management"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Beta graduation means the feature is now more stable and worth evaluating for latency-critical workloads using NUMA-aligned CPU/memory, but it remains disabled by default and pre-GA status caps this at Learn — no action needed until GA.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "secrets-management", "openbao"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Practical integration guide for OpenBao (the Linux Foundation Vault fork) backed by a self-healing CloudNativePG instance — worth evaluating as a vendor-lock-in-free secrets management pattern, but no deadline or operational trigger to act on now.
 - **CI/CD — Skip**
