@@ -9,7 +9,7 @@ tags: ["aws", "ai-agents", "governance"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA AWS service adds cross-account agent catalog support via CloudFormation, Terraform, CDK, and AWS RAM — worth evaluating this quarter if your org is building shared AI agent infrastructure, as it may change how you architect agent discovery and access control across accounts.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["pulumi", "secrets", "iac"]
 cves: []
 source: "https://github.com/pulumi/pulumi/releases/tag/sdk%2Fv3.260.0"
 source_name: "Releases: pulumi"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you use Pulumi with connection-string URLs (e.g. Postgres), upgrade to sdk/v3.260.0 to prevent passwords leaking into state/log output; no hard deadline but a meaningful security hygiene improvement.
 - **CI/CD — Skip**

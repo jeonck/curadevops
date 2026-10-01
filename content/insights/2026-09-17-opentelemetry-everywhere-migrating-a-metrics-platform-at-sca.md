@@ -9,7 +9,7 @@ tags: ["opentelemetry", "observability", "migration"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A real-world case study on migrating a large-scale metrics pipeline from gostatsd to OpenTelemetry—useful for teams evaluating or planning a similar transition, but no action required today.
 - **CI/CD — Skip**

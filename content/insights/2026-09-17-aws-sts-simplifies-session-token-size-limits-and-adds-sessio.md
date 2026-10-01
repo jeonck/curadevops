@@ -9,7 +9,7 @@ tags: ["aws-sts", "iam", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The consolidated 4,096-byte limit and new CloudWatch/CloudTrail session token size metrics are worth noting for teams that use large inline policies or session tags in STS calls; no action required, no deadline, but the new metrics can surface token-bloat issues proactively.
 - **CI/CD — Skip**

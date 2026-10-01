@@ -9,7 +9,7 @@ tags: ["kubernetes", "storage-migration", "crd-lifecycle"]
 cves: []
 source: "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** StorageVersionMigration API (storagemigration.k8s.io/v1) is now stable and enabled by default in Kubernetes 1.37, removing the need for manual migration scripts when promoting or dropping CRD API versions. Plan to incorporate SVM into your CRD lifecycle runbooks when scheduling the upgrade to 1.37 (EOL 2027-10-28).
 - **CI/CD — Skip**

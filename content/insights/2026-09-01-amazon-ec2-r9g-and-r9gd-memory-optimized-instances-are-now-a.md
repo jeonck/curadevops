@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "graviton"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Graviton5 memory-optimized instances offer up to 25% better compute and 30% faster database performance vs R8g; evaluate migrating memory-intensive workloads (Kubernetes nodes, caches, databases) this quarter to capture the price-performance gains.
 - **CI/CD — Skip**

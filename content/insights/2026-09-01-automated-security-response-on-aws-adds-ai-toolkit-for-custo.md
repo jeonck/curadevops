@@ -9,7 +9,7 @@ tags: ["aws-security", "remediation", "automation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams using ASR on AWS should evaluate the AI Toolkit and expanded GuardDuty/Inspector/Macie coverage; the enhanced console replaces manual DynamoDB/SSM config, making this a worthwhile platform security upgrade to schedule this quarter.
 - **CI/CD — Skip**

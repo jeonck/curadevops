@@ -9,7 +9,7 @@ tags: ["aws", "redshift", "iam"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If Redshift is in your stack and you have data residency or network-isolation requirements, this is worth adopting: SSO via IAM Identity Center with all auth traffic staying inside your VPC via PrivateLink. Evaluate enabling EVR and wiring up Identity Center for your provisioned clusters or serverless workgroups this quarter.
 - **CI/CD — Skip**
