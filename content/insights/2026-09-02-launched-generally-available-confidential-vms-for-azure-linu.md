@@ -9,7 +9,7 @@ tags: ["azure", "kubernetes", "security"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570100"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** CVM node pools on AKS are now GA, enabling sensitive workload isolation at the hardware level; evaluate whether regulated or high-sensitivity workloads in your clusters warrant migrating to CVM node pools this quarter.
 - **CI/CD — Skip**

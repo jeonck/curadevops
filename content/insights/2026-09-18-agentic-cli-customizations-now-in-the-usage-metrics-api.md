@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "metrics"]
 cves: []
 source: "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

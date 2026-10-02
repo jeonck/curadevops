@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-coding", "developer-productivity"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-duo-cli-drives-automation/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

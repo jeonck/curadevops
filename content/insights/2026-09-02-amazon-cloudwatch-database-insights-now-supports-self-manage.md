@@ -9,7 +9,7 @@ tags: ["observability", "postgresql", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability unifies monitoring of self-managed PostgreSQL on EC2 alongside RDS/Aurora in a single console; worth evaluating if you run mixed database fleets to consolidate your observability stack.
 - **CI/CD — Skip**

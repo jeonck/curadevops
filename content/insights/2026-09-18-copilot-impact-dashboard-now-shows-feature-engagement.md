@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "analytics"]
 cves: []
 source: "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

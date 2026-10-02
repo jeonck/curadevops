@@ -9,7 +9,7 @@ tags: ["mcp", "ai-agents", "cicd-governance"]
 cves: []
 source: "https://about.gitlab.com/blog/new-mcp-tools-for-automation/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Introduces a governance model for MCP-connected agents that can run pipelines and open merge requests — worth understanding as a design pattern for scoping agent permissions before broader agentic rollouts, but no concrete migration or deadline exists yet.

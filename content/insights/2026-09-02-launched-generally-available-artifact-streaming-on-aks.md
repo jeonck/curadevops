@@ -9,7 +9,7 @@ tags: ["aks", "container-registry", "kubernetes"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570095"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Artifact streaming on AKS+ACR is now GA and can reduce pod startup latency during scale-out events; evaluate enabling it for workloads where image pull time is a bottleneck this quarter.
 - **CI/CD — Skip**

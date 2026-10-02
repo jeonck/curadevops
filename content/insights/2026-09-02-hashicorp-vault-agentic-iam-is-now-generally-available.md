@@ -9,7 +9,7 @@ tags: ["vault", "secrets-management", "agentic-ai"]
 cves: []
 source: "https://www.hashicorp.com/blog/hashicorp-vault-agentic-iam-is-now-generally-available"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org runs Vault Enterprise and is deploying AI agent workloads, this GA feature adds purpose-built IAM controls worth evaluating this quarter; no forced migration or deadline, but assess whether your current Vault version and license tier expose it.
 - **CI/CD — Skip**

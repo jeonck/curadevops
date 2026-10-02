@@ -9,7 +9,7 @@ tags: ["azure-monitor", "observability", "cost-optimization"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=569904"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability lets platform teams migrate high-volume compliance and audit Azure tables to the lower-cost Auxiliary plan without rebuilding pipelines. Evaluate which existing Log Analytics tables qualify for plan switching this quarter to reduce observability ingestion costs.
 - **CI/CD — Skip**

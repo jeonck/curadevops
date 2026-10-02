@@ -9,7 +9,7 @@ tags: ["azure", "container-security", "cloud-security"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570282"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your platform runs Azure Container Apps, this GA feature lets you consolidate posture management under Defender for Cloud rather than operating a separate security toolchain; evaluate enabling it this quarter.
 - **CI/CD — Skip**

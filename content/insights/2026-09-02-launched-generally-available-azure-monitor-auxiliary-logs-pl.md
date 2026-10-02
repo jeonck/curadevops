@@ -9,7 +9,7 @@ tags: ["azure-monitor", "observability", "sovereign-cloud"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=569899"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you operate workloads in Azure Government or Azure China, this new GA log tier offers a cheaper ingestion and retention path for high-volume compliance/audit logs — evaluate whether shifting verbose log streams to Auxiliary tables reduces your Monitor costs this quarter.
 - **CI/CD — Skip**

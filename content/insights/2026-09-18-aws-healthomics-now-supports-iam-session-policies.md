@@ -9,7 +9,7 @@ tags: ["aws", "iam", "healthomics"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful IAM pattern for multi-tenant HealthOmics workloads — session policies let you scope down permissions per run without proliferating IAM roles. No deadline; relevant only if you operate HealthOmics.
 - **CI/CD — Skip**

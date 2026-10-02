@@ -9,7 +9,7 @@ tags: ["aks", "windows", "kubernetes"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570090"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Windows Server 2025 is now a supported node OS on AKS, giving teams a clear upgrade target as older Windows Server versions approach end of support. Schedule evaluation of Windows node pool migration this quarter, especially if running 2019 or 2022 nodes — no forced-upgrade date is signaled yet, but the deprecation mention warrants adding it to the roadmap.
 - **CI/CD — Skip**
