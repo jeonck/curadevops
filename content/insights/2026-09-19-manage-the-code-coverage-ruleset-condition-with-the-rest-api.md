@@ -9,7 +9,7 @@ tags: ["github-actions", "code-coverage", "repository-rulesets"]
 cves: []
 source: "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitHub's REST API now exposes the code-coverage repository ruleset condition that was previously UI-only; useful context if you're automating ruleset management via IaC or scripts, but no migration or deadline required.

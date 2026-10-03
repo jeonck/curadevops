@@ -9,7 +9,7 @@ tags: ["aws-config", "compliance", "cloud-infrastructure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Config coverage for resources platform teams commonly operate — EKS::PodIdentityAssociation, RDS::DBProxy, EC2 route servers, and Organizations::Policy — is worth enabling in your Config recording and aggregator configuration this quarter to close compliance gaps. No deadline, but teams already using Config for compliance should audit which of the 60 new types overlap with their environment.
 - **CI/CD — Skip**

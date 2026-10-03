@@ -9,7 +9,7 @@ tags: ["azure", "virtual-machines", "sap"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571530"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA SAP-focused VM series worth tracking for future memory-intensive workload sizing, but no action until GA.
 - **CI/CD — Skip**

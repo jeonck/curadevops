@@ -9,7 +9,7 @@ tags: ["security", "nodejs", "supply-chain"]
 cves: []
 source: "https://about.gitlab.com/blog/critical-remote-code-execution-in-vm2/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Audit build scripts, custom GitHub Actions, and any Node.js-based pipeline tooling for vm2 usage; if found, update to 3.11.7 and disable require.external — the blog post describes a working exploit path (CVSS 10.0), so exposure is concrete even without a KEV entry. No forced deadline, but the publicly documented exploit makes this a near-term project, not a watch item.
