@@ -9,7 +9,7 @@ tags: ["kubernetes", "dra", "platform"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** DRA Extended Resource support is now stable in 1.37, letting existing extended-resource workloads (e.g. example.com/gpu) route through DRA drivers without ResourceClaims or device plugins — a meaningful adoption path to evaluate this quarter. EOL for 1.37 is 2027-10-28, so no forced upgrade yet; plan an evaluation of DRA adoption for GPU/device workloads in the current planning cycle.
 - **CI/CD — Skip**

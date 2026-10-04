@@ -9,7 +9,7 @@ tags: ["github-copilot", "deprecation", "ai-models"]
 cves: []
 source: "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If pipelines use Copilot API integrations or automation referencing specific deprecated models, update model references before October 2, 2026 to avoid broken AI-assisted workflows.

@@ -9,7 +9,7 @@ tags: ["ecs", "aws", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running ECS with Managed Daemons for logging or metrics collection should evaluate configuring auxiliary daemons as non-critical to prevent churn on mission-critical tasks; no deadline, but worth adopting this quarter when reviewing ECS daemon configurations.
 - **CI/CD — Skip**

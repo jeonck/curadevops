@@ -9,7 +9,7 @@ tags: ["github-actions", "runner-deprecation", "ci-cd"]
 cves: []
 source: "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** The new REST API surfacing runner version deprecations lets you proactively query upcoming retirements before they silently red-line pipelines. Integrate it into pipeline monitoring this quarter; no hard date was found in the signals, so this is a scheduled improvement rather than an emergency.

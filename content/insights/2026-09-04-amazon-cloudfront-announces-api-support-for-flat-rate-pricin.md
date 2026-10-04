@@ -9,7 +9,7 @@ tags: ["cloudfront", "pricing", "iac"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If your team uses CloudFront flat-rate plans, you can now automate subscription management via CloudFormation/CDK instead of manual console steps — useful for IaC-driven workflows but no operational change required today.
 - **CI/CD — Skip**

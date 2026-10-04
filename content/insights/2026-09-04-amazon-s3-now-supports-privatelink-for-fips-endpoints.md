@@ -9,7 +9,7 @@ tags: ["aws-s3", "fips-compliance", "privatelink"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability lets platform teams route FIPS-validated S3 traffic entirely within the VPC — actionable for teams running regulated or federal workloads; schedule a review of existing VPC endpoint configs and update to the FIPS S3 endpoint where compliance requires it.
 - **CI/CD — Skip**

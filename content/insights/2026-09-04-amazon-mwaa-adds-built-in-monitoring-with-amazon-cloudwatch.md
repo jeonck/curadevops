@@ -9,7 +9,7 @@ tags: ["aws", "mwaa", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running MWAA Provisioned environments should evaluate the new one-click recommended alarms and built-in metrics dashboard as a quick win for observability coverage without manual CloudWatch alarm configuration.
 - **CI/CD — Skip**
