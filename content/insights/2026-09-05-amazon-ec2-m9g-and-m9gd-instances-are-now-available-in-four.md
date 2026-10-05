@@ -9,7 +9,7 @@ tags: ["aws-ec2", "graviton", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run memory-intensive workloads (databases, in-memory caches) in any of these four newly covered regions, evaluate migrating from M8g to M9g this quarter for up to 25% better compute performance and the new Nitro Isolation Engine security guarantees.
 - **CI/CD — Skip**
