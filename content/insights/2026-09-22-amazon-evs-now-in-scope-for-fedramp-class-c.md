@@ -9,7 +9,7 @@ tags: ["aws", "fedramp", "vmware"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant if running VMware workloads on AWS in a government or regulated environment; no operational change required, but expands compliance options for teams evaluating EVS for FedRAMP-scoped workloads.
 - **CI/CD — Skip**
