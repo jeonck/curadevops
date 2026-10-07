@@ -9,7 +9,7 @@ tags: ["github-copilot", "security", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

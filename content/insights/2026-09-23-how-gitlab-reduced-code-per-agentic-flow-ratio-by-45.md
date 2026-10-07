@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-agents", "developer-experience"]
 cves: []
 source: "https://about.gitlab.com/blog/how-gitlab-reduced-code-per-agentic-flow-ratio/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["access-control", "ai-agents", "hashicorp"]
 cves: []
 source: "https://www.hashicorp.com/blog/secure-ai-agents-with-hashicorp-boundary"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Conceptual guidance on extending Boundary's identity-based access controls to AI agent workloads — worth tracking if the platform already runs Boundary, but no new release, deadline, or operational change is cited.
 - **CI/CD — Skip**

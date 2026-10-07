@@ -9,7 +9,7 @@ tags: ["opentelemetry", "github-copilot", "observability"]
 cves: []
 source: "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** OTel integration in Copilot is relevant to observability stack decisions if the org routes Copilot telemetry into existing pipelines, but no operational change is required today.
 - **CI/CD — Skip**

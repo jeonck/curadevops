@@ -9,7 +9,7 @@ tags: ["gitlab", "enterprise-scale", "architecture"]
 cves: []
 source: "https://about.gitlab.com/blog/how-to-design-gitlab-for-enterprise-scale/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Covers deployment model selection, high availability, DR, and Kubernetes considerations for GitLab at scale — useful design reference for teams evaluating or expanding a GitLab deployment, but no operational change required today.
 - **CI/CD — Learn:** The runner strategy section (workload isolation, operational load, capacity planning) is directly relevant, but the guide contains no new features, deprecations, or pipeline changes to act on.

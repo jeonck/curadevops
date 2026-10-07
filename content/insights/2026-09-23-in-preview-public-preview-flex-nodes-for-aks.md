@@ -9,7 +9,7 @@ tags: ["kubernetes", "azure", "edge"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571919"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview of AKS Flex Nodes enables hybrid and edge hosts as worker nodes connected to an Azure-managed control plane — worth evaluating if you run edge workloads, but pre-GA caps this at Learn.
 - **CI/CD — Skip**
