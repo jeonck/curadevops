@@ -9,7 +9,7 @@ tags: ["agent-deployment", "open-source", "developer-tooling"]
 cves: []
 source: "https://github.com/mikehasa/golive-skill"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Introduces an automated provisioning pattern (detect → plan → approve → apply → verify) for agent-assembled stacks; no operational surface on clusters or shared infra, so nothing to change today — worth tracking as IDP teams consider self-service deployment primitives.
 - **CI/CD — Skip**

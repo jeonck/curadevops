@@ -9,7 +9,7 @@ tags: ["github-copilot", "code-review", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** New GA enterprise-level defaults for Copilot code review may be relevant if your org uses GitHub Copilot in pull request workflows, but no pipeline change is required.

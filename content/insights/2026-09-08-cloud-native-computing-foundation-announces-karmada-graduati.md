@@ -9,7 +9,7 @@ tags: ["kubernetes", "multi-cluster", "cncf"]
 cves: []
 source: "https://www.cncf.io/announcements/2026/09/07/cloud-native-computing-foundation-announces-karmada-graduation/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** CNCF graduation signals Karmada is production-vetted; platform teams running multiple clusters or hybrid AI infrastructure should evaluate it as a multi-cluster orchestration candidate this planning cycle.
 - **CI/CD — Skip**
