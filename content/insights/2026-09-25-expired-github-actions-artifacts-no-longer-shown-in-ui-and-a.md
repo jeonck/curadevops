@@ -9,7 +9,7 @@ tags: ["github-actions", "artifacts", "api-change"]
 cves: []
 source: "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Expired artifacts no longer appear in the Actions run summary or via the REST API; any automation or scripts that queried the artifacts API and expected expired entries to be present may silently return fewer results — worth auditing artifact-listing logic.

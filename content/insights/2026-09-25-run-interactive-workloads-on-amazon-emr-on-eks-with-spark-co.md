@@ -9,7 +9,7 @@ tags: ["emr-on-eks", "spark", "kubernetes"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability that could influence how data teams use EKS clusters — interactive Spark sessions run as pods with IAM-scoped roles, worth understanding for capacity planning and RBAC design.
 - **CI/CD — Skip**

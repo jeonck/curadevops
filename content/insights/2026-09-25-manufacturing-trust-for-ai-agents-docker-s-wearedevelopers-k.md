@@ -9,7 +9,7 @@ tags: ["docker", "ai-agents", "supply-chain"]
 cves: []
 source: "https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Docker's agent isolation primitives (Sandboxes, Kits) could inform future pipeline sandboxing strategy, but these are conference-keynote announcements with no GA tooling to act on yet.

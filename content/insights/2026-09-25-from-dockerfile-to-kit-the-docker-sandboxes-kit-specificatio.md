@@ -9,7 +9,7 @@ tags: ["docker", "ai-agents", "oci"]
 cves: []
 source: "https://www.docker.com/blog/docker-sandbox-kit-spec/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pinnable OCI images for AI agent network rules, credentials, and volumes introduce a new pattern for agent isolation worth evaluating, but no existing infrastructure requires change and no GA adoption pressure exists yet.
 - **CI/CD — Skip**

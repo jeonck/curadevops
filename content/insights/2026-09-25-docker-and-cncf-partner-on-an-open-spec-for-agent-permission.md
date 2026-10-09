@@ -9,7 +9,7 @@ tags: ["ai-agents", "cncf", "oci"]
 cves: []
 source: "https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An emerging open spec for AI agent sandbox permissions built on OCI could shape how platform teams design isolation for agent workloads, but it is pre-adoption stage with no concrete operational change required now.
 - **CI/CD — Skip**

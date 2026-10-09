@@ -9,7 +9,7 @@ tags: ["github-enterprise", "ghes", "release"]
 cves: []
 source: "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GHES 3.22 GA means teams running self-hosted GHES should plan an upgrade evaluation this quarter. No forced-upgrade deadline is present, but a new minor release with platform-wide changes warrants scheduling a controlled upgrade project.
 - **CI/CD — Learn:** If your pipelines run on GitHub Actions hosted on GHES, this version bump may eventually surface new runner or Actions capabilities, but the release summary is too thin on CI/CD specifics to warrant a pipeline change today.

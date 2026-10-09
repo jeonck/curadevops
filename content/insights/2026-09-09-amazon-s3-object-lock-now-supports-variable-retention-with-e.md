@@ -9,7 +9,7 @@ tags: ["s3", "object-lock", "compliance"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-object-lock-variable-retention/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA S3 Object Lock capability lets you anchor WORM retention to a future event (contract close, audit complete) rather than a fixed date — relevant for platform teams managing compliant storage under SEC 17a-4(f), FINRA 4511, or CFTC 1.31. Evaluate updating your S3 bucket policies and IAM condition keys to adopt event holds for regulated data this quarter.
 - **CI/CD — Skip**

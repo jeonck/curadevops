@@ -9,7 +9,7 @@ tags: ["api-gateway", "mtls", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA feature enabling ACM-backed mTLS from API Gateway to backend services — worth adopting for any zero-trust or regulated workload this quarter; audit existing REST API integrations and plan certificate provisioning via ACM or AWS Private CA.
 - **CI/CD — Skip**

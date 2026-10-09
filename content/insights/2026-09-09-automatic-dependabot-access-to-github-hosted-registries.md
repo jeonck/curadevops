@@ -9,7 +9,7 @@ tags: ["dependabot", "github-packages", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Dependabot can now pull from private GitHub Packages registries without a PAT, using the existing 'Manage Actions access' permission — evaluate removing hardcoded tokens from Dependabot config to simplify credential management and reduce secret sprawl.

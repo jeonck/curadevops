@@ -9,7 +9,7 @@ tags: ["docker", "ai-agents", "developer-experience"]
 cves: []
 source: "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Portable microVM sandboxes for coding agents that migrate between local and cloud could inform how teams design secure, reproducible agent-driven automation environments — nothing to change in existing pipelines today.
