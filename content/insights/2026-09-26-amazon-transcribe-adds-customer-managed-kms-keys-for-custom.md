@@ -9,7 +9,7 @@ tags: ["aws", "encryption", "compliance"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New opt-in encryption option for Transcribe custom vocabularies and models; relevant if you operate Transcribe-based workloads with compliance requirements around key ownership, but no action required unless you need BYOK for audit or regulatory reasons.
 - **CI/CD — Skip**

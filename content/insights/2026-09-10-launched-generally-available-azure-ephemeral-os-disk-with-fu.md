@@ -9,7 +9,7 @@ tags: ["azure", "kubernetes", "infrastructure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570551"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA availability of full-caching ephemeral OS disks can meaningfully reduce node boot times and eliminate remote-storage I/O for node pools — worth evaluating for VMSS-backed AKS node groups this quarter.
 - **CI/CD — Skip**

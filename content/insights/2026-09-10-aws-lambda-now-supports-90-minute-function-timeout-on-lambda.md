@@ -9,7 +9,7 @@ tags: ["lambda", "serverless", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability removes a key architectural constraint that pushed long-running workloads off Lambda toward ECS/Batch/Step Functions; evaluate whether existing workarounds in the platform's serverless stack can be simplified this quarter.
 - **CI/CD — Skip**

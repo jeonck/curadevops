@@ -9,7 +9,7 @@ tags: ["aws-govcloud", "kubernetes", "certificate-management"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GovCloud operators running EKS with cert-manager and service meshes like Istio or Linkerd should evaluate adopting the Private CA EKS add-on to automate TLS certificate lifecycle; no deadline, but it simplifies a previously manual integration.
 - **CI/CD — Skip**

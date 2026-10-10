@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise", "github"]
 cves: []
 source: "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

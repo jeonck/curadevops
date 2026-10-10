@@ -9,7 +9,7 @@ tags: ["aws-lambda", "graviton", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org uses Lambda Managed Instances, evaluate migrating capacity providers to Graviton5 instance types (C9g, M9g) for up to 25% compute performance improvement at EC2 pricing; no deadline, but worth scheduling this quarter.
 - **CI/CD — Skip**

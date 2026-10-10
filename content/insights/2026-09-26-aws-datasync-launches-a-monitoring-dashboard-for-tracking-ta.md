@@ -9,7 +9,7 @@ tags: ["aws", "datasync", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful visibility improvement for teams running large DataSync migrations or recurring transfers — no action required, just awareness that a native dashboard now replaces custom CloudWatch setups.
 - **CI/CD — Skip**

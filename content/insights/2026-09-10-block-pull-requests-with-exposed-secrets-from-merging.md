@@ -9,7 +9,7 @@ tags: ["secret-scanning", "github", "supply-chain-security"]
 cves: []
 source: "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** New GA GitHub capability lets teams enforce secret-blocking via repository rulesets; schedule a rollout to enable this across all repos as a supply-chain hardening step this quarter.

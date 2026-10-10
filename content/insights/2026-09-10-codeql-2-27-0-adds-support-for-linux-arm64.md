@@ -9,7 +9,7 @@ tags: ["codeql", "security-scanning", "arm64"]
 cves: []
 source: "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your pipelines run CodeQL on ARM64 Linux runners, upgrading to 2.27.0 unlocks native support; also worth evaluating the new Rust security query and expanded Java/Kotlin and C# framework coverage for any affected repositories.

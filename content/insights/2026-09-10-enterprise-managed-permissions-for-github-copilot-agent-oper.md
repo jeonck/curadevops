@@ -9,7 +9,7 @@ tags: ["github-copilot", "permissions", "enterprise"]
 cves: []
 source: "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
