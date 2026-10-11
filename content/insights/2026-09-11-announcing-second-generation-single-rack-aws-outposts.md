@@ -9,7 +9,7 @@ tags: ["aws-outposts", "hybrid-cloud", "on-premises"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA hardware option delivers up to 2,688 vCPU in a 42U rack for space-constrained on-prem deployments; platform teams evaluating hybrid or edge architectures should assess whether it fits their latency or data-residency requirements this quarter.
 - **CI/CD — Skip**

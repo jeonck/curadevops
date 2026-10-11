@@ -9,7 +9,7 @@ tags: ["aws-ecs", "iam", "security"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org runs ECS and uses IAM SCPs or permission boundaries to govern resource allocation, update your IAM policies to enforce ecs:task-cpu and ecs:task-memory on RunTask and StartTask — this closes a gap where those controls were previously bypassable at launch time.
 - **CI/CD — Skip**

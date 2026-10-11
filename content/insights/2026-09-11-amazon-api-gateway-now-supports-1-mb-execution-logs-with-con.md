@@ -9,7 +9,7 @@ tags: ["api-gateway", "observability", "logging"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA feature meaningfully improves API Gateway observability: 1 KB log truncation was a real debugging blind spot, and the new ability to route up to 1 MB events to S3 (Parquet/Athena), CloudWatch, or Firehose simultaneously is worth adding to the observability platform this quarter. Plan to reconfigure API Gateway REST API logging destinations and validate cost impact under vended logs pricing.
 - **CI/CD — Skip**
