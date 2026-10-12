@@ -9,7 +9,7 @@ tags: ["aws", "llm-inference", "autoscaling"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run LLM inference workloads on SageMaker HyperPod, this GA feature cuts scale-out time ~60% by pre-loading model weights to NVMe and pre-pulling container images; evaluate adding a modelCacheConfig block to InferenceEndpointConfig resources this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aks", "azure-linux", "deprecation"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571257"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** Migrate AKS node pools off Azure Linux with OS Guard to Azure Container Linux before December 10, 2026 — after that date, creation of new nodes with that OS config will be blocked.
 - **CI/CD — Skip**

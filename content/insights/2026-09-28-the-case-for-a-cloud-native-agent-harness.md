@@ -9,7 +9,7 @@ tags: ["ai-agents", "platform-engineering", "cloud-native"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Introduces an emerging architectural pattern for deploying coding agents on cloud-native infrastructure; no production change required today, but worth evaluating as AI workloads land on platform teams' clusters.
 - **CI/CD — Learn:** Relevant for teams exploring agentic pipelines or AI-assisted CI workflows; no concrete deprecation or pipeline change required, but useful for designing next-generation build automation.
