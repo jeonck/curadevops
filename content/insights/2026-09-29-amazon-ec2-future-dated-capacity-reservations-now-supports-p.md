@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "capacity-planning"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful flexibility for teams that reserve EC2 capacity in advance — you can now shift a reservation start date before delivery without cancelling and rebooking, reducing commitment risk when timelines slip.
 - **CI/CD — Skip**
