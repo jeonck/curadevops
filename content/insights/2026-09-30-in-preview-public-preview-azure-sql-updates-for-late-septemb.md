@@ -9,7 +9,7 @@ tags: ["azure-sql", "microsoft-fabric", "preview"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571846"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview-stage Azure SQL enhancements including Fabric Database Hub; worth tracking for future managed SQL strategy but no GA status means no action yet.
 - **CI/CD — Skip**

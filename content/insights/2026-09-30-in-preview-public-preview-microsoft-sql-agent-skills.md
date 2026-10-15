@@ -9,7 +9,7 @@ tags: ["azure-sql", "ai-agents", "preview"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573003"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

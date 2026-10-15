@@ -9,7 +9,7 @@ tags: ["github", "repository-management", "developer-portal"]
 cves: []
 source: "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Connecting CMDB or internal portal metadata to GitHub repos could streamline how platform teams track ownership and service tiers, but this is a new organizational feature with no operational action required today.
 - **CI/CD — Skip**

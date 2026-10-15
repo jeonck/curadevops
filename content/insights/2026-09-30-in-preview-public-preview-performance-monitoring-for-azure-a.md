@@ -9,7 +9,7 @@ tags: ["azure-arc", "sql-server", "observability"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571904"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview of Arc-enabled SQL Server performance monitoring adds a telemetry query endpoint worth evaluating if you manage hybrid SQL workloads, but pre-GA status means no production adoption yet.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["azure", "observability", "database"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571867"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA managed observability for Azure SQL Database; worth evaluating if your platform team owns Azure SQL, but no action needed until GA.
 - **CI/CD — Skip**

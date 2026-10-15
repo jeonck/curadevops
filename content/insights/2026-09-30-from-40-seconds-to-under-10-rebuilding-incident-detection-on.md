@@ -9,7 +9,7 @@ tags: ["observability", "incident-detection", "opentelemetry"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A practical case study on reducing incident detection latency using OpenTelemetry, Kafka, and Flink on Kubernetes — useful for teams evaluating or redesigning their observability pipeline architecture, but no deployment action required.
 - **CI/CD — Skip**

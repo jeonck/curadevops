@@ -9,7 +9,7 @@ tags: ["cilium", "kubernetes", "networking"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Cilium 1.20 is a GA minor release of a CNI/service-mesh stack platform teams operate directly; new ENI IPAM for IPv6 and Gateway API ExternalAuth are worth evaluating for adoption this quarter, and the TCPRoute/UDPRoute additions may change how non-HTTP traffic routing is architected on the cluster.
 - **CI/CD — Skip**

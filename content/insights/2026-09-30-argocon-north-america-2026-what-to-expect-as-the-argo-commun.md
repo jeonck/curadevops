@@ -9,7 +9,7 @@ tags: ["argo-cd", "gitops", "conference"]
 cves: []
 source: "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Argo CD 4.0 is in early visioning, not yet GA — worth tracking as a future platform roadmap input, but no action or migration needed now.
 - **CI/CD — Learn:** If your deployment pipeline relies on Argo CD, the 4.0 vision process is worth watching for potential breaking changes, but nothing is actionable yet.

@@ -9,7 +9,7 @@ tags: ["docker-compose", "deployment", "github-actions"]
 cves: []
 source: "https://github.com/mtizima/docker-rollout-action"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Interesting pattern for teams still running Docker Compose over SSH: health-checked rollout with automatic rollback and a migrations hook baked in as a plain-Bash GitHub Action; worth bookmarking if you support non-Kubernetes deployment targets, but no deadline or adoption pressure.

@@ -9,7 +9,7 @@ tags: ["azure", "sql-server", "hybrid-cloud"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571841"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA hybrid deployment option for SQL Server on Azure Local; relevant if you run on-prem/edge infrastructure, but no operational change required today.
 - **CI/CD — Skip**

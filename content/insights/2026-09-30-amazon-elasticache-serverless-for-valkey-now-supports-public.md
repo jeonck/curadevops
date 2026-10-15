@@ -9,7 +9,7 @@ tags: ["elasticache", "valkey", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-serverless-public-endpoints/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability for ElastiCache Serverless that enables internet-reachable Valkey caches without VPC config; useful for prototyping or external workloads but likely not a fit for production platform architecture where VPC isolation is the norm.
 - **CI/CD — Skip**

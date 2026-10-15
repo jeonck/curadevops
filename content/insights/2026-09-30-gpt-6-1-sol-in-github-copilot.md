@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-coding", "openai"]
 cves: []
 source: "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
