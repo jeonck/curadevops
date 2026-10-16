@@ -9,7 +9,7 @@ tags: ["azure", "sql-server", "observability"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571894"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA preview of managed SQL Server performance monitoring on Azure VMs; worth tracking if you run SQL Server workloads, but not yet ready to adopt in production.
 - **CI/CD — Skip**

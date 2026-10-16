@@ -9,7 +9,7 @@ tags: ["aws-pcs", "hpc", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you run HPC workloads on AWS PCS, the new opt-in scaling logs (CloudWatch Logs, S3, or Firehose) give visibility into per-node launch and scale-down events useful for troubleshooting capacity failures. No action required — enable when relevant to your workload.
 - **CI/CD — Skip**

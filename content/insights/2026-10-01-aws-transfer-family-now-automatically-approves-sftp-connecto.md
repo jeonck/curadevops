@@ -9,7 +9,7 @@ tags: ["aws-transfer-family", "sftp", "quota"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transfer-family-sftp-connector-quota-1000/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful operational improvement if your platform uses SFTP connectors at scale — quota increases up to 1,000 per region now auto-approve, removing a manual step. No action required unless you're hitting current limits.
 - **CI/CD — Skip**

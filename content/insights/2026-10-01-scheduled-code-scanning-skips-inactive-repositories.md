@@ -9,7 +9,7 @@ tags: ["github-actions", "code-scanning", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitHub's scheduled code scanning now requires a prior push or PR to activate weekly scans, which may silently drop coverage on dormant repos; review which repos rely on scheduled-only scanning to avoid gaps.

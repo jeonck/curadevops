@@ -9,7 +9,7 @@ tags: ["policy", "kubernetes", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Explores a design philosophy shift from blocking admission controllers to permissive guardrails — worth reading to inform how you configure OPA/Gatekeeper or Kyverno, but no operational change required today.
 - **CI/CD — Skip**

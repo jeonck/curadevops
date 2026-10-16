@@ -9,7 +9,7 @@ tags: ["iam-identity-center", "aws", "identity"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If you have internal tooling or automation that calls Identity Store APIs, you can now pass ARNs directly instead of stripping them to resource IDs first — purely additive, no existing integrations need updating.
 - **CI/CD — Skip**

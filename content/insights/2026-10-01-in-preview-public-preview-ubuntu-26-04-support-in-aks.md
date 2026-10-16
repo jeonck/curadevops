@@ -9,7 +9,7 @@ tags: ["aks", "ubuntu", "kubernetes"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573214"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview status caps this at Learn, but worth tracking: the Ubuntu2604 SKU will eventually replace older LTS node pools; plan evaluation for when it reaches GA before Ubuntu 22.04 support ages out.
 - **CI/CD — Skip**
