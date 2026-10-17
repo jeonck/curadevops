@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-tooling", "developer-experience"]
 cves: []
 source: "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

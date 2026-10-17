@@ -9,7 +9,7 @@ tags: ["aws-security-hub", "guardduty", "billing"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

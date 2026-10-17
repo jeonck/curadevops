@@ -9,7 +9,7 @@ tags: ["github", "security-advisories", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** This new GitHub feature lets teams discuss vulnerability reports privately within the advisory workflow, improving coordination before public disclosure — worth noting for teams managing CVE triage in GitHub repos.

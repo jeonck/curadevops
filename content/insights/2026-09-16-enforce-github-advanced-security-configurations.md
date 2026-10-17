@@ -9,7 +9,7 @@ tags: ["github-advanced-security", "security-policy", "enterprise-governance"]
 cves: []
 source: "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GHAS enforcement is a GitHub admin feature, not a pipeline change, but CI/CD engineers should understand that enterprise-level security configurations may now be locked — worth noting if code-scanning settings are managed in repo workflows.

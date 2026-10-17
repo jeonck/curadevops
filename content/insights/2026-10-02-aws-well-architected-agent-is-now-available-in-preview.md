@@ -9,7 +9,7 @@ tags: ["aws", "well-architected", "preview"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Preview-only AI tool that analyzes Terraform/CDK/CloudFormation against Well-Architected best practices and generates SSM runbooks — worth evaluating, but pre-GA caps this at Learn.
 - **CI/CD — Skip**

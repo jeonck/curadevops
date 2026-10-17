@@ -9,7 +9,7 @@ tags: ["github", "graphql", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** If you query the GitHub Advisory Database in pipeline tooling or vulnerability-scanning automation, these new fields let you replace REST fallbacks with a single GraphQL query — worth noting for future tooling improvements.
