@@ -9,7 +9,7 @@ tags: ["bedrock", "vpc-lattice", "tls"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** For teams operating Bedrock AgentCore workloads, this eliminates the need for an intermediate ALB when connecting to private VPC Lattice endpoints — worth evaluating if you're building that architecture, but no change required to existing infrastructure.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["ecs", "aws", "s3"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** S3 Files now reaches feature parity across all three ECS launch types; evaluate adopting shared S3-backed volumes for data-intensive EC2 workloads this quarter to eliminate data staging overhead.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["local-dev", "integration-testing", "cloud-emulation"]
 cves: []
 source: "https://github.com/upgundecha/awesome-cloud-emulators"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** A reference list of cloud emulators (LocalStack, Moto, Azurite, etc.) useful for designing integration-test stages in pipelines without hitting real cloud APIs; no action needed, but worth bookmarking when evaluating test isolation strategies.

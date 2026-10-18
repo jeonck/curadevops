@@ -9,7 +9,7 @@ tags: ["azure", "sap", "deprecation"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571342"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** If running the containerized SAP data connector, the images are removed October 14, 2026 — migrate to a supported log-forwarding method before that date to avoid broken data ingestion.
 - **CI/CD — Skip**

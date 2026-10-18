@@ -9,7 +9,7 @@ tags: ["kubernetes", "storage-security", "container-hardening"]
 cves: []
 source: "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Kubernetes v1.37 GA ships emptyDir permission modes (including sticky bit) and bind mount options (noexec, nosuid, nodev) — schedule evaluation and adoption as part of your 1.37 upgrade cycle to harden shared writable volumes; no forced deadline until EOL 2027-10-28.
 - **CI/CD — Skip**
