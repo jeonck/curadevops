@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-governance", "finops"]
 cves: []
 source: "https://about.gitlab.com/blog/new-usage-caps-2026/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

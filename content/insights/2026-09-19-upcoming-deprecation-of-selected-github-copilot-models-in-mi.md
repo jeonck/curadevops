@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-models", "deprecation"]
 cves: []
 source: "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

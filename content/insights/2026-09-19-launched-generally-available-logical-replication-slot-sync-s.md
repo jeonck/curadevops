@@ -9,7 +9,7 @@ tags: ["azure", "postgresql", "observability"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=568414"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run Azure PostgreSQL Flexible Server with logical replication, add the new logical_replication_slot_sync_status Azure Monitor metric to your dashboards and alerts this quarter to catch slot lag before it bloats WAL retention.
 - **CI/CD — Skip**

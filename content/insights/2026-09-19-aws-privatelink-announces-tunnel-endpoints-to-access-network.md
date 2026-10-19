@@ -9,7 +9,7 @@ tags: ["aws-privatelink", "vpc-networking", "multi-account"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA capability that replaces per-resource PrivateLink configurations with shareable CIDR ranges via RAM and GENEVE encapsulation — evaluate whether this simplifies existing multi-account or vendor-access network architectures this quarter.
 - **CI/CD — Skip**

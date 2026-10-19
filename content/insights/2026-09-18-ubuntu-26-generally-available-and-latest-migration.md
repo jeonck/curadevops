@@ -9,7 +9,7 @@ tags: ["github-actions", "runner-images", "ubuntu"]
 cves: []
 source: "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** ubuntu-latest will migrate to Ubuntu 26.04, which can silently change pre-installed toolchain versions and break pipelines; audit workflows using ubuntu-latest and validate against ubuntu-26.04 before the cutover date GitHub publishes.

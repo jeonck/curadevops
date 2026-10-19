@@ -9,7 +9,7 @@ tags: ["vagrant", "hashicorp", "deprecation"]
 cves: []
 source: "https://www.hashicorp.com/blog/hcp-vagrant-deprecation-important-dates-and-migration-guidance"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams hosting or consuming Vagrant boxes via HCP should identify an alternative registry (self-hosted or otherwise) and plan migration before HCP Vagrant shuts down; no specific cutoff date is published yet, so treat this as a Q4 2026 planning item.
 - **CI/CD — Skip**

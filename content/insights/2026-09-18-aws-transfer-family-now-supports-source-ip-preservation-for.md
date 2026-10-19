@@ -9,7 +9,7 @@ tags: ["aws", "networking", "sftp"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams using Transfer Family SFTP behind an NLB for compliance or IP-based access controls should evaluate enabling this feature; no deadline, but it unlocks accurate audit logs and identity-provider IP filtering that may be required for security reviews.
 - **CI/CD — Skip**

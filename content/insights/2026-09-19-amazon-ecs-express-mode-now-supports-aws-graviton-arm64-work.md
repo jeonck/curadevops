@@ -9,7 +9,7 @@ tags: ["ecs", "graviton", "arm64"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** ECS Express Mode now supports ARM64 as a GA option, enabling Graviton-powered workloads with up to 40% better price-performance. Worth evaluating as an architecture choice for new or cost-sensitive services this quarter, with no deadline pressure.
 - **CI/CD — Skip**

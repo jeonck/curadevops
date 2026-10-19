@@ -9,7 +9,7 @@ tags: ["terraform", "compliance", "policy-as-code"]
 cves: []
 source: "https://www.hashicorp.com/blog/simplify-compliance-with-a-native-pre-written-policy-experience-in-terraform"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-written compliance policies in HCP Terraform could simplify governance guardrails for teams using the managed service; worth evaluating for adoption but no operational urgency.
 - **CI/CD — Skip**

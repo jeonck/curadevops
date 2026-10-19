@@ -9,7 +9,7 @@ tags: ["ec2", "aws", "cost-optimization"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** T8i instances offer up to 30% better price performance than T3 with the same CPU credit model, making them a straightforward drop-in upgrade for burstable workloads like small databases, ingress gateways, or low-traffic internal services; evaluate swapping T3 instances this quarter to reduce compute TCO.
 - **CI/CD — Learn:** T8i instances are explicitly called out as suitable for CI/CD pipelines and could reduce runner costs compared to T3, but no pipeline migration is required — worth noting if self-hosted runners are being right-sized.
