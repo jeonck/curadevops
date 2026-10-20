@@ -9,7 +9,7 @@ tags: ["azure", "sql-server", "sovereign-cloud"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=571499"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Relevant only if you operate workloads with French data-sovereignty requirements; expands deployment options for SQL Server on Azure VMs in the Azure Bleu sovereign region, but no action required unless actively evaluating sovereign cloud placement.
 - **CI/CD — Skip**

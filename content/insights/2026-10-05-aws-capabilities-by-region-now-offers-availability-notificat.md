@@ -9,7 +9,7 @@ tags: ["aws", "multi-region", "platform-tooling"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/awscapabilities-enhancements/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The new feature-level availability notifications and cross-region gap filters in AWS Builder Center can improve how platform teams research regional capability differences when planning multi-region or compliance-driven deployments, but no operational changes are required.
 - **CI/CD — Skip**
