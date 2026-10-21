@@ -9,7 +9,7 @@ tags: ["kubernetes", "azure", "bare-metal"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573782"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview of AKS running directly on bare metal Ubuntu could simplify on-prem Kubernetes for GPU/AI workloads; worth evaluating, but pre-GA status means no production adoption yet.
 - **CI/CD — Skip**

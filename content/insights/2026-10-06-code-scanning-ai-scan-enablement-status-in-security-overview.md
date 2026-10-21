@@ -9,7 +9,7 @@ tags: ["github-actions", "code-scanning", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitHub org/enterprise admins can now see which repos have AI Scan for PRs enabled in the security overview — useful context when auditing pipeline security coverage, but no pipeline change required.

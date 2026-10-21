@@ -9,7 +9,7 @@ tags: ["secret-scanning", "supply-chain-security", "github"]
 cves: []
 source: "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** If your pipelines or repos use Supabase or Lovable credentials, GitHub will now automatically flag exposed tokens — no pipeline changes required, but worth knowing so teams understand why new alerts may surface.

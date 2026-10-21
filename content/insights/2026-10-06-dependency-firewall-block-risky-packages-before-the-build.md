@@ -9,7 +9,7 @@ tags: ["supply-chain", "dependency-security", "gitlab"]
 cves: []
 source: "https://about.gitlab.com/blog/transcend-dependency-firewall/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Early access (pre-GA cap applies), but the framing is worth noting: AI coding agents autonomously pulling unreviewed dependencies represent a new attack surface in the build path. Dependency firewalling at the point of install — before SCA can catch what's already landed — is a supply-chain hardening pattern to track as the feature matures toward GA.

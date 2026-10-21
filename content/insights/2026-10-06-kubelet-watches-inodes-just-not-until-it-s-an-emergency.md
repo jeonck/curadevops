@@ -9,7 +9,7 @@ tags: ["kubernetes", "observability", "kubelet"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Explains a gap in how Kubelet surfaces inode exhaustion — it alerts only when already in critical territory, not proactively. Worth factoring into NodeFilesystemFilesFillingUp alert tuning and inode-capacity headroom planning on worker nodes.
 - **CI/CD — Skip**
