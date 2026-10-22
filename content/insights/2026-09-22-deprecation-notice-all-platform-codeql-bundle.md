@@ -9,7 +9,7 @@ tags: ["codeql", "security-scanning", "deprecation"]
 cves: []
 source: "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Pipelines that download codeql-bundle.tar.gz or .tar.zst need to migrate to platform-specific CodeQL bundles; no hard removal date announced yet, so audit your CodeQL download steps and update references to the appropriate per-platform bundle this quarter.

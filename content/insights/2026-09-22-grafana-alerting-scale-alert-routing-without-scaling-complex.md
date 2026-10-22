@@ -9,7 +9,7 @@ tags: ["grafana", "alerting", "observability"]
 cves: []
 source: "https://grafana.com/blog/grafana-alerting-scale-alert-routing-without-scaling-complexity-using-multiple-notification-policies/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Grafana 13.2 (EOL 2027-05-18) ships GA support for named, independent notification policy trees — worth adopting this quarter if you run Grafana-managed alerting across multiple teams. Evaluate upgrading to 13.2 and migrating team-owned alert rules to named policies incrementally.
 - **CI/CD — Skip**

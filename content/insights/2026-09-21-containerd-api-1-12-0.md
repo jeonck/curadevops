@@ -9,7 +9,7 @@ tags: ["containerd", "container-runtime", "deprecation"]
 cves: []
 source: "https://github.com/containerd/containerd/releases/tag/api%2Fv1.12.0"
 source_name: "Releases: containerd"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA release deprecates the containerd.io/runtime-allow-mounts shim annotation (replaced by MountCapabilities extension) and task API address/version fields in runc options; plan migration away from both, though no removal date is confirmed yet.
 - **CI/CD — Skip**

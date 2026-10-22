@@ -9,7 +9,7 @@ tags: ["azure-functions", "powershell", "serverless"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=572219"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your platform uses Azure Functions with PowerShell workers, plan migration to 7.6 this quarter to stay ahead of older runtime EOL cycles; no forced-upgrade date announced yet.
 - **CI/CD — Skip**

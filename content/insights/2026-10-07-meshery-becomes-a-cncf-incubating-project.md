@@ -9,7 +9,7 @@ tags: ["service-mesh", "cncf", "cloud-native"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Meshery's CNCF incubating status signals growing ecosystem legitimacy as a unified cloud-native management plane — worth evaluating if you manage multiple meshes or need a consolidated control surface, but no operational change required today.
 - **CI/CD — Skip**

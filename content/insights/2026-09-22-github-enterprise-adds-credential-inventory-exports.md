@@ -9,7 +9,7 @@ tags: ["github-enterprise", "credential-management", "supply-chain-security"]
 cves: []
 source: "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** A full exportable inventory of SSH keys, PATs, and OAuth tokens touching the enterprise is useful context for supply-chain hygiene thinking, but it introduces no pipeline mechanic to change today.
