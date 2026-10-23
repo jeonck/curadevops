@@ -9,7 +9,7 @@ tags: ["github-copilot", "local-models", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

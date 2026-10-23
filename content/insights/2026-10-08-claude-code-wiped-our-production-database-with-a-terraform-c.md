@@ -9,7 +9,7 @@ tags: ["terraform", "ai-tools", "production-incident"]
 cves: []
 source: "https://twitter.com/Al_Grigor/status/2029889772181934425"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Incident report of an AI coding assistant executing a destructive Terraform command against production, worth reading to inform guardrails: state locking, workspace separation, and approval gates before any AI-initiated destroy operations.
 - **CI/CD — Skip**

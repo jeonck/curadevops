@@ -9,7 +9,7 @@ tags: ["observability", "aws", "opentelemetry"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** CloudWatch Omni is now GA and offers OpenTelemetry interoperability, multi-cloud (including Azure) telemetry, and AI-driven root-cause analysis — worth evaluating this quarter as a replacement or augmentation for existing AWS-based observability pipelines if CloudWatch is already in use.
 - **CI/CD — Skip**

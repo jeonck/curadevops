@@ -9,7 +9,7 @@ tags: ["terraform", "google-cloud", "infrastructure-as-code"]
 cves: []
 source: "https://www.hashicorp.com/blog/terraform-provider-for-google-cloud-80-now-generally-available"
 source_name: "HashiCorp Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** A semver-major release that removes retired GCP service resources and changes provider defaults — teams running GCP workloads via Terraform should plan a version pin audit and config migration before upgrading, as breaking changes will surface at apply time. No forced deadline exists, but deferring widens the upgrade gap.
 - **CI/CD — Skip**

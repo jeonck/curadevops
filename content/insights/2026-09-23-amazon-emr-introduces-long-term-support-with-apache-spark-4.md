@@ -9,7 +9,7 @@ tags: ["amazon-emr", "apache-spark", "data-platform"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running EMR on EKS should evaluate migrating production Spark workloads to emr-spark-8.1.0 to take advantage of the new 36-month LTS support window, reducing forced upgrade pressure; no hard deadline exists yet.
 - **CI/CD — Skip**

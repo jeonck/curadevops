@@ -9,7 +9,7 @@ tags: ["kubernetes", "webassembly", "experimental"]
 cves: []
 source: "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A novel proof-of-concept running a Kubernetes control plane in the browser via WASM — interesting for understanding K8s internals and potential future dev/test tooling, but no production relevance today.
 - **CI/CD — Skip**

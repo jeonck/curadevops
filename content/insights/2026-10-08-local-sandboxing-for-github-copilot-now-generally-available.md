@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

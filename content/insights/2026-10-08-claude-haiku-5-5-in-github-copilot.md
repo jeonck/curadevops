@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-models", "developer-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

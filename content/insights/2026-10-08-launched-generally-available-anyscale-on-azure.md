@@ -9,7 +9,7 @@ tags: ["azure", "kubernetes", "managed-service"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573744"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Anyscale on AKS is now GA — worth noting as a managed option for distributed Python/Ray workloads that deploys onto existing AKS clusters, but no operational change required unless your org is evaluating Ray.
 - **CI/CD — Skip**

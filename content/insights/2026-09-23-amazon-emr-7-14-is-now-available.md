@@ -9,7 +9,7 @@ tags: ["amazon-emr", "apache-spark", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your platform runs EMR workloads, this GA release brings notable operational improvements: Serverless shuffle storage raised from 200 GiB to 1 TiB, IPv6 EKS cluster support, and Spark Connect endpoints on EMR on EKS. Schedule evaluation for teams hitting storage or networking constraints this quarter.
 - **CI/CD — Skip**
