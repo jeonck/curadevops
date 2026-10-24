@@ -9,7 +9,7 @@ tags: ["wasm", "containers", "docker"]
 cves: []
 source: "https://bogomolov.work/blog/posts/wasm-vs-docker/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting size comparison between WASM and container images, but no GA tooling change or operational action required — useful background on WASM as a lightweight alternative runtime.
 - **CI/CD — Learn:** The artifact size difference is relevant context for build and registry strategies, but no concrete pipeline change to make today.

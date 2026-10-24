@@ -9,7 +9,7 @@ tags: ["terraform", "infrastructure-as-code", "platform-engineering"]
 cves: []
 source: "https://www.resourcely.io/post/10-terraform-config-root-setups"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A survey of Terraform root module organizational patterns is useful background for platform teams evaluating or evolving their IaC structure, but no action or deadline is required.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["terminal", "ssh", "devtools"]
 cves: []
 source: "https://github.com/Hello-CTF/NexTerm"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A new open-source terminal workbench aggregating SSH, SFTP, Docker, and database sessions in one UI — worth evaluating as a team tooling option, but only 54 stars with no stable release signals yet.
 - **CI/CD — Skip**

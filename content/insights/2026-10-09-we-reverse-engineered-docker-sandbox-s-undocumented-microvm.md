@@ -9,7 +9,7 @@ tags: ["microvm", "docker", "reverse-engineering"]
 cves: []
 source: "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Interesting technical exploration of microVM isolation primitives, but relies on undocumented internals with no GA surface — worth monitoring, nothing to change in production today.
 - **CI/CD — Learn:** Could inform future sandbox-based CI runner isolation design, but the API is undocumented and unsupported, so not actionable for pipeline work yet.

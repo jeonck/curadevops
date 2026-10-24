@@ -9,7 +9,7 @@ tags: ["terraform", "ai-tooling", "mcp"]
 cves: []
 source: "https://github.com/hashicorp/terraform-mcp-server"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The Terraform MCP Server lets AI assistants query state, run plans, and interact with Terraform directly; worth evaluating as the AI+IaC integration pattern matures, but no production change is warranted yet with no GA signal or enrichment data.
 - **CI/CD — Skip**

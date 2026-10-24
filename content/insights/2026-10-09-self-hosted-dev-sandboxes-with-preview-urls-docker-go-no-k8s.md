@@ -9,7 +9,7 @@ tags: ["developer-experience", "docker", "self-hosted"]
 cves: []
 source: "https://github.com/tastyeffectco/sandboxes"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA self-hosted sandbox tool using Docker without Kubernetes; worth tracking as a lightweight alternative for ephemeral dev environments, but nothing to act on yet.
 - **CI/CD — Learn:** Pre-GA project for spin-up dev sandboxes with preview URLs could inform ephemeral environment strategies in pipelines, but not actionable until GA.

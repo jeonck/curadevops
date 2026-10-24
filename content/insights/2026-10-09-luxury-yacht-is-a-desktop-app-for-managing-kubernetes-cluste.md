@@ -9,7 +9,7 @@ tags: ["kubernetes", "desktop-app", "cluster-management"]
 cves: []
 source: "https://github.com/luxury-yacht/app"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A new desktop Kubernetes management client worth bookmarking if you prefer a native GUI over kubectl or Lens, but no maturity signals, no GA confirmation, and no reason to change existing tooling today.
 - **CI/CD — Skip**

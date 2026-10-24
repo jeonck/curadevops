@@ -9,7 +9,7 @@ tags: ["ai-agents", "platform-engineering", "security"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Introduces a design principle for safely integrating AI agents into platform operations — propose state changes rather than granting direct execution rights. Worth reading when evaluating AI-assisted runbooks or autonomous remediation tooling.
 - **CI/CD — Skip**

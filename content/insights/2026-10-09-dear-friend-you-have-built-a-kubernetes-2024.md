@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering", "architecture"]
 cves: []
 source: "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reflective essay on how internal platforms often reinvent Kubernetes primitives — useful framing for evaluating whether your IDP is accruing accidental complexity.
 - **CI/CD — Skip**

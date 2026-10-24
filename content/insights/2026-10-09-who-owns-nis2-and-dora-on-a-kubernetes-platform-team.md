@@ -9,7 +9,7 @@ tags: ["compliance", "kubernetes", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Shapes how platform engineers think about structuring compliance evidence and control ownership on shared Kubernetes infrastructure, particularly for teams operating in EU-regulated environments — no operational change required today.
 - **CI/CD — Skip**

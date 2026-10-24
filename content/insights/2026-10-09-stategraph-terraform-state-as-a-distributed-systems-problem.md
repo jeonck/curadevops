@@ -9,7 +9,7 @@ tags: ["terraform", "state-management", "infrastructure-as-code"]
 cves: []
 source: "https://stategraph.dev/blog/why-stategraph/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Reframes Terraform state management through a distributed systems lens — worth reading to sharpen mental models around state locking, consistency, and drift, though no concrete operational change is required.
 - **CI/CD — Skip**
