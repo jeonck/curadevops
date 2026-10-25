@@ -9,7 +9,7 @@ tags: ["bare-metal", "kubernetes", "hardware-ops"]
 cves: []
 source: "https://github.com/aireet/kube-bmc"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An early-stage tool worth evaluating if you run bare-metal or on-prem Kubernetes — it exposes BMC power control and hardware health as native K8s resources with Prometheus metrics. No action needed today; 54 stars suggests pre-production maturity, but the pattern is worth watching for hybrid infrastructure designs.
 - **CI/CD — Skip**

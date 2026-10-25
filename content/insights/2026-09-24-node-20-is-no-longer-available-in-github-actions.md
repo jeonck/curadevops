@@ -9,7 +9,7 @@ tags: ["github-actions", "node-runtime", "breaking-change"]
 cves: []
 source: "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Act:** Node 20 is already gone from GitHub Actions runners and the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION escape hatch is also removed, meaning any JavaScript actions still targeting Node 20 are broken now. Audit all JavaScript actions in your pipelines and update them to Node 24 compatibility immediately.

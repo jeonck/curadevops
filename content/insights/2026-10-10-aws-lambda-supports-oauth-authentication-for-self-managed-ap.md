@@ -9,7 +9,7 @@ tags: ["kafka", "lambda", "authentication"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Newly GA OAuth support for Lambda Kafka ESM unblocks regulated-industry workloads that couldn't use SASL/PLAIN or mTLS; worth noting if the team runs Kafka clusters consumed by Lambda, but no existing configuration needs to change.
 - **CI/CD — Skip**

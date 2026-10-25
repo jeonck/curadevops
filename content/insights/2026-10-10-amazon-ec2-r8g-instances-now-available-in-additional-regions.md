@@ -9,7 +9,7 @@ tags: ["ec2", "graviton4", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** R8g instances with Graviton4 are now available in the AWS EU Sovereign Cloud (Germany) region, relevant for teams running memory-intensive workloads (databases, in-memory caches) there. No migration pressure — worth noting for future right-sizing or Graviton migration planning.
 - **CI/CD — Skip**

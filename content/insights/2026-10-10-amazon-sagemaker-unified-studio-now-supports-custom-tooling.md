@@ -9,7 +9,7 @@ tags: ["sagemaker", "cloudformation", "iam"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability lets platform teams enforce IAM naming conventions and custom permissions boundaries across SageMaker Unified Studio projects via CloudFormation templates; worth evaluating if your org runs SageMaker Unified Studio, but no change required to existing infrastructure today.
 - **CI/CD — Skip**
