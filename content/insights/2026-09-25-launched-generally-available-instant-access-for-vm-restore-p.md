@@ -9,7 +9,7 @@ tags: ["azure", "vm-backup", "disaster-recovery"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=572573"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Azure capability enabling immediate disk restoration from application-consistent restore points on VMs with Premium v2 or Ultra data disks; evaluate adopting Instant Access in DR runbooks to reduce RTO for high-performance storage workloads.
 - **CI/CD — Skip**

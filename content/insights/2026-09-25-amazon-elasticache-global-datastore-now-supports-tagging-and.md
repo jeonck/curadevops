@@ -9,7 +9,7 @@ tags: ["aws", "elasticache", "iam"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running ElastiCache Global Datastore across regions can now enforce consistent IAM/SCP policies and cost allocation via tags; worth updating your tagging standards and IAM policies this quarter to close the permission-model gap.
 - **CI/CD — Skip**

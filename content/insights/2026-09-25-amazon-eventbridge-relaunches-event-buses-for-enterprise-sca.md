@@ -9,7 +9,7 @@ tags: ["eventbridge", "event-driven", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA relaunch adds cross-account event sharing via RAM, strict ordering, CloudEvents format support, and up to 1-year retention — capabilities worth evaluating this quarter if the platform uses EventBridge for inter-team or multi-account event routing.
 - **CI/CD — Skip**

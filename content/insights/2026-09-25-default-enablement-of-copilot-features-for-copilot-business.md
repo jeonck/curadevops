@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-developer-tools", "enterprise-policy"]
 cves: []
 source: "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

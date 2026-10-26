@@ -9,7 +9,7 @@ tags: ["kubernetes", "llm-inference", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** A new GA EKS managed add-on that replaces round-robin LB with real-time GPU-signal-aware routing (KV cache, queue depth, LoRA residency) for HyperPod clusters — evaluate adopting this quarter if your team runs SageMaker HyperPod inference workloads on EKS.
 - **CI/CD — Skip**

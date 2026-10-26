@@ -9,7 +9,7 @@ tags: ["aws-iam", "vpc-endpoints", "oidc"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Workloads in private VPCs without internet egress can now verify JWTs via PrivateLink rather than requiring internet access; evaluate creating an interface VPC endpoint if you run air-gapped or restricted-egress VPCs that rely on IAM outbound identity federation.
 - **CI/CD — Skip**

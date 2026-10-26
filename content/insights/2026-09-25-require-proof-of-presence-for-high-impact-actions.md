@@ -9,7 +9,7 @@ tags: ["github-enterprise", "supply-chain-security", "access-control"]
 cves: []
 source: "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A new GA GitHub Enterprise Cloud governance control that tightens human access to sensitive org actions; no infrastructure change required, but worth understanding when designing access-control policies.
 - **CI/CD — Plan:** Evaluate which release and deployment actions qualify as high-impact in your org and whether enabling proof-of-presence would require changes to release-approval workflows; no deadline, but this is a concrete supply-chain hardening step to schedule this quarter.
