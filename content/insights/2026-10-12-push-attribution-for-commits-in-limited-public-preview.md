@@ -9,7 +9,7 @@ tags: ["github", "supply-chain", "audit"]
 cves: []
 source: "https://github.blog/changelog/2026-10-12-push-attribution-public-preview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA feature that adds pusher identity to commit metadata; worth watching for audit and access-control use cases once it reaches GA.
 - **CI/CD — Learn:** Pre-GA; when GA, push attribution could strengthen supply-chain audit trails by distinguishing who pushed versus who authored a commit in pipeline contexts.
