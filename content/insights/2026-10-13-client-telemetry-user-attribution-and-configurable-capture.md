@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise-admin", "telemetry"]
 cves: []
 source: "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

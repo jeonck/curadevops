@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise-policy", "governance"]
 cves: []
 source: "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

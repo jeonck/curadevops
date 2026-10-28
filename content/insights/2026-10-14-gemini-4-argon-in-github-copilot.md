@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-coding-assistant", "gemini"]
 cves: []
 source: "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

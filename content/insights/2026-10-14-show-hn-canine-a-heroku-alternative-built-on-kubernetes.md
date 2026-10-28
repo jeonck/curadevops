@@ -9,7 +9,7 @@ tags: ["kubernetes", "self-hosted", "platform"]
 cves: []
 source: "https://github.com/czhu12/canine"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An open-source PaaS layer on top of Kubernetes that adds DNS/SSL/Helm chart management; worth evaluating for teams building an internal developer platform, but no production signal or GA maturity indicated.
 - **CI/CD — Skip**

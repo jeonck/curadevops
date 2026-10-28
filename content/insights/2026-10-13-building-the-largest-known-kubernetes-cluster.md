@@ -9,7 +9,7 @@ tags: ["kubernetes", "scalability", "gke"]
 cves: []
 source: "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Extreme-scale GKE engineering case study surfaces real control-plane and networking constraints worth tracking as clusters grow; no operational change needed now.
 - **CI/CD — Skip**

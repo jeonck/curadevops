@@ -9,7 +9,7 @@ tags: ["kubernetes", "llm-inference", "platform-engineering"]
 cves: []
 source: "https://llm-d.ai/blog/llm-d-announce"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** LLM-D is an emerging Kubernetes-native distributed inference project worth tracking as AI workloads increasingly land on shared clusters; no GA release or concrete migration action yet.
 - **CI/CD — Skip**

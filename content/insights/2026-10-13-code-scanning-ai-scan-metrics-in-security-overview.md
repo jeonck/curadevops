@@ -9,7 +9,7 @@ tags: ["github", "code-scanning", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** New AI Scan metrics in GitHub's security overview give pipeline owners visibility into how many AI-generated findings are being surfaced and resolved in PRs — worth reviewing if your org uses GitHub Advanced Security.

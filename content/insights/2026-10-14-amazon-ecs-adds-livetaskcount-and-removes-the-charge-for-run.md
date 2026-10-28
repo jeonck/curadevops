@@ -9,7 +9,7 @@ tags: ["aws-ecs", "observability", "autoscaling"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** LiveTaskCount covers tasks in ACTIVATING, RUNNING, and DEACTIVATING states, making it a more complete signal for autoscaling policies than RunningTaskCount; worth evaluating when next tuning ECS autoscaling or capacity planning, but no existing configuration requires updating.
 - **CI/CD — Skip**

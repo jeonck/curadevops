@@ -9,7 +9,7 @@ tags: ["kubernetes", "nix", "developer-environments"]
 cves: []
 source: "https://flox.dev/kubernetes/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Flox brings Nix-based reproducible environments to Kubernetes pods, an interesting pattern for standardizing dev/test workloads on shared clusters — worth evaluating but no GA urgency or operational deadline.
 - **CI/CD — Learn:** Nix-based environments in Kubernetes could improve build reproducibility for pipeline workloads, but this is an exploratory pattern with no concrete migration or deadline attached.

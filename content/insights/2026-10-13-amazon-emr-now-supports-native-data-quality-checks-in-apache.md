@@ -9,7 +9,7 @@ tags: ["amazon-emr", "data-quality", "apache-spark"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

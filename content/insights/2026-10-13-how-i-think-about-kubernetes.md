@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-engineering"]
 cves: []
 source: "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A practitioner's conceptual framing of Kubernetes may sharpen mental models for platform engineers, but nothing here requires operational change.
 - **CI/CD — Skip**

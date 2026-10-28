@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-agents", "cicd-orchestration"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-agent-orchestration/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitLab's newly announced Custom Flows and goal-driven pipeline orchestration could reshape how multi-step review/scan/deploy sequences are built, but no GA date or concrete release details are provided, so nothing to act on yet.

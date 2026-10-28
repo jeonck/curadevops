@@ -9,7 +9,7 @@ tags: ["github", "code-scanning", "audit-log"]
 cves: []
 source: "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** New audit trail for manual dismissals and reopenings of code quality findings; useful context if your org needs traceability around scan results, but no pipeline change required.

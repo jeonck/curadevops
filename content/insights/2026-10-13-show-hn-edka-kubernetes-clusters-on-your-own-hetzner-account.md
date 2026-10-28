@@ -9,7 +9,7 @@ tags: ["kubernetes", "hetzner", "self-hosted"]
 cves: []
 source: "https://edka.io"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A new opinionated provisioning layer for k3s on Hetzner that bundles add-ons and GitOps-style deployments; worth evaluating if cost-driven teams are exploring Hetzner as a cheaper alternative to AWS/GCP managed K8s, but no existing infrastructure to change today.
 - **CI/CD — Skip**

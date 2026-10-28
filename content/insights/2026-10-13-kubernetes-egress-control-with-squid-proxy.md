@@ -9,7 +9,7 @@ tags: ["kubernetes", "egress", "networking"]
 cves: []
 source: "https://interlaye.red/kubernetes_002degress_002dsquid.html"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A practical walkthrough of using Squid as a Kubernetes egress proxy — useful design reference if evaluating egress filtering patterns, but no deadline or breaking change to act on.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "gpu-instances", "ec2"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** G7 instances are now available in two additional European regions, relevant if you run GPU-accelerated workloads in EMEA and are evaluating instance family upgrades from G6.
 - **CI/CD — Skip**
