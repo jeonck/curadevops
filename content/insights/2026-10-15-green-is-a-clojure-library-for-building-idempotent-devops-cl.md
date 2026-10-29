@@ -9,7 +9,7 @@ tags: ["clojure", "cli", "tooling"]
 cves: []
 source: "https://github.com/amiorin/green"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An interesting pattern for building idempotent infrastructure CLIs in Clojure, worth evaluating if the team uses JVM tooling, but no operational change required.
 - **CI/CD — Skip**

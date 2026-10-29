@@ -9,7 +9,7 @@ tags: ["gitlab", "ai-agents", "developer-productivity"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-google-gemini-argon/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** A new GA agentic AI model in GitLab Duo can execute multi-step coding tasks with configurable guardrails; worth tracking as it may reshape how teams delegate pipeline and code-change work, but no pipeline migration or deadline is required today.

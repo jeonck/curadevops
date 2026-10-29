@@ -9,7 +9,7 @@ tags: ["github-actions", "self-hosted-runners", "version-enforcement"]
 cves: []
 source: "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Act:** Minimum version enforcement for self-hosted runners on GitHub Enterprise Cloud took effect September 28, 2026; audit all self-hosted runner instances immediately and upgrade any falling below the new minimum version to prevent pipeline failures across every team using them.

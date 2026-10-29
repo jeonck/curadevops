@@ -9,7 +9,7 @@ tags: ["ai-agents", "devops-tooling", "platform-engineering"]
 cves: []
 source: "https://github.com/bealesh/neckbeard"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An open-source agent plugin targeting SRE/platform workflows is worth evaluating for fit, but no GA signal, deadline, or operational change is present.
 - **CI/CD — Skip**

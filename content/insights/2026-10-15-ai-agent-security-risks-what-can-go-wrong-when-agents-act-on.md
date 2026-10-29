@@ -9,7 +9,7 @@ tags: ["ai-agents", "security", "credential-exposure"]
 cves: []
 source: "https://www.docker.com/blog/ai-agent-security-risks/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Conceptual overview of AI agent attack surfaces — prompt injection, overprivileged identities, credential leakage — useful for shaping how platform teams constrain agent workloads on shared infrastructure, but no specific CVE or deadline to act on.
 - **CI/CD — Learn:** Credential exposure and excessive autonomy patterns described here are relevant as AI agents increasingly run inside pipelines, but this is advisory content with no concrete pipeline action or deadline attached.

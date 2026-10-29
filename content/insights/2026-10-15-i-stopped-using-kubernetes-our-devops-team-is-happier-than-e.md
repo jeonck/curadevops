@@ -9,7 +9,7 @@ tags: ["kubernetes", "platform-strategy", "devops"]
 cves: []
 source: "https://blog.stackademic.com/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
