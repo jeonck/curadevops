@@ -9,7 +9,7 @@ tags: ["apache-kafka", "amazon-msk", "migration"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-msk-migration-assessment-with-aws-transform"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If on-prem Kafka migration to MSK is on the roadmap, evaluate AWS Transform's new assessment agent this quarter — it automates topology mapping, compatibility checks, broker right-sizing, and cost projection that otherwise takes weeks.
 - **CI/CD — Skip**

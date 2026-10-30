@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** T8i instances offer up to 30% better price-performance over T3 with drop-in CPU credit compatibility; worth evaluating for burstable workloads if you operate in the São Paulo region.
 - **CI/CD — Skip**

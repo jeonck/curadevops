@@ -9,7 +9,7 @@ tags: ["gitlab", "code-review", "developer-experience"]
 cves: []
 source: "https://about.gitlab.com/blog/recommend-reviewers-flow/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitLab 19.5's Recommend Reviewers Flow and Duo-powered automated code review are new GA capabilities that could reduce review bottlenecks in the release process, but no pipeline configuration changes are required to evaluate them.

@@ -9,7 +9,7 @@ tags: ["docker", "production", "architecture"]
 cves: []
 source: "https://distr.sh/blog/running-docker-in-production/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** High-engagement community discussion on Docker Compose vs orchestrated alternatives in production; useful for evaluating or defending architectural choices, but no operational change needed.
 - **CI/CD — Skip**

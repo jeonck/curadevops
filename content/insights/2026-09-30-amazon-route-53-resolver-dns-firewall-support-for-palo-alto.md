@@ -9,7 +9,7 @@ tags: ["route53", "dns-security", "aws-networking"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability to enforce PANW DNS threat intelligence (C2, malware, phishing, newly registered domains) directly at the VPC DNS layer without deploying separate appliances — worth evaluating this quarter if the org has PANW licensing or wants to strengthen DNS egress controls across VPCs.
 - **CI/CD — Skip**

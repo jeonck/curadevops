@@ -9,7 +9,7 @@ tags: ["aws-lambda", "go", "workflow-automation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** This SDK could inform how platform teams design infrastructure automation workflows in Go on Lambda (checkpointed multi-step jobs, approval gates), but it requires no changes to running infrastructure and there is no deadline.
 - **CI/CD — Learn:** The durable execution model with approval gates and durable invocation is worth evaluating for deployment orchestration pipelines, but there is no existing migration or deadline driving immediate action.

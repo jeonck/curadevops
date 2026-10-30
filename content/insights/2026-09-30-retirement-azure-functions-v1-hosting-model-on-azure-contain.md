@@ -9,7 +9,7 @@ tags: ["azure-container-apps", "azure-functions", "deprecation"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570800"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Azure Functions v1 apps hosted on Container Apps will stop processing requests after September 29, 2027; inventory affected workloads and schedule migration to a supported hosting model (v2 or later) well before that date.
 - **CI/CD — Skip**
