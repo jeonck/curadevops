@@ -9,7 +9,7 @@ tags: ["aws", "cloud-migration", "azure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

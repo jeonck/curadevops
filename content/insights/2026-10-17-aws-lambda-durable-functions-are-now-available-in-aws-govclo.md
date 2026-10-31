@@ -9,7 +9,7 @@ tags: ["aws-lambda", "govcloud", "serverless"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** GA expansion of Lambda durable functions to GovCloud adds a new serverless orchestration primitive for multi-step workflows; worth noting for architecture decisions if your platform serves government or regulated-industry tenants in those regions, but no operational change required today.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "workflow-automation", "eks"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Practical case study on running a stateful, multi-component workload (workers, webhook processors, PostgreSQL, Redis) on EKS; useful pattern reference for teams operating similar architectures, but no action required.
 - **CI/CD — Skip**
