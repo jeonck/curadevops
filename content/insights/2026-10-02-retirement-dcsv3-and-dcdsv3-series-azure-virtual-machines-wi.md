@@ -9,7 +9,7 @@ tags: ["azure", "vm-retirement", "migration"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=569592"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run DCsv3 or DCdsv3-series VMs in production, plan migration to a supported confidential compute series before October 31, 2029; the deadline is distant but inventory and migration scoping should enter the backlog now.
 - **CI/CD — Skip**

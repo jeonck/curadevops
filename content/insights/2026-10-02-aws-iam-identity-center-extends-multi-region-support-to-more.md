@@ -9,7 +9,7 @@ tags: ["iam", "aws", "identity"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you operate in opt-in or GovCloud/China regions, evaluate enabling multi-Region IAM Identity Center replication this quarter to improve SSO resilience; requires setting up a multi-Region customer-managed KMS key for existing instances.
 - **CI/CD — Skip**

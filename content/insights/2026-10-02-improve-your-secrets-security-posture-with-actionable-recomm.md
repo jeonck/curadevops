@@ -9,7 +9,7 @@ tags: ["secrets-management", "aws", "security"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-secrets-manager-security-posture-recommendations"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** A new GA feature in Secrets Manager surfaces rotation gaps and encryption-key misconfigurations directly in the console at no extra cost; schedule a pass through your secrets inventory this quarter to act on flagged items before they become findings in a security review.
 - **CI/CD — Learn:** Console-based recommendations don't change how pipelines execute, but the rotation and key-management nudges are relevant context for teams auditing how pipeline secrets are stored in Secrets Manager.

@@ -9,7 +9,7 @@ tags: ["azure", "vm-retirement", "gpu"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573415"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** The NVv4-series VM SKUs were decommissioned on 2026-09-30 — any workloads or node pools still using these SKUs are now unsupported; migrate to a current GPU-capable series (e.g. NVadsA10 v5) immediately.
 - **CI/CD — Skip**

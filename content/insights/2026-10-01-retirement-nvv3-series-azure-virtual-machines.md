@@ -9,7 +9,7 @@ tags: ["azure", "vm-retirement", "gpu"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=573414"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Act:** The NVv3-series retirement deadline was September 30, 2026 — audit all Azure subscriptions immediately for remaining NVv3 instances and migrate to NVv4 or NVadsA10 v5 series before Azure force-deallocates any remaining VMs.
 - **CI/CD — Skip**

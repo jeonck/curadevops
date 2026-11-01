@@ -9,7 +9,7 @@ tags: ["route-53", "dns-observability", "cloudwatch"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA observability capability directly relevant to teams running Route 53 Resolver and DNS Firewall — plan to enable CloudWatch Metrics and Contributor Insights for DNS query visibility and anomaly alerting this quarter, noting that standard CloudWatch ingestion costs apply.
 - **CI/CD — Skip**

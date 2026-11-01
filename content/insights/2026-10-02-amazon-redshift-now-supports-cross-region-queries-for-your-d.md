@@ -9,7 +9,7 @@ tags: ["redshift", "data-lake", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability lets Redshift query S3 tables in remote regions without replication, with enhanced VPC routing keeping traffic off public networks; evaluate for multi-region data lake architectures or compliance-sensitive workloads this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["github-actions", "ci-cd", "retention"]
 cves: []
 source: "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Checks, workflow runs, and commit statuses are now subject to the same retention window as artifacts and logs. Audit your Actions retention setting to confirm build history is kept long enough to satisfy any compliance or audit trail requirements.

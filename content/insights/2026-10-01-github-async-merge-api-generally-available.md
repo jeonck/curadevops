@@ -9,7 +9,7 @@ tags: ["github-actions", "pull-requests", "merge-queue"]
 cves: []
 source: "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** The GA async merge API enables programmatic merge queue management and stacked PR workflows; evaluate adopting it to automate release orchestration or replace custom merge scripts.

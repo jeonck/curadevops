@@ -9,7 +9,7 @@ tags: ["aws-security-hub", "security-posture", "remediation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability worth evaluating this quarter: remediation plans surface root-cause groupings with Terraform and CloudFormation fix examples, making it practical to reduce Security Hub noise and address misconfigurations at the source rather than per-finding.
 - **CI/CD — Skip**
