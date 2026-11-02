@@ -9,7 +9,7 @@ tags: ["aws-health", "version-lifecycle", "eol-management"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This new GA feature provides a centralized, API-queryable view of EOL/end-of-support timelines for EKS, RDS, Lambda, and more — directly relevant to managing upgrade schedules before account-specific Planned Lifecycle Events fire. Plan to integrate the AWS Health API into operational runbooks and upgrade planning workflows this quarter, particularly for EKS version tracking.
 - **CI/CD — Skip**

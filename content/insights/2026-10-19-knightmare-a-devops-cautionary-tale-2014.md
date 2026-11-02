@@ -9,7 +9,7 @@ tags: ["devops", "release-engineering", "post-mortem"]
 cves: []
 source: "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The Knight Capital incident is a foundational reliability case study illustrating how a deployment error can cause catastrophic, irreversible production failures — useful for grounding runbook and rollback design.
 - **CI/CD — Learn:** The incident's root cause was a flawed deployment process with no automated rollback, making it a canonical reference for why pipeline safeguards, feature flag hygiene, and staged rollouts matter.

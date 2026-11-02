@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-workloads", "autoscaling"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing on how GPU-bound and bursty AI workloads strain the classic HPA/VPA/cluster-autoscaler division; no version change or deadline, but informs how you'd architect autoscaling for AI teams onboarding to the cluster.
 - **CI/CD — Skip**

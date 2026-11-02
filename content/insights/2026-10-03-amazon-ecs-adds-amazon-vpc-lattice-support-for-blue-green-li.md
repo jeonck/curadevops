@@ -9,7 +9,7 @@ tags: ["ecs", "deployment-strategies", "vpc-lattice"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA capability that changes how ECS services using VPC Lattice handle progressive delivery — evaluate adopting native traffic-shifting to replace or simplify any existing CodeDeploy or manual canary setups this quarter.
 - **CI/CD — Plan:** Native canary/linear deployment strategies with CloudWatch alarm rollback and lifecycle hooks are worth integrating into ECS deployment pipelines; evaluate replacing custom traffic-shifting logic with this managed approach.

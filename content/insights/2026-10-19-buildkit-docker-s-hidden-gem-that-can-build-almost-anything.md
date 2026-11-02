@@ -9,7 +9,7 @@ tags: ["buildkit", "docker", "containers"]
 cves: []
 source: "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A technical overview of BuildKit's capabilities; useful context for evaluating build infrastructure but no operational change required.
 - **CI/CD — Learn:** Highlights BuildKit features (caching, multi-platform, secrets mounts) that could inform pipeline optimization, but no concrete action or deadline is present.

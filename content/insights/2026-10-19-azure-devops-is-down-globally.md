@@ -9,7 +9,7 @@ tags: ["azure-devops", "outage", "ci-cd"]
 cves: []
 source: "https://news.ycombinator.com/item?id=41000822"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Azure DevOps suffered a global outage affecting pipelines; no remediation action required post-recovery, but worth noting as a reliability data point when evaluating CI/CD platform dependencies.

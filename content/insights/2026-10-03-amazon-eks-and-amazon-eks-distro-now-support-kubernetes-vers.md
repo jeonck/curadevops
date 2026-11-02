@@ -9,7 +9,7 @@ tags: ["kubernetes", "eks", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Kubernetes 1.37 is now GA on EKS with notable promotions (Metrics API to GA as metrics.k8s.io/v1, DRA device taints to GA). Plan an upgrade evaluation this quarter; no forced-upgrade deadline exists yet, but staying current reduces future skew risk.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["elasticache", "opentelemetry", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability lets teams query ElastiCache Valkey metrics via PromQL in Grafana and CloudWatch, with optional 15-second granularity for catching short-lived latency spikes; schedule enablement of standard OTel metrics now (free) and evaluate detailed monitoring for critical clusters this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["containers", "docker", "research"]
 cves: []
 source: "https://cacm.acm.org/research/a-decade-of-docker-containers/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A decade-long retrospective on Docker's evolution offers useful context for understanding how container infrastructure and operational patterns have matured, but requires no operational change.
 - **CI/CD — Skip**

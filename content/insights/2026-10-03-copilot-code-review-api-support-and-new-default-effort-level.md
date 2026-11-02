@@ -9,7 +9,7 @@ tags: ["github-copilot", "code-review", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** CI/CD pipelines can now trigger Copilot code reviews programmatically via API; evaluate integrating into PR automation workflows to enforce review coverage without manual steps.
