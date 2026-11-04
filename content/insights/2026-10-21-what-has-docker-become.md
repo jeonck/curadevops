@@ -9,7 +9,7 @@ tags: ["docker", "vendor-risk", "platform-engineering"]
 cves: []
 source: "https://tuananh.net/2026/01/20/what-has-docker-become/"
 source_name: "HN (docker)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Offers perspective on Docker's product evolution and ecosystem fragmentation — useful context when evaluating container toolchain choices, but no operational change required.
 - **CI/CD — Skip**

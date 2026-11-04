@@ -9,7 +9,7 @@ tags: ["aws", "machine-learning", "trainium"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

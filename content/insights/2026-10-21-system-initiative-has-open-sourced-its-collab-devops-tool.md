@@ -9,7 +9,7 @@ tags: ["open-source", "iac", "platform-tooling"]
 cves: []
 source: "https://www.systeminit.com/blog-open-source/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A newly open-sourced collaborative IaC/DevOps tool worth evaluating as an alternative to existing platforms, but no GA maturity signal or migration deadline to act on yet.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["dependabot", "supply-chain", "github"]
 cves: []
 source: "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** The new `version_requirement` field in Dependabot alert API responses enables richer automated triage — useful when designing pipeline workflows that parse alerts for version-specific remediation logic, but nothing to change today.

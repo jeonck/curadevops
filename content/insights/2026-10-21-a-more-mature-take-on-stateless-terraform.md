@@ -9,7 +9,7 @@ tags: ["terraform", "iac", "platform-engineering"]
 cves: []
 source: "https://www.bejarano.io/terraform-stateless-critique/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A thoughtful architectural critique of stateless Terraform patterns that could inform how platform teams design state management — no action required, but worth reading before committing to a stateless approach.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["supply-chain-security", "github", "package-management"]
 cves: []
 source: "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** A pre-GA feature that intercepts malicious packages at install time on CI runners — worth monitoring for GA so you can evaluate it as a supply-chain hardening layer in your pipelines.

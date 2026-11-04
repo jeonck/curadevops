@@ -9,7 +9,7 @@ tags: ["grafana", "incident-response", "observability"]
 cves: []
 source: "https://grafana.com/blog/spend-less-time-on-operational-busywork-and-resolve-incidents-faster-with-grafana-workflows/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public-preview feature in Grafana Cloud that can automate incident coordination steps (channel creation, paging, AI briefings); worth evaluating if your team runs Grafana Cloud, but not actionable until GA.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["observability", "grafana", "cost-optimization"]
 cves: []
 source: "https://grafana.com/blog/cut-costs-keep-what-you-need-adaptive-telemetry/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Adaptive Telemetry offers a strategy for decoupling observability costs from data volume — worth evaluating if Grafana Cloud is in your stack, but no deadline or breaking change makes this actionable now.
 - **CI/CD — Skip**

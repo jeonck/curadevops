@@ -9,7 +9,7 @@ tags: ["devops-philosophy", "platform-engineering", "system-initiative"]
 cves: []
 source: "https://www.systeminit.com/blog-second-wave-devops/"
 source_name: "HN (devops)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

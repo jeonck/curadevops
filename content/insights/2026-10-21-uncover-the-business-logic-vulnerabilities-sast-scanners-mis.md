@@ -9,7 +9,7 @@ tags: ["application-security", "sast", "gitlab-duo"]
 cves: []
 source: "https://about.gitlab.com/blog/gitlab-business-logic-security-analyzer/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
