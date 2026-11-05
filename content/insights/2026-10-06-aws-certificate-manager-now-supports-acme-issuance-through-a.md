@@ -9,7 +9,7 @@ tags: ["aws-acm", "tls-certificates", "privatelink"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability keeps ACME cert issuance traffic inside the AWS network via a VPC interface endpoint; worth scheduling adoption this quarter for compliance-sensitive or egress-restricted environments that already use ACM with ACME clients.
 - **CI/CD — Skip**

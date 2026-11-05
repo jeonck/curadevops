@@ -9,7 +9,7 @@ tags: ["aws-migration", "network", "security-groups"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful reference if planning an AWS network migration: Transform can now generate a net-new VPC layout or convert on-prem access rules into optimized security groups (with stale-rule detection). Nothing to change in existing production infrastructure today.
 - **CI/CD — Skip**

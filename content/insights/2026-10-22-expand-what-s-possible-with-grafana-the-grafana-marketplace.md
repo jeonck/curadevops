@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "plugins"]
 cves: []
 source: "https://grafana.com/blog/grafana-marketplace/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The GA Grafana Marketplace introduces paid, partner-backed plugins for data sources and observability use cases — worth knowing when evaluating Grafana extensions, but no operational change required today.
 - **CI/CD — Skip**

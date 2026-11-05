@@ -9,7 +9,7 @@ tags: ["github-cli", "oauth", "security"]
 cves: []
 source: "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA preview of short-lived, auto-refreshing OAuth tokens in gh CLI; worth tracking if your teams use GitHub CLI for scripted infra workflows, but no action warranted until GA.
 - **CI/CD — Learn:** Expiring tokens would improve credential hygiene for pipelines that invoke gh CLI, but this is public preview — evaluate once it reaches GA before updating pipeline auth patterns.

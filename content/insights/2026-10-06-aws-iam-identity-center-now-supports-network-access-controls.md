@@ -9,7 +9,7 @@ tags: ["aws", "iam", "network-security"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability to restrict Identity Store and SCIM API access by VPC endpoint or IP allowlist; evaluate enforcing VPC-endpoint-only access for the Identity Store API as part of your AWS SSO hardening roadmap this quarter.
 - **CI/CD — Skip**

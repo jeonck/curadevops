@@ -9,7 +9,7 @@ tags: ["opentelemetry", "observability", "ai-agents"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful pattern for taming high-volume AI agent telemetry using OTel Collector's filter/transform processors — worth evaluating if the org is running AI agents that emit excessive telemetry into the observability pipeline.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws-control-tower", "terraform", "iac"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Teams running AFT for multi-account provisioning should evaluate upgrading to AFT 1.22.0 to enable plan-only runs, which support pre-rollout drift detection and safer customization validation; no hard deadline, but it's a meaningful operational improvement worth scheduling this quarter.
 - **CI/CD — Skip**

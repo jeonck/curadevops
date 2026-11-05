@@ -9,7 +9,7 @@ tags: ["aws-batch", "eks", "authentication"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-access-entries/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run AWS Batch compute environments on EKS, you can now migrate from the aws-auth ConfigMap to the newer access entry API for IAM-principal authentication; schedule an UpdateComputeEnvironment pass to set accessEntry.desiredState=ENABLED, simplifying auth lifecycle management on those clusters.
 - **CI/CD — Skip**
