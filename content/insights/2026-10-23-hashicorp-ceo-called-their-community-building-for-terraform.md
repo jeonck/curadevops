@@ -9,7 +9,7 @@ tags: ["terraform", "hashicorp", "vendor-risk"]
 cves: []
 source: "https://www.youtube.com/watch?v=59rEiAyYEVk"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Adds cultural context to the ongoing HashiCorp–community tension following the BSL relicensing; no new concrete deadline or action, but relevant background for teams weighing Terraform vs. OpenTofu.
 - **CI/CD — Skip**

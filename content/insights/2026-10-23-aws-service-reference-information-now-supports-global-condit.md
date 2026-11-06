@@ -9,7 +9,7 @@ tags: ["aws", "iam", "policy-automation"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA machine-readable IAM service reference (global condition keys, service name mappings, IsDataPlane flag) is a useful building block for automating policy guardrails, but requires no immediate change to existing infrastructure.
 - **CI/CD — Skip**

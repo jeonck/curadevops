@@ -9,7 +9,7 @@ tags: ["github-copilot", "github", "developer-productivity"]
 cves: []
 source: "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

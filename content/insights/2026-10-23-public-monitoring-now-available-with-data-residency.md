@@ -9,7 +9,7 @@ tags: ["github", "secret-scanning", "data-residency"]
 cves: []
 source: "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Public preview feature extending secret scanning to public repos for GHEC DR customers; worth monitoring for GA, but no pipeline action needed today.

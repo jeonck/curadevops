@@ -9,7 +9,7 @@ tags: ["kubernetes", "migration", "infrastructure"]
 cves: []
 source: "https://github.com/Rocky-true/vmware-to-kubernetes"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A community toolkit covering VMware-to-K8s migration, Compose translation, and Alibaba Cloud HA setups — worth bookmarking for teams planning a VMware exit, but it carries no deadline, no enrichment signals, and only 52 stars, so there's nothing to act on today.
 - **CI/CD — Skip**

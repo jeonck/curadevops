@@ -9,7 +9,7 @@ tags: ["ci-cd", "self-healing", "pipeline-automation"]
 cves: []
 source: "https://github.com/dharmendradevops11/the-self-healing-pipeline"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Companion code exploring automated pipeline self-remediation patterns; useful reference for CI/CD engineers thinking about failure-recovery design, but no concrete migration or deadline.

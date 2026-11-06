@@ -9,7 +9,7 @@ tags: ["kubernetes", "cgroups", "deprecation"]
 cves: []
 source: "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Kubernetes 1.35 (currently GA, EOL 2027-02-28) defaults failCgroupV1 to true, meaning kubelet refuses to start on cgroup v1 nodes without an explicit override. Audit all Linux nodes for cgroup version and complete migration to cgroup v2 before upgrading any cluster to 1.35 or later.
 - **CI/CD — Skip**

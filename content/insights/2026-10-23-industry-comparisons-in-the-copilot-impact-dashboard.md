@@ -9,7 +9,7 @@ tags: ["copilot", "developer-experience", "github"]
 cves: []
 source: "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

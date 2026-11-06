@@ -9,7 +9,7 @@ tags: ["aks", "azure-monitor", "observability"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570232"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** The pod name dimension on AKS platform metrics (kube_pod_status_phase and related) is being removed September 30, 2027; audit Azure Monitor dashboards and alerts that rely on per-pod granularity from these metrics and plan migration to aggregate counters or Prometheus-based alternatives before that date.
 - **CI/CD — Skip**

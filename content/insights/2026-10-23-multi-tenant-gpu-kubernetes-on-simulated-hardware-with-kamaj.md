@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu", "multi-tenancy"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Describes an architecture pattern for GPU multi-tenancy using Kamaji (hosted control planes) and HAMi, worth evaluating if your org runs shared GPU clusters — no GA migration pressure, but a useful design reference.
 - **CI/CD — Skip**

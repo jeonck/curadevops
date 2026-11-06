@@ -9,7 +9,7 @@ tags: ["github-copilot", "usage-metrics", "mcp"]
 cves: []
 source: "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
