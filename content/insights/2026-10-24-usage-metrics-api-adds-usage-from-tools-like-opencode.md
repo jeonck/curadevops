@@ -9,7 +9,7 @@ tags: ["github-copilot", "usage-metrics", "developer-tools"]
 cves: []
 source: "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

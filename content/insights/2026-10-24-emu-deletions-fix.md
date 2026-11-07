@@ -9,7 +9,7 @@ tags: ["github-enterprise", "identity-management", "emu"]
 cves: []
 source: "https://github.blog/changelog/2026-10-23-emu-deletions-fix"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
