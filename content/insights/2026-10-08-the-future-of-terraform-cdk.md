@@ -9,7 +9,7 @@ tags: ["terraform-cdk", "iac", "toolchain-strategy"]
 cves: []
 source: "https://github.com/hashicorp/terraform-cdk"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your team uses CDKTF for infrastructure, this HN discussion signals potential direction changes worth tracking; no concrete EOL date means no Act, but evaluate whether to continue investing in CDKTF vs. native HCL or OpenTofu-based workflows this quarter.
 - **CI/CD — Skip**

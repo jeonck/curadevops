@@ -9,7 +9,7 @@ tags: ["opentelemetry", "observability", "grafana-cloud"]
 cves: []
 source: "https://grafana.com/blog/manage-your-opentelemetry-collectors-with-fleet-management-in-grafana-cloud/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you operate multiple OpenTelemetry Collector deployments, this GA release enables centralized config management via OpAMP without migrating to Grafana Alloy first — worth evaluating this quarter as a way to reduce config drift across collector fleets.
 - **CI/CD — Skip**

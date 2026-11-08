@@ -9,7 +9,7 @@ tags: ["gitlab", "security-dashboard", "vulnerability-management"]
 cves: []
 source: "https://about.gitlab.com/blog/security-risk-in-one-dashboard/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GitLab 19.4 reaches EOL on 2026-12-17 (70 days); if self-hosting on 19.4, schedule an upgrade to a supported minor now. The featured security dashboard is beta-only and should not factor into upgrade timing.
 - **CI/CD — Skip**

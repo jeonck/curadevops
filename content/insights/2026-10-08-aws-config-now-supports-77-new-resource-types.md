@@ -9,7 +9,7 @@ tags: ["aws-config", "compliance", "cloud-infrastructure"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If 'record all resource types' is enabled, these 77 types—including EC2, GuardDuty, Inspector, and S3—will be tracked automatically, which quietly expands coverage and may increase Config costs. Review the new type list against your compliance rules and cost baseline this quarter.
 - **CI/CD — Skip**
