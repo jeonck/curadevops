@@ -9,7 +9,7 @@ tags: ["aws", "bedrock", "finops"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA billing dimension adds model, provider, and inference-type breakdowns for Bedrock spend in Cost Explorer and Budgets — useful context for teams managing cloud cost allocation, but no operational infrastructure change required.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["guardduty", "aws-security", "rds-protection"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability for Aurora PostgreSQL and RDS for PostgreSQL that detects post-credential-compromise data exfiltration and destruction with no agent or config changes required; platform teams running RDS/Aurora should evaluate enabling the add-on for their organization this quarter via the GuardDuty console or CloudFormation.
 - **CI/CD — Skip**

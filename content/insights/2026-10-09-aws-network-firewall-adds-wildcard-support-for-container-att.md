@@ -9,7 +9,7 @@ tags: ["aws", "network-firewall", "kubernetes"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA feature worth adopting for teams using AWS Network Firewall with EKS/ECS — wildcard patterns like app=payments-* can replace per-variant rules, reducing rule sprawl in dynamic container environments. Evaluate and consolidate existing container attribute rules this quarter.
 - **CI/CD — Skip**

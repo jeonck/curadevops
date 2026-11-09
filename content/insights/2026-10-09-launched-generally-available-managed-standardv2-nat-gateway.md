@@ -9,7 +9,7 @@ tags: ["aks", "networking", "azure"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=574430"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** StandardV2 is now the default managed NAT Gateway SKU for new AKS clusters in supported regions, which may affect cluster provisioning templates and IaC modules. Review and update cluster-creation configurations to account for the new default SKU before spinning up new clusters.
 - **CI/CD — Skip**

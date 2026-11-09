@@ -9,7 +9,7 @@ tags: ["azure", "kubernetes", "secrets-management"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=570313"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you run Azure Arc-enabled Kubernetes clusters, plan migration from the Azure Key Vault Secrets Provider Extension to the Azure Key Vault Secret Store Extension before the hard retirement date of October 9, 2027. One year is enough runway to schedule the migration, but start scoping which clusters are affected now.
 - **CI/CD — Skip**
