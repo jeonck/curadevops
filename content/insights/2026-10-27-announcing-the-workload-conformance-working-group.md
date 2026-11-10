@@ -9,7 +9,7 @@ tags: ["kubernetes", "workload-conformance", "standards"]
 cves: []
 source: "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** The WG targets exactly the repeated per-cluster workload assessments operators do today — node-drain tolerance, removed-API dependencies, over-privileged containers. Worth tracking as the spec develops, but the deliverable doesn't exist yet so there's nothing to act on.
 - **CI/CD — Skip**

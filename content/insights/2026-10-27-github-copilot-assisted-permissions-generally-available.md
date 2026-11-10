@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-tools", "permissions"]
 cves: []
 source: "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws", "workspaces", "storage"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** If your org runs WorkSpaces Core Managed Instances, this GA capability removes the previous requirement to rebuild instances for storage changes — useful to know for future capacity planning, but no action needed today.
 - **CI/CD — Skip**

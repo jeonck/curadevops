@@ -9,7 +9,7 @@ tags: ["ai-observability", "grafana", "llm-ops"]
 cves: []
 source: "https://grafana.com/blog/agent-observability-faq-understand-the-value-of-monitoring-evaluating-and-improving-your-ai-agents/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability in Grafana Cloud adds LLM-specific observability (latency, token costs, PII detection) on top of the existing stack; worth evaluating if the team manages AI workloads, but no deadline or forced migration.
 - **CI/CD — Learn:** The deployment-gate angle (using agent quality experiments as CI gates) is genuinely novel, but requires Grafana Cloud adoption and AI agent deployments before it becomes actionable — nothing to change in pipelines today.
