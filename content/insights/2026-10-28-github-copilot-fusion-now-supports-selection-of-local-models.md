@@ -9,7 +9,7 @@ tags: ["github-copilot", "ai-coding", "local-models"]
 cves: []
 source: "https://github.blog/changelog/2026-10-28-github-copilot-fusion-now-supports-selection-of-local-models"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["kubernetes", "paas", "platform-engineering"]
 cves: []
 source: "https://github.com/zeabur-oss/zeabur"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** An early-stage self-hosted PaaS layer on top of Kubernetes worth watching as an IDP building block, but with only 115 stars and no enrichment signals it's too immature to evaluate for production adoption today.
 - **CI/CD — Skip**

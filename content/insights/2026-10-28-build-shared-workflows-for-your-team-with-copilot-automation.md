@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "ai-workflows"]
 cves: []
 source: "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Shared Copilot Automations let teams compose AI-driven workflows with prompts, triggers, and tools — worth evaluating if your org uses GitHub Copilot heavily, but no pipeline migration or deadline to act on yet.

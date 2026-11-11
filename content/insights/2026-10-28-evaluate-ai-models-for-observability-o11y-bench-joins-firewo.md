@@ -9,7 +9,7 @@ tags: ["observability", "ai-models", "benchmarking"]
 cves: []
 source: "https://grafana.com/blog/evaluate-ai-models-for-observability-o11y-bench-joins-fireworks-specialized-intelligence-index-and-reaches-v1-1/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** o11y-bench provides a structured way to evaluate AI models on real SRE workflows—metric queries, incident investigation, dashboard management—which may inform future AI tooling decisions for the observability stack, but nothing in production needs to change today.
 - **CI/CD — Skip**
