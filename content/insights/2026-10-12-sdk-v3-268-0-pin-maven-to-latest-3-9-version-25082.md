@@ -9,7 +9,7 @@ tags: ["pulumi", "java", "iac"]
 cves: []
 source: "https://github.com/pulumi/pulumi/releases/tag/sdk%2Fv3.268.0"
 source_name: "Releases: pulumi"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you use pulumi-java with Maven 3.10, plugin downloads are silently broken because Maven 3.10 mixes log output into stdout and corrupts JSON parsing; upgrade to Pulumi SDK v3.268.0 to restore correct behavior while the upstream Maven bug is resolved.
 - **CI/CD — Skip**

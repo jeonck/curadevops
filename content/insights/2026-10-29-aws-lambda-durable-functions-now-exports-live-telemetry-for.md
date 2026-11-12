@@ -9,7 +9,7 @@ tags: ["aws-lambda", "observability", "serverless"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA observability plugin for Lambda durable functions exports execution history to 13 destinations including CloudWatch, S3, and OpenSearch; worth noting when designing telemetry for serverless workflows, but installed at the function-code level so no platform infrastructure change required.
 - **CI/CD — Skip**

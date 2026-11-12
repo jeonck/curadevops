@@ -9,7 +9,7 @@ tags: ["dependabot", "supply-chain", "github-actions"]
 cves: []
 source: "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your org runs internal package mirrors accessible without credentials, configure the new Anonymous auth method at the org level to simplify Dependabot registry setup and reduce credential management overhead.

@@ -9,7 +9,7 @@ tags: ["cloudfront", "lambda", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability changes how serverless web apps can be architected on AWS — Lambda Web Functions can now sit behind CloudFront for edge TLS, caching, DDoS protection, and WAF, with OAC locking down direct access. Worth evaluating for teams running Lambda-based web workloads this quarter.
 - **CI/CD — Skip**

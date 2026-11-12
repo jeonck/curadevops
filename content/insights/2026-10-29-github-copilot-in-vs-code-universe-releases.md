@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-tooling", "vs-code"]
 cves: []
 source: "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

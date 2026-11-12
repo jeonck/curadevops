@@ -9,7 +9,7 @@ tags: ["aws-lambda", "serverless", "cloud-compute"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA AWS Lambda primitive supporting direct HTTP handling (Express/Hono, no adapters) with a different billing model; worth tracking for future platform architecture patterns, but no existing infrastructure needs changing and existing Lambda Event Functions require no migration.
 - **CI/CD — Skip**

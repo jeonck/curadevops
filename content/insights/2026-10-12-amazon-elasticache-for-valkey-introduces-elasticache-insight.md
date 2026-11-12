@@ -9,7 +9,7 @@ tags: ["elasticache", "observability", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** A new GA CloudWatch dashboard surfacing OTel metrics (memory, network, latency, keyspace, errors) for Valkey node clusters — worth scheduling adoption to consolidate cache observability; note that detailed 15-second metrics incur standard CloudWatch OTel pricing.
 - **CI/CD — Skip**

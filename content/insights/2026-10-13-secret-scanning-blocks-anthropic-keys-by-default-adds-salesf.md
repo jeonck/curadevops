@@ -9,7 +9,7 @@ tags: ["secret-scanning", "supply-chain", "github"]
 cves: []
 source: "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Verify your repositories have push protection enabled and audit any existing Anthropic API keys or Salesforce credentials in build logs or secrets; no deadline but this is a worthwhile supply-chain hardening step to schedule.

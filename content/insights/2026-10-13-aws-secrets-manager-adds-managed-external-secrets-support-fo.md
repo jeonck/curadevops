@@ -9,7 +9,7 @@ tags: ["secrets-management", "aws", "databricks"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability worth evaluating this quarter for any workloads using Databricks or Twilio: eliminates custom rotation Lambda functions and ensures applications pick up rotated credentials automatically without code changes.
 - **CI/CD — Learn:** Relevant if pipelines consume Databricks personal access tokens or Twilio API keys, but there is no deadline or pipeline breakage — file as a pattern to consider when next reviewing how build credentials are rotated.

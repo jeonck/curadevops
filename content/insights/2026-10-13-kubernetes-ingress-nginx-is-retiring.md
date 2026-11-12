@@ -9,7 +9,7 @@ tags: ["kubernetes", "ingress", "deprecation"]
 cves: []
 source: "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** ingress-nginx is one of the most widely deployed Kubernetes ingress controllers; its retirement means planning a migration to an alternative (Gateway API, Traefik, Emissary, etc.) before it goes unmaintained. No hard deadline surfaced in signals, so schedule migration evaluation this quarter.
 - **CI/CD — Skip**

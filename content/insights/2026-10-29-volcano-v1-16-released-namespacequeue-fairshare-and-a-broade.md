@@ -9,7 +9,7 @@ tags: ["kubernetes", "batch-scheduling", "multi-tenancy"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/28/volcano-v1-16-released-namespacequeue-fairshare-and-a-broader-hypernode-ecosystem/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Volcano v1.16 introduces namespace-scoped hierarchical queues and fairshare scheduling, worth evaluating if you run batch or ML workloads on Kubernetes; no EOL pressure or breaking changes signaled.
 - **CI/CD — Skip**

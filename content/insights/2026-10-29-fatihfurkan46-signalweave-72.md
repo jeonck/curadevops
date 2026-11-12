@@ -9,7 +9,7 @@ tags: ["observability", "metrics", "platform-engineering"]
 cves: []
 source: "https://github.com/fatihfurkan46/SignalWeave"
 source_name: "GitHub Trending"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A small early-stage project (72 stars, no enrichment signals) for aggregating noisy service metrics into explainable health signals — worth a bookmark for SREs designing health-score systems, but nothing to adopt today.
 - **CI/CD — Skip**

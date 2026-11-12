@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-workloads", "sig-architecture"]
 cves: []
 source: "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/"
 source_name: "Kubernetes Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Kubernetes is formalizing AI workload conformance standards under SIG Architecture, which shapes how AI inference and training workloads will be certified to run on Kubernetes; no operational change needed today, but worth tracking as conformance requirements may influence cluster configuration choices for AI workloads.
 - **CI/CD — Skip**
