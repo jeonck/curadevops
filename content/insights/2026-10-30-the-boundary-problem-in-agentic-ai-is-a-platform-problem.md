@@ -9,7 +9,7 @@ tags: ["agentic-ai", "platform-engineering", "security"]
 cves: []
 source: "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Frames agentic AI risk as a platform design question — what tools and permissions are exposed to agents defines the blast radius. Worth reading as platform teams start exposing internal APIs to AI agents.
 - **CI/CD — Skip**

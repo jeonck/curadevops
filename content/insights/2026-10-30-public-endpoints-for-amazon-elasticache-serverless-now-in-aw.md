@@ -9,7 +9,7 @@ tags: ["elasticache", "govcloud", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** GovCloud parity for ElastiCache Serverless public endpoints means IAM-authenticated Valkey caches can now be reached outside a VPC in GovCloud without a bastion or VPN. Worth noting for any GovCloud workloads that need serverless caching with simplified network topology.
 - **CI/CD — Skip**
