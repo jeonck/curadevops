@@ -9,7 +9,7 @@ tags: ["code-scanning", "github-actions", "security-automation"]
 cves: []
 source: "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** This GA feature can automatically remediate code scanning alerts within your GitHub workflows, reducing manual triage burden. Evaluate enabling it on repositories that use GitHub Advanced Security to tighten the security feedback loop in your pipelines.

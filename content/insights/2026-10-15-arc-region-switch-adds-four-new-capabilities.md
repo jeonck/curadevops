@@ -9,7 +9,7 @@ tags: ["disaster-recovery", "aws-arc", "multi-region"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** The new service quota parity checks and wait-for-target-group-health blocks directly address common multi-region failover failure modes; platform teams using ARC Region switch should evaluate updating their recovery plans to incorporate these execution blocks this quarter.
 - **CI/CD — Skip**

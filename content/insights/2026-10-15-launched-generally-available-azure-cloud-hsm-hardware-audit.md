@@ -9,7 +9,7 @@ tags: ["azure", "hsm", "compliance"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576377"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GA hardware-level audit logging for Azure Cloud HSM is a concrete compliance and forensic capability; orgs using HSM for key management should schedule enablement and integrate log feeds into their SIEM/observability pipeline this quarter.
 - **CI/CD — Skip**

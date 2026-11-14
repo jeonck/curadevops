@@ -9,7 +9,7 @@ tags: ["aws-lambda", "serverless", "agentic-workflows"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your platform runs multi-step or agentic Lambda workflows, the 30,000 operation limit and 1 MB checkpoint open up architectures previously blocked by quota; evaluate whether existing workflows hitting the old 3,000-op ceiling should be redesigned to take advantage.
 - **CI/CD — Skip**

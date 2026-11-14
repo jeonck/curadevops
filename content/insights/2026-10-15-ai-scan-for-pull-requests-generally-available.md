@@ -9,7 +9,7 @@ tags: ["github-actions", "code-scanning", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** GitHub's AI Scan for PRs is now GA, extending code vulnerability detection to languages and frameworks CodeQL doesn't cover — evaluate enabling it in your GitHub Actions workflows this quarter to broaden supply-chain security coverage.

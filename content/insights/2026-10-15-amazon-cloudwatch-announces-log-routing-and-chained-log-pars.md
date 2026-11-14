@@ -9,7 +9,7 @@ tags: ["observability", "aws-cloudwatch", "log-management"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA CloudWatch Pipelines capabilities let you split log streams by severity, source, or type into separate log groups with distinct retention and access controls, and apply sequential parsers to nested formats. Worth evaluating this quarter if you're using CloudWatch Pipelines or considering consolidating log routing into a managed service.
 - **CI/CD — Skip**

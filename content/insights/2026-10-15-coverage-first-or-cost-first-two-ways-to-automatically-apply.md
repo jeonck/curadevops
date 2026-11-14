@@ -9,7 +9,7 @@ tags: ["observability", "cost-optimization", "grafana"]
 cves: []
 source: "https://grafana.com/blog/coverage-first-or-cost-first-two-ways-to-automatically-apply-adaptive-metrics-recommendations/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your team runs Grafana Cloud with Adaptive Metrics, this new GA cost-first auto-apply mode can reduce active series counts without manual review — evaluate enabling it this quarter to lower observability ingestion costs.
 - **CI/CD — Skip**

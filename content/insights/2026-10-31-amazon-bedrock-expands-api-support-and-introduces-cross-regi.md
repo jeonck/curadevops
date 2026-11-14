@@ -9,7 +9,7 @@ tags: ["aws-bedrock", "govcloud", "ai-inference"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability in GovCloud: Cross-Region Inference auto-routes requests across both GovCloud regions for throughput and redundancy, with native Bedrock observability (CloudWatch, S3 logging, Cost Explorer). Worth noting for platform teams operating AI workloads under US data-sovereignty constraints, but no operational change required today.
 - **CI/CD — Skip**

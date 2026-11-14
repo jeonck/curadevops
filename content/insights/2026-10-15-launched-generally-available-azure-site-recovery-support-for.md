@@ -9,7 +9,7 @@ tags: ["azure", "disaster-recovery", "arc"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576214"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If you manage ARC-enabled VMware or physical Windows servers, evaluate adding ASR for disaster recovery coverage this quarter — this closes a gap for hybrid infrastructure protection.
 - **CI/CD — Skip**

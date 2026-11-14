@@ -9,7 +9,7 @@ tags: ["ubuntu-pro", "license-management", "aws-marketplace"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability lets teams upgrade EC2 Ubuntu LTS fleets to Ubuntu Pro in-place via License Manager without AMI rebuilds, unlocking 10-year patch coverage and Kernel Livepatch. Worth evaluating this quarter if running Ubuntu LTS instances with compliance or extended-support requirements.
 - **CI/CD — Skip**
