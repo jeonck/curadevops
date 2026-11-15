@@ -9,7 +9,7 @@ tags: ["aws", "ec2", "time-sync"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability enabling precision time on Gen8/Gen9 instance families via Precision Time Placement Groups; evaluate PTPG adoption this quarter for distributed workloads requiring ordered event sequencing or accurate one-way latency measurement.
 - **CI/CD — Skip**

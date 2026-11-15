@@ -9,7 +9,7 @@ tags: ["license-compliance", "supply-chain", "github-enterprise"]
 cves: []
 source: "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** New GA GitHub Enterprise Cloud feature enables ruleset-based OSS license checks in pipelines; schedule evaluation to enforce centralized license policy as a supply-chain hardening step this quarter.

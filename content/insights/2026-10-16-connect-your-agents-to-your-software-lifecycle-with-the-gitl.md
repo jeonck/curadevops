@@ -9,7 +9,7 @@ tags: ["gitlab", "mcp", "ai-agents"]
 cves: []
 source: "https://about.gitlab.com/blog/mcp-server-ga/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** The GitLab MCP server is now GA with 19.5, letting MCP-compatible agents drive merge requests, pipelines, and work items under existing GitLab permissions. Evaluate integrating it into agentic pipeline automation workflows this quarter.

@@ -9,7 +9,7 @@ tags: ["azure", "availability", "virtual-machines"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576334"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA Azure VMSS capability that passively redistributes VM instances across availability zones to prevent zonal skew; assess whether existing VMSS deployments should enable it this quarter to improve resilience without manual rebalancing.
 - **CI/CD — Skip**
