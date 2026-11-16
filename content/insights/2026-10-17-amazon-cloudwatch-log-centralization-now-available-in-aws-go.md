@@ -9,7 +9,7 @@ tags: ["cloudwatch", "observability", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org operates in GovCloud or any of the newly supported commercial regions, this GA feature lets you centralize logs across accounts via AWS Organizations without custom pipelines — worth adding to your observability architecture this quarter.
 - **CI/CD — Skip**

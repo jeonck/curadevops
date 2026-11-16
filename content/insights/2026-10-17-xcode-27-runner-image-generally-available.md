@@ -9,7 +9,7 @@ tags: ["github-actions", "runner-images", "ios-macos"]
 cves: []
 source: "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** The Xcode 27 hosted runner is now GA on GitHub Actions after public preview; if your team builds or tests Apple platform apps, schedule adoption to stay on current toolchain and avoid future runner deprecations.

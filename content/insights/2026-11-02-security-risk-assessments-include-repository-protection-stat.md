@@ -9,7 +9,7 @@ tags: ["github", "supply-chain-security", "devsecops"]
 cves: []
 source: "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** GitHub's secret and code risk assessments now flag whether vulnerable findings live in protected or unprotected repositories, which helps prioritize where to extend branch protection and secret scanning coverage in your pipelines.
