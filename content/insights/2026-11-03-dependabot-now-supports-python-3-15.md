@@ -9,7 +9,7 @@ tags: ["dependabot", "python", "supply-chain"]
 cves: []
 source: "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Dependabot now covers Python 3.15 dependencies on github.com, so teams planning a Python 3.15 migration can count on automated dependency PRs from day one; no pipeline change required unless you're actively upgrading.

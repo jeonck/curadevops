@@ -9,7 +9,7 @@ tags: ["kubernetes", "workload-orchestration", "cncf"]
 cves: []
 source: "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A minor-version GA release of OpenKruise Agents with sandbox security and automation improvements; worth evaluating if you run OpenKruise for workload orchestration, but no forced upgrade or EOL deadline present.
 - **CI/CD — Skip**

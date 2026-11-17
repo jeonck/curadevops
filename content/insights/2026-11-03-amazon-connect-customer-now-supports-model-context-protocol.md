@@ -9,7 +9,7 @@ tags: ["amazon-connect", "mcp", "ai-agents"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
