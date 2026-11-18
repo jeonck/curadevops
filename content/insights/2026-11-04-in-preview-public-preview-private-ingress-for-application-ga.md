@@ -9,7 +9,7 @@ tags: ["azure", "ingress", "networking"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576393"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Private Link-based ingress for Application Gateway for Containers is an interesting architecture option for internal workloads, but it's pre-GA preview so no action is warranted yet — monitor for GA.
 - **CI/CD — Skip**

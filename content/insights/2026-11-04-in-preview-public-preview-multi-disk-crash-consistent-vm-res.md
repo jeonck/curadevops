@@ -9,7 +9,7 @@ tags: ["azure", "backup-recovery", "preview"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=579162"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Agentless crash-consistent restore points covering Premium SSD v2 and Ultra Disks on SCSI VMs is worth tracking for future backup architecture decisions, but it's pre-GA so no action yet.
 - **CI/CD — Skip**

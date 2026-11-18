@@ -9,7 +9,7 @@ tags: ["observability", "opentelemetry", "grafana-alloy"]
 cves: []
 source: "https://grafana.com/blog/bridging-alloy-and-opentelemetry-the-otel-engine-is-now-in-public-preview/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public Preview means pre-GA, so no production adoption yet, but platform engineers running Alloy for observability pipelines should track this — the native OTLP engine could simplify mixed Prometheus/OTel collector setups when it reaches GA.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["opentofu", "terraform", "iac"]
 cves: []
 source: "https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Oracle's adoption of OpenTofu adds credibility to the fork as a production-grade Terraform alternative, reinforcing the case for teams still evaluating their IaC path after HashiCorp's BSL relicensing — but no deadline or forced action exists here.
 - **CI/CD — Skip**

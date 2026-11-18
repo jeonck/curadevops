@@ -9,7 +9,7 @@ tags: ["guardduty", "runtime-security", "aws"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** GuardDuty Runtime Monitoring now supports 50+ tunable detection rules for EC2, EKS, and ECS workloads, covering MITRE ATT&CK tactics like persistence and privilege escalation. Evaluate and enable relevant rules this quarter, using dry-run mode first to reduce false positives before going live.
 - **CI/CD — Skip**

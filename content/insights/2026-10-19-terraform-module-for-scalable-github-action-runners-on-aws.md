@@ -9,7 +9,7 @@ tags: ["github-actions", "terraform", "aws"]
 cves: []
 source: "https://github.com/philips-labs/terraform-aws-github-runner"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This open-source module automates ephemeral, auto-scaling GitHub Actions runner fleets on AWS via Terraform — worth evaluating if the org self-hosts runners on EKS or EC2 and wants to reduce idle capacity costs.
 - **CI/CD — Plan:** Teams running self-hosted GitHub Actions runners on AWS should evaluate this module to gain on-demand ephemeral runners and eliminate persistent runner maintenance overhead; no deadline, but a useful near-term adoption candidate.

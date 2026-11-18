@@ -9,7 +9,7 @@ tags: ["azure", "api-gateway", "security"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576382"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Public preview of centralized JWT validation via AuthPolicy in Application Gateway for Containers — worth evaluating if you use AGfC as your ingress layer, but pre-GA so no production adoption yet.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["dependabot", "supply-chain", "ai-agents"]
 cves: []
 source: "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Learn:** Dependabot can now auto-open PRs to keep AI agent skills, prompts, and instructions current via APM — worth knowing for teams building agent-based workflows, but not broadly actionable until APM adoption grows.

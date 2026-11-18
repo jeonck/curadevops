@@ -9,7 +9,7 @@ tags: ["kubernetes", "ai-agents", "security"]
 cves: []
 source: "https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A practical guide on running AI agents (shell access, network connections, package installs) safely on Kubernetes — useful for platform engineers evaluating isolation and security controls for agentic workloads, but no action is required today.
 - **CI/CD — Skip**

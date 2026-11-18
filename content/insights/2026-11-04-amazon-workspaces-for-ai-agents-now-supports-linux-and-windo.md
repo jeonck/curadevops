@@ -9,7 +9,7 @@ tags: ["aws", "ai-agents", "cloud-desktop"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** New GA capability extending WorkSpaces for AI agents to Linux and Windows 11; worth evaluating if your org is exploring agentic workflows on managed desktops, but no operational change required to existing infrastructure.
 - **CI/CD — Learn:** Linux desktop support with root access could inform agentic CI/build automation patterns, but this is a new capability to evaluate rather than an urgent pipeline change.

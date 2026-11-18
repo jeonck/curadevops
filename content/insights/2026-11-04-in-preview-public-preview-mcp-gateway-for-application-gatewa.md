@@ -9,7 +9,7 @@ tags: ["azure", "gateway", "mcp"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=576388"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Pre-GA preview of MCP server routing via Application Gateway for Containers; worth tracking if your platform hosts AI agent workloads, but no action warranted until GA.
 - **CI/CD — Skip**
