@@ -9,7 +9,7 @@ tags: ["github-copilot", "model-deprecation", "developer-tooling"]
 cves: []
 source: "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

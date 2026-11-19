@@ -9,7 +9,7 @@ tags: ["aws-console", "ec2-vpc", "observability"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful console improvement for troubleshooting infrastructure dependencies — platform engineers can now trace EC2 instances to their EBS volumes, subnets, route tables, and security groups from a single toolbar tab, reducing context-switching during incident investigation. No action required; awareness is the value.
 - **CI/CD — Skip**

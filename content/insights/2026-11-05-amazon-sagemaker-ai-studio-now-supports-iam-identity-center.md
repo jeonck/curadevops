@@ -9,7 +9,7 @@ tags: ["aws", "iam", "sagemaker"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful if your org runs SageMaker Studio across regions with a centralized IdC instance; no urgent action required, but worth noting when designing multi-region IAM architectures.
 - **CI/CD — Skip**

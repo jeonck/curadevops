@@ -9,7 +9,7 @@ tags: ["github-copilot", "enterprise-governance", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["azure-monitor", "observability", "finops"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=577165"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA feature lets you audit Azure Monitor workspace consumption — identify unused metrics and right-size ingestion this quarter; no forced deadline but directly actionable for cost and hygiene.
 - **CI/CD — Skip**

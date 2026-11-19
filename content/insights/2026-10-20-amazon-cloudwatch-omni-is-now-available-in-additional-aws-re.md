@@ -9,7 +9,7 @@ tags: ["observability", "aws", "cloudwatch"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** CloudWatch Omni is now GA in more regions including major global hubs; platform teams running multi-region or multi-cloud observability stacks should evaluate adopting it as a replacement or complement to their existing Prometheus/Grafana/OpenTelemetry pipeline this quarter.
 - **CI/CD — Skip**
