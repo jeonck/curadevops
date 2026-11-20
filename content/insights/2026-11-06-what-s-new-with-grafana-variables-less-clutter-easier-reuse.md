@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "dashboards"]
 cves: []
 source: "https://grafana.com/blog/whats-new-with-grafana-variables-less-clutter-easier-reuse-across-dashboards-and-more/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Section-level variables are now GA and can reduce top-bar clutter on complex observability dashboards; worth evaluating for teams maintaining large Grafana setups, but no infrastructure change required. Cross-dashboard variable reuse remains in public preview so it's watch-and-wait.
 - **CI/CD — Skip**

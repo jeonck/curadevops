@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-metrics", "api"]
 cves: []
 source: "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["aws-iam", "identity-management", "active-directory"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA capability removes a major operational barrier: migrating IAM Identity Center from Active Directory to an external IdP (Okta, Entra ID) no longer requires recreating users, groups, and permission assignments. If an AD-to-IdP identity migration is on the roadmap, schedule an evaluation of this simplified path.
 - **CI/CD — Skip**

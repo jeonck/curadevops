@@ -9,7 +9,7 @@ tags: ["docker", "ai-agents", "container-isolation"]
 cves: []
 source: "https://www.docker.com/blog/docker-sandboxes-vs-containers/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful framing for platform engineers evaluating isolation boundaries when running AI agent workloads — microVMs (own kernel, private Docker Engine) vs shared-kernel containers is a real architectural tradeoff, but no action is required today.
 - **CI/CD — Skip**

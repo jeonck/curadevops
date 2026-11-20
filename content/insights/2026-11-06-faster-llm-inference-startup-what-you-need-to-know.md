@@ -9,7 +9,7 @@ tags: ["llm-inference", "kubernetes", "platform-engineering"]
 cves: []
 source: "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/"
 source_name: "CNCF Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Useful mental model for platform engineers running LLM serving workloads on Kubernetes — covers the startup phases (weight loading, GPU resource init, kernel compilation) that affect replica scale-out latency and readiness probe design. No action required; file for the next time you're sizing inference node pools or tuning startup probes.
 - **CI/CD — Skip**

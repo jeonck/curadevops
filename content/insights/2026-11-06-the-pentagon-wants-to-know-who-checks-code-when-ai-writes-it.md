@@ -9,7 +9,7 @@ tags: ["ai-governance", "compliance", "software-policy"]
 cves: []
 source: "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/"
 source_name: "GitLab Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

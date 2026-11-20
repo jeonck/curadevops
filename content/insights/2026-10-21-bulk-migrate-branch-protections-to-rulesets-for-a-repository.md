@@ -9,7 +9,7 @@ tags: ["github", "branch-protection", "rulesets"]
 cves: []
 source: "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your repos still use legacy branch protection rules, schedule a migration to rulesets using this new bulk-convert action — rulesets offer better inheritance and auditability across org-wide pipelines.

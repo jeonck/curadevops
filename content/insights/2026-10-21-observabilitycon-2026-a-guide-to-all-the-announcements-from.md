@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "ai-operations"]
 cves: []
 source: "https://grafana.com/blog/observabilitycon-2026-announcements/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Several new GA Grafana Cloud capabilities — including always-on Assistant Watchers that detect anomalies outside predefined alert rules — are worth evaluating for teams running Grafana Cloud as their observability platform. No hard deadline, but the features are GA and relevant to how observability stacks are architected this quarter.
 - **CI/CD — Skip**

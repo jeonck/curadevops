@@ -9,7 +9,7 @@ tags: ["amazon-ecs", "ingress-networking", "load-balancing"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** New GA managed-service capability that changes how ECS ingress is architected — centralized ALB lifecycle management and ALB sharing across up to 25 services could simplify governance and reduce load balancer sprawl. Evaluate ECS Gateway as an alternative to custom ALB provisioning patterns in ECS environments this quarter.
 - **CI/CD — Skip**

@@ -9,7 +9,7 @@ tags: ["azure", "observability", "monitoring"]
 cves: []
 source: "https://azure.microsoft.com/updates?id=575329"
 source_name: "Azure Updates"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Finer-grained Azure Monitor signals can improve incident detection and trend analysis for Azure-based platforms; evaluate enabling advanced metrics across key resources this quarter.
 - **CI/CD — Skip**

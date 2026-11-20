@@ -9,7 +9,7 @@ tags: ["kubernetes", "gpu", "nvidia"]
 cves: []
 source: "https://github.com/dsx-ai-factory/nvke"
 source_name: "HN (kubernetes)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** A Kubernetes engine purpose-built for Nvidia GPU workloads is worth evaluating if you operate GPU node pools; no GA status, EOL dates, or migration requirements are established yet.
 - **CI/CD — Skip**

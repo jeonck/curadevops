@@ -9,7 +9,7 @@ tags: ["observability", "grafana-cloud", "incident-management"]
 cves: []
 source: "https://grafana.com/blog/full-stack-observability-with-knowledge-graph/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** If your org runs Grafana Cloud, the Knowledge Graph's GA expansion — connecting service catalog, on-call ownership, and past-incident context into a unified runtime view — is worth evaluating this quarter to improve investigation workflows and reduce MTTR.
 - **CI/CD — Skip**

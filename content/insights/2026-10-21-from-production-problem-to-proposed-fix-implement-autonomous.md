@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "ai-operations"]
 cves: []
 source: "https://grafana.com/blog/grafana-ai-autonomous-operations/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Assistant Watchers and Investigations are now GA in Grafana Cloud, adding AI-driven monitoring and automated evidence gathering to the observability workflow — evaluate adopting these for on-call runbooks this quarter; Managed Sandboxes remain public preview so hold off on that piece.
 - **CI/CD — Skip**

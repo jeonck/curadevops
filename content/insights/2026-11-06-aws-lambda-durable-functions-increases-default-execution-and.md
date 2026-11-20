@@ -9,7 +9,7 @@ tags: ["aws-lambda", "quotas", "serverless"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-functions-default-quotas/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Lambda durable function quotas are automatically raised 10x (e.g., running executions from 1M to 5M), with no migration or reconfiguration needed; useful context if your org runs order-processing or AI-workflow patterns on this service and was approaching previous limits.
 - **CI/CD — Skip**
