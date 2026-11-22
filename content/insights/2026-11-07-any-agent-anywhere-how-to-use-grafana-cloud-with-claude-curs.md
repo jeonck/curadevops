@@ -9,7 +9,7 @@ tags: ["grafana", "observability", "ai-agents"]
 cves: []
 source: "https://grafana.com/blog/any-agent-anywhere-how-to-use-grafana-cloud-with-claude-cursor-and-any-other-ai-agent/"
 source_name: "Grafana Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Learn:** Grafana's MCP server lets AI coding agents query observability data directly, changing how SREs might investigate production issues; no urgency or migration required, but worth evaluating if your team already uses Claude or Cursor alongside Grafana Cloud.
 - **CI/CD — Skip**

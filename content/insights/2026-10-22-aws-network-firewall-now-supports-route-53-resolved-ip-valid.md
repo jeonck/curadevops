@@ -9,7 +9,7 @@ tags: ["aws", "network-security", "firewall"]
 cves: []
 source: "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/"
 source_name: "AWS What's New"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** This GA capability closes a real security gap by validating destination IPs against Route 53-resolved addresses, extending domain-based filtering to SFTP, SSH, and other protocols beyond HTTP/HTTPS. Evaluate adding Route 53 Resolved IP Validation to existing Network Firewall policies to harden egress controls and prevent SNI spoofing.
 - **CI/CD — Skip**

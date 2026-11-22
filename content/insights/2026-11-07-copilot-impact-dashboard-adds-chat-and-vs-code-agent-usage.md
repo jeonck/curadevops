@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "metrics"]
 cves: []
 source: "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**

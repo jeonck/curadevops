@@ -9,7 +9,7 @@ tags: ["php2shell", "docker-security", "base-images"]
 cves: ["CVE-2026-109618", "CVE-2026-109619"]
 source: "https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/"
 source_name: "Docker Blog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** Two critical PHP CVEs affect Docker images built on PHP; audit pipelines for PHP-based container images and update base images to patched PHP versions. Neither CVE is KEV-listed and EPSS scores are low (0.12/0.06), so no emergency, but schedule the base-image refresh this sprint.

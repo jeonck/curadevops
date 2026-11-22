@@ -9,7 +9,7 @@ tags: ["github-actions", "ci-cd", "networking"]
 cves: []
 source: "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Plan:** If your runners operate behind strict outbound firewall or IP allowlist rules, review and update allowlists to include the new GitHub Actions blob storage endpoints surfaced in the meta API — no deadline given, but unpatched allowlists could silently break artifact uploads or caching.

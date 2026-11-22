@@ -9,7 +9,7 @@ tags: ["terraform", "iac", "vendor-risk"]
 cves: []
 source: "https://github.com/opentffoundation/roadmap/issues/24#issuecomment-1699535216"
 source_name: "HN (terraform)"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Plan:** Platform teams pulling providers and modules from the public Terraform Registry are subject to the revised ToS; review the updated terms and evaluate whether to implement a provider network mirror or private registry to ensure automated and commercial usage remains compliant.
 - **CI/CD — Plan:** CI pipelines that run `terraform init` against the public registry are exposed to ToS restrictions on automated usage; audit pipeline patterns and consider mirroring providers or switching to the OpenTofu registry to keep builds compliant.

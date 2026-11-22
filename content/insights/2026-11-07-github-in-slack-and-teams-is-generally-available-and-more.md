@@ -9,7 +9,7 @@ tags: ["github-copilot", "developer-experience", "integrations"]
 cves: []
 source: "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available"
 source_name: "GitHub Changelog"
-status: "active"
+status: "archived"
 ---
 - **Platform/SRE — Skip**
 - **CI/CD — Skip**
