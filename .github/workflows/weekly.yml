@@ -1,8 +1,8 @@
 name: Weekly Research
 
 on:
-  schedule:
-    - cron: "0 12 * * 1" # Mondays 12:00 UTC — Release Radar (tracked repos minor/major releases)
+  # schedule:
+    # - cron: "0 12 * * 1" # Mondays 12:00 UTC — Release Radar (tracked repos minor/major releases)
   workflow_dispatch:
 
 permissions:
